@@ -1,0 +1,3410 @@
+{
+  "USD": {
+    "0.0": {
+      "n/a, no details": [
+        "https://orders.servercomplete.com/?pid=120",
+        "https://orders.servercomplete.com/?pid=139",
+        "https://nexusbytes.com/cart.php?gid=1"
+      ],
+      "n/a, no details, n/a": [
+        "https://order.servermania.com/configure/101?period=1&quantity=1&options=1330",
+        "https://order.servermania.com/configure/244?period=1&quantity=1&options=1330",
+        "https://order.servermania.com/configure/339?utmsource=lowendbox&utmmedium=forum&utmcampaign=blackfriday",
+        "https://cc.delimiter.com/cart/cloudstorage-vps/",
+        "https://order.servermania.com/configure/340?period=1&quantity=1&options=1330",
+        "https://order.servermania.com/configure/341?utmsource=lowendbox&utmmedium=forum&utmcampaign=blackfriday"
+      ]
+    },
+    "0.05": {
+      "n/a, n/a, 100 MB, n/a, SAS": [
+        "https://billing.joesdatacenter.com/cart.php?a=add&pid=23"
+      ]
+    },
+    "0.1": {
+      "n/a, no details": [
+        "https://my.simplercloud.com/index.php?/cart&action=add&id=8&catid=2",
+        "https://my.simplercloud.com/index.php?/cart/&step=3"
+      ]
+    },
+    "0.2": {
+      "n/a, no details, n/a": [
+        "https://www.psychz.net/dashboard/client/web/order/plan/389",
+        "https://www.psychz.net/dashboard/client/web/order/plan/389?utmsource=lowendbox&utmmedium=blog-post&utmcontent=lowendbox-1gbps-la-unmetered&utmcampaign=lowendbox-blog-post"
+      ]
+    },
+    "0.9": {
+      "n/a, no details, n/a": [
+        "https://my.limitlesshost.net/order/config/index/de-sharedhosting/?groupid=33&pricingid=246&coupon=LEBDA40",
+        "https://my.limitlesshost.net/order/config/index/de-sharedhosting/?groupid=33&pricingid=246&coupon=XS50",
+        "https://my.limitlesshost.net/order/config/index/de-sharedhosting/?groupid=33&pricingid=252&coupon=MEDIUM50",
+        "https://my.limitlesshost.net/order/config/index/de-sharedhosting/?groupid=33&pricingid=255&coupon=LEBDA40",
+        "https://my.limitlesshost.net/order/config/index/eu-resellerhosting/?groupid=38&pricingid=291&coupon=LEBRESELLER50",
+        "https://my.limitlesshost.net/order/config/index/eu-resellerhosting/?groupid=38&pricingid=297&coupon=RESELLERLARGE",
+        "https://my.limitlesshost.net/order/config/index/software-license/?groupid=49&pricingid=409",
+        "https://my.limitlesshost.net/order/config/index/usa-resellerhosting/?groupid=41&pricingid=333&coupon=LEBRESELLER50",
+        "https://my.limitlesshost.net/order/config/index/usa-resellerhosting/?groupid=41&pricingid=333&coupon=RESELLERSMALL",
+        "https://my.limitlesshost.net/order/config/index/usa-resellerhosting/?groupid=41&pricingid=336&coupon=LEBRESELLER50",
+        "https://my.limitlesshost.net/order/config/index/usahosting-da/?groupid=39&pricingid=303&coupon=LEBDA40",
+        "https://my.limitlesshost.net/order/config/index/usahosting-da/?groupid=39&pricingid=303&coupon=XS50",
+        "https://my.limitlesshost.net/order/config/index/usahosting-da/?groupid=39&pricingid=309&coupon=MEDIUM50",
+        "https://my.limitlesshost.net/order/config/index/usahosting-da/?groupid=39&pricingid=312&coupon=LEBDA40",
+        "https://my.limitlesshost.net/order/config/index/usahosting-da/?groupid=39&pricingid=315&LIMITLESS50",
+        "https://my.limitlesshost.net/order/config/index/wisecp/?groupid=44&pricingid=402&coupon=WISECPBRANDED",
+        "https://my.limitlesshost.net/order/config/index/wisecp/?groupid=44&pricingid=403&coupon=WISECPUNBRANDED",
+        "https://my.limitlesshost.net/order/config/index/wisecp/?groupid=44&pricingid=404&coupon=WISECPLIFETIME"
+      ],
+      "n/a, no details": [
+        "https://my.limitlesshost.net/order/config/index/kvmvps-nvme/?groupid=46&pricingid=367&coupon=KVMSTARTER",
+        "https://my.limitlesshost.net/order/config/index/kvmvps-nvme/?groupid=46&pricingid=371&coupon=KVM1",
+        "https://my.limitlesshost.net/order/config/index/kvmvps-nvme/?groupid=46&pricingid=375&coupon=KVM2",
+        "https://my.limitlesshost.net/order/config/index/kvmvps-nvme/?groupid=46&pricingid=379&coupon=KVM3"
+      ]
+    },
+    "0.99": {
+      "n/a, no details": [
+        "https://lowendbox.com/blog/buyvm-15year-128mb-openvz-vps-is-available-for-ordering-again/"
+      ]
+    },
+    "1.0": {
+      "n/a, no details": [
+        "http://ipxcore.com/order/cart.php?gid=1",
+        "http://ipxcore.com/order/link.php?id=17"
+      ]
+    },
+    "1.25": {
+      "n/a, no details": [
+        "https://eportal.directspace.net/cart.php?gid=22",
+        "https://billing.virmach.com/cart.php?a=add&pid=60&promocode=LEB2017256",
+        "https://virmach.com/manage/cart.php?a=add&pid=7"
+      ],
+      "n/a, no details, NVME": [
+        "https://nexusbytes.com/cart.php?gid=21"
+      ]
+    },
+    "1.5": {
+      "n/a, n/a, 1 GB, n/a, n/a": [
+        "http://hostmayo.com/members/order.php?step=1&productGroup=1&product=122",
+        "http://hostmayo.com/members/order.php?step=1&productGroup=1&product=123",
+        "http://hostmayo.com/members/order.php?step=1&productGroup=1&product=124",
+        "http://hostmayo.com/members/order.php?step=1&productGroup=1&product=125",
+        "https://hostmayo.com/members/order.php?step=1&productGroup=1&product=122",
+        "https://hostmayo.com/members/order.php?step=1&productGroup=1&product=124",
+        "https://hostmayo.com/members/order.php?step=1&productGroup=1&product=125",
+        "https://hostmayo.com/members/order.php?step=1&productGroup=1&product=141"
+      ],
+      "n/a, no details": [
+        "https://www.webhosting1st.com/clientarea/order/config/index/vps/?groupid=6&pricingid=66",
+        "https://www.webhosting1st.com/clientarea/order/config/index/vps/?groupid=6&pricingid=98"
+      ]
+    },
+    "1.67": {
+      "n/a, OPENVZ, 2048MB (2GB) Dedicated Ram, 50 GB Disk, 2TB Monthly Bandwidth": [
+        "https://billing.chicagovps.net/cart.php?a=add&pid=266"
+      ]
+    },
+    "1.99": {
+      "Monthly, OPENVZ, 256MB RAM, 256 MB VSwap, 15 GB HDD, 256 GB Bandwidth": [
+        "https://clients.hostsailor.com/cart.php?a=add&pid=162"
+      ],
+      "n/a, n/a, 256 MB Dedicated RAM, 50 GB HDD, 500 GB Bandwidth": [
+        "https://billing.nodeserv.com/cart.php?a=add&pid=43"
+      ]
+    },
+    "2.0": {
+      "n/a, no details, HDD": [
+        "https://www.liveinhost.com/cs/cart.php?a=add&pid=50"
+      ],
+      "n/a, no details": [
+        "https://billing.virmach.com/cart.php?a=add&pid=3&promocode=LEB2017V",
+        "https://virmach.com/manage/cart.php?a=add&pid=3"
+      ]
+    },
+    "2.08": {
+      "n/a, no details, n/a": [
+        "https://client.host4fun.com/cart.php?gid=20"
+      ]
+    },
+    "2.4": {
+      "Monthly, n/a, 16 GB Ram, 150 GB Solid State Disk": [
+        "https://crm.xenspec.com/cart.php?a=add&pid=6"
+      ]
+    },
+    "2.41": {
+      "n/a, no details, n/a": [
+        "https://www.thevenushost.com/cart.php?gid=8"
+      ]
+    },
+    "2.5": {
+      "Monthly, n/a, 2GB ECC RAM, 20GB SSD": [
+        "https://billing.accuratenode.com/cart.php?a=add&pid=50"
+      ],
+      "n/a, no details": [
+        "https://bluevm.com/cart.php?gid=35&promocode=LEBQUARTER",
+        "https://virmach.com/manage/cart.php?a=add&pid=81&promocode=LEB512",
+        "https://virmach.com/manage/cart.php?a=add&pid=81&promocode=LEBBF2016G512",
+        "https://www.bluevm.com/cart.php?gid=35&promocode=LOWENDBOX"
+      ],
+      "n/a, n/a, 1GB, n/a, SSD": [
+        "http://hostmayo.com/members/order.php?step=1&productGroup=24&product=142"
+      ],
+      "n/a, OPENVZ, 1 GB, 70 GB": [
+        "https://secure.ftpit.com/cart.php?a=add&pid=42"
+      ]
+    },
+    "2.67": {
+      "n/a, no details, n/a": [
+        "https://client.host4fun.com/cart.php?gid=19"
+      ],
+      "n/a, n/a, 256 MB DDR3, 256 MB vSwap, 30 GB SSD, 1 TB bandwidth": [
+        "https://portal.hosthatch.com/cart.php?a=add&pid=117",
+        "https://portal.hosthatch.com/cart.php?a=add&pid=126",
+        "https://portal.hosthatch.com/cart.php?a=add&pid=144"
+      ],
+      "n/a, n/a, 256 MB DDR3, 256 MB vSwap, 30 GB SSD, 500 GB bandwidth": [
+        "https://portal.hosthatch.com/cart.php?a=add&pid=198",
+        "https://portal.hosthatch.com/cart.php?a=add&pid=208"
+      ]
+    },
+    "2.95": {
+      "Monthly, OPENVZ, 20 GB HDD, 256MB RAM, 300GB Bandwidth": [
+        "https://www.hostfolks.com/manage/cart.php?a=add&pid=1"
+      ],
+      "Monthly, n/a, 16 GB Ram, 150 GB Solid State Disk": [
+        "https://crm.xenspec.com/cart.php?a=add&pid=33"
+      ],
+      "Monthly, OPENVZ, 256MB RAM, 256MB vSwap, 10GB SSD, 500GB Bandwidth": [
+        "https://my.hostus.us/cart.php?a=add&pid=183"
+      ]
+    },
+    "2.99": {
+      "Monthly, n/a, 258MB RAM, 30GB Disk, 258MB RAM, 30GB Disk": [
+        "https://crm.vpscheap.net/cart.php?a=add&pid=133&promocode=OVZ50OFF"
+      ],
+      "Monthly, OPENVZ, 512 MB RAM, 512 MB VSwap, 25 GB HDD, 512 GB Bandwidth": [
+        "https://clients.hostsailor.com/cart.php?a=add&pid=106"
+      ],
+      "Monthly, n/a, 128MB RAM, 256MB Burst RAM, 6GB, 100GB Bandwidth": [
+        "https://secure.quickweb.co.nz/system/cart.php?a=add&pid=125&currency=2",
+        "https://secure.quickweb.co.nz/system/cart.php?a=add&pid=125&currency=2&promocode=LEB1111"
+      ],
+      "Monthly, n/a, 256MB RAM, 384MB Burst, 10GB, 250GB Bandwidth": [
+        "https://secure.quickweb.co.nz/system/cart.php?a=add&pid=150&currency=2"
+      ],
+      "Monthly, KVM, 1.5GB RAM, 30GB SSD": [
+        "https://billing.81vps.com/cart.php?a=add&pid=108"
+      ],
+      "Monthly, n/a, 128MB RAM, 256MB Burst, 6GB, 100GB Bandwidth": [
+        "https://secure.quickweb.co.nz/system/cart.php?a=add&pid=157&currency=2"
+      ],
+      "Monthly, KVM, 1024MB, n/a, n/a": [
+        "https://www.tragicservers.com/cart.php?a=add&pid=159"
+      ],
+      "n/a, n/a, 512 MB Dedicated RAM, 25 GB HDD, 500 GB Bandwidth": [
+        "https://billing.nodeserv.com/cart.php?a=add&pid=36"
+      ],
+      "Monthly, n/a, 30 GB RAID-10 Disk, 512 MB Dedicated RAM, 512 MB vSwap, 3000 GB Premium Bandwidth": [
+        "https://www.flipperhost.com/billing/cart.php?a=add&pid=206"
+      ],
+      "Monthly, OPENVZ, 256MB, n/a, SSD": [
+        "https://securedragon.net/clients/cart.php?a=add&pid=10"
+      ]
+    },
+    "3.0": {
+      "Monatlich, KVM, 2 GB RAM, 20 GB SSD, 2.5 TB Bandwidth": [
+        "https://clients.desivps.com/cart.php?a=add&pid=25&currency=1",
+        "https://clients.desivps.com/cart.php?a=add&pid=25&currency=2"
+      ],
+      "n/a, no details": [
+        "https://console.geeksolutions.ca/?cmd=cart&action=add&id=5",
+        "https://nexusbytes.com/cart.php?gid=22"
+      ],
+      "n/a, no details, n/a": [
+        "https://billing.genesishosting.com/cart.php?gid=26"
+      ],
+      "Monthly, n/a, 2 GB, 40 GB": [
+        "https://www.littlecreekhosting.com/clients/cart.php?a=add&pid=349"
+      ],
+      "n/a, OPENVZ, 50 GB, n/a, n/a": [
+        "https://client.hostslayer.com/cart.php?a=add&pid=36"
+      ],
+      "Monthly, n/a, 1 GB, 20 GB": [
+        "https://my.letbox.com/cart.php?a=add&pid=109"
+      ],
+      "Monthly, n/a, 30 GB, n/a, HDD": [
+        "https://hive.happybeehost.com/cart.php?a=add&pid=32",
+        "https://hive.happybeehost.com/cart.php?a=add&pid=32&a=add&currency=1"
+      ],
+      "n/a, n/a, 1000 GB Bandwidth, 512 MB Dedicated RAM, 512 MB vSwap": [
+        "https://billing.nodeserv.com/cart.php?a=add&pid=29"
+      ],
+      "n/a, no details, HDD": [
+        "https://www.liveinhost.com/cs/cart.php?a=add&pid=51"
+      ],
+      "Monthly, OPENVZ, no details": [
+        "http://billing.chicagovps.net/cart.php?a=add&pid=13&promocode=1024",
+        "https://billing.chicagovps.net/cart.php?a=add&pid=13"
+      ],
+      "Monthly, n/a, 15 GB, n/a, SSD": [
+        "https://hive.happybeehost.com/cart.php?a=add&pid=69&a=add&currency=1"
+      ],
+      "Monthly, KVM, 256MB, n/a, SSD": [
+        "https://mgmt.hostbrew.com/cart.php?a=add&pid=65&promocode=LEBKVMSSDLAUNCH"
+      ],
+      "Monatlich, KVM, 2 GB RAM, 20 GB SSD, 2 TB Bandwidth": [
+        "https://clients.desivps.com/cart.php?a=add&pid=54&currency=1"
+      ],
+      "n/a, n/a, 500 GB Bandwidth, 256 MB Dedicated RAM, 256 MB vSwap": [
+        "https://billing.nodeserv.com/cart.php?a=add&pid=60"
+      ],
+      "n/a, n/a, 384 MB RAM, 120 GB HDD, 500 GB bandwidth": [
+        "https://portal.hosthatch.com/cart.php?a=add&pid=194",
+        "https://portal.hosthatch.com/cart.php?a=add&pid=195",
+        "https://portal.hosthatch.com/cart.php?a=add&pid=196"
+      ],
+      "Monthly, KVM, 512MB RAM, 10GB SSD, 1000GB Bandwidth": [
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=176",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=176&promocode=any10"
+      ]
+    },
+    "3.3": {
+      "Monthly, n/a, 1 GB, 256 GB": [
+        "https://my.letbox.com/cart.php?a=add&pid=111"
+      ]
+    },
+    "3.49": {
+      "Monthly, n/a, 1 GB, 20 GB": [
+        "https://portal.hyperexpert.com/cart.php?a=add&pid=21",
+        "https://portal.hyperexpert.com/cart.php?a=add&pid=61",
+        "https://portal.hyperexpert.com/cart.php?a=add&pid=85",
+        "https://portal.hyperexpert.com/cart.php?a=add&pid=98"
+      ],
+      "Monthly, OPENVZ, 256MB, n/a, n/a": [
+        "https://www.tragicservers.com/cart.php?a=add&pid=125"
+      ],
+      "n/a, KVM, 768 MB, 20 GB HDD": [
+        "https://secure.ftpit.com/cart.php?a=add&pid=61"
+      ]
+    },
+    "3.5": {
+      "n/a, no details": [
+        "https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsm.page-all-free-tier=1",
+        "https://hosting.gullo.me/order/config/index/nat-ipv4-vps-bg/?groupid=14&pricingid=183&coupon=LEB-NAT-128MB",
+        "https://hosting.gullo.me/order/config/index/nat-ipv4-vps-bg/?groupid=14&pricingid=184&coupon=LEB-NAT-256MB",
+        "https://hosting.gullo.me/order/config/index/nat-ipv4-vps-ca/?groupid=11&pricingid=153&coupon=LEB-NAT-128MB",
+        "https://hosting.gullo.me/order/config/index/nat-ipv4-vps-ca/?groupid=11&pricingid=154&coupon=LEB-NAT-256MB",
+        "https://hosting.gullo.me/order/config/index/nat-ipv4-vps-de/?groupid=5&pricingid=55&coupon=LEB-NAT-128MB",
+        "https://hosting.gullo.me/order/config/index/nat-ipv4-vps-de/?groupid=5&pricingid=56&coupon=LEB-NAT-256MB",
+        "https://billing.virmach.com/cart.php?a=add&pid=4&billingcycle=annually&promocode=2017BFSAVE80",
+        "https://virmach.com/manage/cart.php?a=add&pid=4",
+        "https://virmach.com/manage/cart.php?a=add&pid=4&billingcycle=annually&promocode=LEBBF2016E",
+        "https://virmach.com/manage/cart.php?a=add&pid=4&promocode=LEB2016E",
+        "https://clientarea.ramnode.com/cart.php?gid=20&promocode=NOWAY42",
+        "https://clientarea.ramnode.com/cart.php?gid=4",
+        "https://clientarea.ramnode.com/cart.php?gid=4&promocode=NOWAY42"
+      ],
+      "Monthly, KVM, 1GB, n/a, SSD": [
+        "https://clients.ionswitch.com/cart.php?a=add&pid=1"
+      ],
+      "Monthly, n/a, 512MB RAM, 512MB DDR4, 7GB NVMe, 2TB Bandwidth": [
+        "https://extravm.com/billing/cart.php?a=add&pid=163"
+      ],
+      "Monthly, KVM, 2 GB, 40 GB": [
+        "https://www.littlecreekhosting.com/clients/cart.php?a=add&pid=352"
+      ],
+      "Monthly, OPENVZ, 1GB OpenVZ SSD, 30GB SSD, 1GB RAM": [
+        "https://portal.dedipath.com/cart.php?a=add&pid=255",
+        "https://portal.dedipath.com/cart.php?a=add&pid=255?utmsource=LEBJune&utmmedium=lebads"
+      ],
+      "Monthly, n/a, 256MB, n/a, SSD": [
+        "https://mgmt.hostbrew.com/cart.php?a=add&pid=2"
+      ],
+      "n/a, OPENVZ, 1 GB, 15 GB SSD": [
+        "https://secure.ftpit.com/cart.php?a=add&pid=28",
+        "https://secure.ftpit.com/cart.php?a=add&pid=36"
+      ],
+      "Monthly, KVM, 1GB, n/a, n/a": [
+        "https://my.letbox.com/cart.php?a=add&pid=26"
+      ],
+      "Monthly, n/a, 200GB, n/a, n/a": [
+        "https://my.letbox.com/cart.php?a=add&pid=29"
+      ],
+      "Monthly, KVM, 1024MB Dedicated RAM, 300GB HDD": [
+        "https://my.letbox.com/cart.php?a=add&pid=35"
+      ],
+      "n/a, n/a, 25GB Disk, 500GB Bandwidth, 256MB Ram": [
+        "https://billing.hudsonvalleyhost.com/cart.php?a=add&pid=80",
+        "https://billing.hudsonvalleyhost.com/cart.php?a=add&pid=80&promocode=LEBBDAY",
+        "https://billing.hudsonvalleyhost.com/cart.php?a=add&pid=80&promocode=VPS50off",
+        "https://billing.hudsonvalleyhost.com/cart.php?a=add&pid=80&promocode=april4511",
+        "https://billing.hudsonvalleyhost.com/cart.php?a=add&pid=80&promocode=december25",
+        "https://billing.hudsonvalleyhost.com/cart.php?a=add&pid=80&promocode=laborday1155",
+        "https://billing.hudsonvalleyhost.com/cart.php?a=add&pid=80&promocode=valentine50"
+      ],
+      "Monthly, KVM, 256MB RAM, 8GB SSD, 1000GB Bandwidth": [
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=21",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=21&promocode=ONEYEAR",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=21&promocode=black42",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=21&promocode=leb35",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=21&promocode=noway42",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=90&promocode=black42",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=90&promocode=noway42"
+      ]
+    },
+    "3.75": {
+      "Monthly, OPENVZ, 512MB RAM, 512MB vSwap, 15GB SSD, 750GB Bandwidth": [
+        "https://my.hostus.us/cart.php?a=add&pid=179"
+      ],
+      "n/a, OPENVZ, 2 GB, 150 GB": [
+        "https://secure.ftpit.com/cart.php?a=add&pid=43"
+      ],
+      "Monthly, n/a, 50 GB RAID-10 Disk, 1024 MB Dedicated RAM, 1024 MB vSwap, 4000 GB Premium Bandwidth": [
+        "https://www.flipperhost.com/billing/cart.php?a=add&pid=207"
+      ],
+      "Monthly, OPENVZ, 2048MB RAM, 2048MB vSwap, 55GB RAID10 Disk, 5TB Bandwidth": [
+        "https://www.flipperhost.com/billing/cart.php?a=add&pid=351"
+      ]
+    },
+    "3.89": {
+      "n/a, no details": [
+        "http://billing.topxen.com/cart.php?a=add&pid=1",
+        "http://billing.topxen.com/cart.php?a=add&pid=1&promocode=OHGREATJUNE"
+      ]
+    },
+    "3.9": {
+      "Monthly, KVM, 1024MB RAM, 1024MB RAM, 25GB SSD, 2000GB Bandwidth": [
+        "https://www.flipperhost.com/billing/cart.php?a=add&pid=342"
+      ]
+    },
+    "3.95": {
+      "Monthly, n/a, 50 GB RAID-10 Disk, 2 GB Dedicated RAM, 2 GB vSwap, 5 TB Bandwidth": [
+        "https://www.flipperhost.com/billing/cart.php?a=add&pid=243"
+      ],
+      "Monthly, XEN, no details": [
+        "https://secure.quickweb.co.nz/system/cart.php?a=add&pid=61&currency=2"
+      ]
+    },
+    "3.99": {
+      "Monthly, KVM, 512 MB RAM, 512 MB SWAP, 15 GB HDD, 512 GB Bandwidth": [
+        "https://clients.hostsailor.com/cart.php?a=add&pid=110"
+      ],
+      "Monthly, XEN, 512 MB RAM, 512 MB SWAP, 15 GB HDD, 512 GB Bandwidth": [
+        "https://clients.hostsailor.com/cart.php?a=add&pid=115"
+      ],
+      "Monthly, n/a, 256MB RAM, 384MB Burst RAM, 10GB, 250GB Bandwidth": [
+        "https://secure.quickweb.co.nz/system/cart.php?a=add&pid=129&currency=2"
+      ],
+      "Monthly, n/a, 1 GB, 20 GB": [
+        "https://portal.hyperexpert.com/cart.php?a=add&pid=36",
+        "https://portal.hyperexpert.com/cart.php?a=add&pid=65"
+      ],
+      "n/a, OPENVZ, 1 GB, 50 GB": [
+        "https://secure.ftpit.com/cart.php?a=add&pid=2"
+      ],
+      "n/a, n/a, 512 MB Dedicated RAM, 150 GB HDD, 1 TB Bandwidth": [
+        "https://billing.nodeserv.com/cart.php?a=add&pid=34"
+      ],
+      "Monthly, n/a, 256MB RAM, 384MB Burst, 10GB, 250GB Bandwidth": [
+        "https://secure.quickweb.co.nz/system/cart.php?a=add&pid=156&currency=2"
+      ],
+      "Monthly, XEN, 128MB RAM, 150MB Swap, 5 GB Disk, 200GB Bandwidth": [
+        "https://secure.quickweb.co.nz/system/cart.php?a=add&pid=171&currency=2",
+        "https://secure.quickweb.co.nz/system/cart.php?a=add&pid=172&currency=2",
+        "https://secure.quickweb.co.nz/system/cart.php?a=add&pid=173&currency=2"
+      ],
+      "Monthly, n/a, 2GB, n/a, SSD": [
+        "https://crm.vpscheap.net/cart.php?a=add&pid=220"
+      ],
+      "Monthly, XEN, 128 MB RAM, 256MB Swap, 5 GB Disk, 300GB (10Mbit) Bandwidth": [
+        "https://secure.quickweb.co.nz/system/cart.php?a=add&pid=221&currency=2",
+        "https://secure.quickweb.co.nz/system/cart.php?a=add&pid=243&currency=2"
+      ],
+      "Monthly, n/a, 1024MB, n/a, n/a": [
+        "https://crm.vpscheap.net/cart.php?a=add&pid=262&promocode=LET20FOREVER1"
+      ],
+      "Monthly, OPENVZ, 512MB, n/a, SSD": [
+        "https://securedragon.net/clients/cart.php?a=add&pid=16"
+      ]
+    },
+    "4.0": {
+      "n/a, no details, n/a": [
+        "https://clients.hostsailor.com/cart.php?"
+      ],
+      "n/a, no details, SSD": [
+        "https://www.liveinhost.com/cs/cart.php?a=add&pid=37"
+      ],
+      "Monthly, n/a, 512 MB, n/a, n/a": [
+        "http://vpslot.com/clients/cart.php?a=add&pid=1"
+      ],
+      "Monthly, n/a, 1 GB of RAM, 10 GB NVMe": [
+        "https://hosterlabs.net/panel/cart.php?a=add&pid=113&promocode=LEBexclusive"
+      ],
+      "Monthly, n/a, 1 GB, 15 GB ": [
+        "https://nexusbytes.com/cart.php?a=add&pid=82"
+      ],
+      "n/a, OPENVZ, 1 GB, 15 GB SSD": [
+        "https://secure.ftpit.com/cart.php?a=add&pid=104"
+      ],
+      "n/a, n/a, 512 MB DDR3, 512 MB vSwap, 50 GB SSD, 2 TB bandwidth": [
+        "https://portal.hosthatch.com/cart.php?a=add&pid=118",
+        "https://portal.hosthatch.com/cart.php?a=add&pid=127",
+        "https://portal.hosthatch.com/cart.php?a=add&pid=145"
+      ],
+      "Monthly, KVM, 512MB, n/a, SSD": [
+        "https://mgmt.hostbrew.com/cart.php?a=add&pid=66&promocode=LEBKVMSSDLAUNCH"
+      ],
+      "n/a, n/a, 1024 MB Dedicated RAM, 150 GB HDD, 2000 GB Bandwidth": [
+        "https://billing.nodeserv.com/cart.php?a=add&pid=45"
+      ],
+      "Monthly, n/a, 5 GB, n/a, n/a": [
+        "https://ssdvps.com/portal/cart.php?a=add&pid=9&carttpl=cart"
+      ],
+      "Monthly, n/a, 1 GB RAM, 1 GB RAM": [
+        "https://secure.ftpit.com/cart.php?a=add&pid=9"
+      ],
+      "n/a, n/a, 512 MB DDR3, 512 MB vSwap, 50 GB SSD, 1 TB bandwidth": [
+        "https://portal.hosthatch.com/cart.php?a=add&pid=199",
+        "https://portal.hosthatch.com/cart.php?a=add&pid=209"
+      ]
+    },
+    "4.2": {
+      "Monthly, n/a, 1024MB, n/a, n/a": [
+        "https://my.letbox.com/cart.php?a=add&pid=3",
+        "https://my.letbox.com/cart.php?a=add&pid=3&promocode=Y1GBOFF"
+      ]
+    },
+    "4.34": {
+      "n/a, no details": [
+        "http://lowendtalk.com/discussion/10957/38-off-recuring-1gb-of-ram-60gb-disk-space-gigabit-port-switzerland-preorder-only-4-34"
+      ]
+    },
+    "4.49": {
+      "Monthly, n/a, 1 GB, 20 GB": [
+        "https://portal.hyperexpert.com/cart.php?a=add&pid=57",
+        "https://portal.hyperexpert.com/cart.php?a=add&pid=69"
+      ]
+    },
+    "4.5": {
+      "n/a, n/a, 1500 GB Bandwidth, 1024 MB Dedicated RAM, 1024 MB vSwap": [
+        "https://billing.nodeserv.com/cart.php?a=add&pid=22"
+      ],
+      "Monthly, n/a, 512MB, n/a, HDD": [
+        "https://billing.zappiehost.com/cart.php?a=add&pid=14"
+      ],
+      "Monthly, KVM, 5GB Ram, 40GB Pure SSD, 5TB Monthly Bandwidth": [
+        "https://cloudserver.net/billing/cart.php?a=add&pid=8"
+      ],
+      "Monthly, KVM, 1GB, n/a, NVME": [
+        "https://clients.ionswitch.com/cart.php?a=add&pid=20"
+      ],
+      "Monthly, n/a, 512MB, 30GB": [
+        "https://billing.zappiehost.com/cart.php?a=add&pid=32"
+      ],
+      "n/a, n/a, 3000 GB Bandwidth, 2 GB Dedicated RAM, 2 GB vSwap": [
+        "https://billing.nodeserv.com/cart.php?a=add&pid=30"
+      ],
+      "n/a, n/a, 1000 GB Bandwidth, 512 MB Dedicated RAM, 512 MB vSwap": [
+        "https://billing.nodeserv.com/cart.php?a=add&pid=32"
+      ],
+      "Monthly, n/a, 4 GB, n/a, n/a": [
+        "https://cheapwindowsvps.com/manage/cart.php?a=add&pid=45"
+      ],
+      "n/a, no details, n/a": [
+        "https://client.host4fun.com/cart.php?gid=49"
+      ],
+      "Monthly, n/a, 50 GB RAID-10 Disk, 2 GB Dedicated RAM, 2 GB vSwap, 10 TB Premium Bandwidth": [
+        "https://www.flipperhost.com/billing/cart.php?a=add&pid=236"
+      ],
+      "Monthly, n/a, 50 GB RAID-10 Disk, 2 GB Dedicated RAM, 2 GB vSwap, 5 TB Bandwidth": [
+        "https://www.flipperhost.com/billing/cart.php?a=add&pid=321"
+      ],
+      "Monthly, n/a, 1GB RAM, 1GB RAM": [
+        "https://billing.chicagovps.net/cart.php?a=add&pid=229"
+      ]
+    },
+    "4.51": {
+      "Monthly, n/a, 2 GB, 15 GB": [
+        "https://my.letbox.com/cart.php?a=add&pid=114"
+      ]
+    },
+    "4.58": {
+      "Monthly, OPENVZ, 256MB RAM, 40GB HDD": [
+        "https://panel.cinfu.com/cart.php?a=add&pid=5&language=English&currency=2"
+      ]
+    },
+    "4.8": {
+      "Monthly, XEN, 10GB HDD, 256MB Memory, 128MB Swap, 1Gbps Bandwidth": [
+        "https://www.hostinginside.com/billing/cart.php?a=add&pid=102"
+      ],
+      "Monthly, XEN, 10GB HDD, 256MB Memory, 128MB Swap, 100mbps Bandwidth": [
+        "https://www.hostinginside.com/billing/cart.php?a=add&pid=121"
+      ]
+    },
+    "4.9": {
+      "Monthly, KVM, 2048MB RAM, 35GB SSD, 4000GB Bandwidth": [
+        "https://www.flipperhost.com/billing/cart.php?a=add&pid=343"
+      ],
+      "Monthly, KVM, 2048MB RAM, 40GB SSD, 4000GB Bandwidth": [
+        "https://www.flipperhost.com/billing/cart.php?a=add&pid=349"
+      ]
+    },
+    "4.95": {
+      "Monthly, KVM, 512 MB, 20 GB ": [
+        "https://client.citynethost.com/cart.php?a=add&pid=85"
+      ],
+      "n/a, n/a, 25GB Disk, 500GB Bandwidth, 512MB Ram, 1024MB Ram": [
+        "https://billing.hudsonvalleyhost.com/cart.php?a=add&pid=283"
+      ]
+    },
+    "4.98": {
+      "Monthly, n/a, 512MB RAM, 768MB RAM, 25GB Disk, 500GB Bandwidth": [
+        "https://secure.quickweb.co.nz/system/cart.php?a=add&pid=118&currency=2",
+        "https://secure.quickweb.co.nz/system/cart.php?a=add&pid=122&currency=2"
+      ]
+    },
+    "4.99": {
+      "n/a, no details, n/a": [
+        "https://pumpcloud.net/clientarea/cart.php?a=add&pid=20"
+      ],
+      "n/a, no details": [
+        "https://sunshinehost.net/portal/order/config/index/reseller/?groupid=2&pricingid=10",
+        "https://sunshinehost.net/portal/order/config/index/reseller/?groupid=2&pricingid=6",
+        "https://sunshinehost.net/portal/order/config/index/reseller/?groupid=2&pricingid=8"
+      ],
+      "n/a, OPENVZ, 2 GB, 50 GB": [
+        "https://secure.ftpit.com/cart.php?a=add&pid=10"
+      ],
+      "Monthly, OPENVZ, 512 MB RAM, 512 MB VSwap, 15 GB SSD, 512 GB Bandwidth": [
+        "https://clients.hostsailor.com/cart.php?a=add&pid=126"
+      ],
+      "Monthly, KVM, 2.5GB RAM, 50GB SSD": [
+        "https://billing.81vps.com/cart.php?a=add&pid=109"
+      ],
+      "n/a, n/a, 2 GB Dedicated RAM, 50 GB HDD, 2 TB Bandwidth": [
+        "https://billing.nodeserv.com/cart.php?a=add&pid=35"
+      ]
+    },
+    "5.0": {
+      "Monthly, n/a, 2 GB RAM, 20 GB Disk": [
+        "https://my.hostitbro.com/cart.php?a=add&pid=25"
+      ],
+      "Monthly, no details, SSD": [
+        "https://www.photonvps.com/billing/cart.php?a=add&pid=112",
+        "https://my.virpus.com/cart.php?a=add&pid=200&cattpl=web20cart"
+      ],
+      "Monthly, n/a, 0.5 GB RAM, 0.5 GB RAM": [
+        "https://ssdvps.com/portal/cart.php?a=add&pid=1&carttpl=cart&promocode=LEB30OFF"
+      ],
+      "Monthly, KVM, 512MB Memory, 15GB Storage, 500GB Bandwidth": [
+        "https://manage.stockvps.com/cart.php?a=add&pid=15"
+      ],
+      "Monthly, n/a, 768 MB, 30 GB": [
+        "https://billing.webline-services.com/cart.php?a=add&pid=13"
+      ],
+      "Monthly, n/a, 4GB ECC RAM, 30GB SSD": [
+        "https://billing.accuratenode.com/cart.php?a=add&pid=51"
+      ],
+      "n/a, no details": [
+        "https://crm.nqhost.com/cart.php?a=add&pid=102",
+        "https://crm.nqhost.com/cart.php?a=add&pid=105",
+        "https://bluevm.com/cart.php?gid=36&promocode=512for15",
+        "https://manage.stockvps.com/cart.php?promocode=NEW33OFF",
+        "https://billing.virmach.com/cart.php?a=add&pid=82&billingcycle=annually&promocode=2017BFSAVE60",
+        "https://billing.virmach.com/cart.php?a=add&pid=82&promocode=LEB2017G1",
+        "https://bluevm.com/cart.php?gid=45",
+        "https://simplenode.co/hostbill/cart/unmanaged-ssd-kvm/",
+        "https://virmach.com/manage/cart.php?a=add&pid=82&billingcycle=annually&promocode=LEB50",
+        "https://virmach.com/manage/cart.php?a=add&pid=82&promocode=LEB1GB",
+        "https://www.bluevm.com/cart.php?gid=36&promocode=LOWENDBOX",
+        "https://virmach.com/manage/cart.php?a=add&pid=82&promocode=LEB2016G1"
+      ],
+      "n/a, n/a, 40 GB, n/a, n/a": [
+        "http://my.silicomnetwork.com/order.php?step=1&productGroup=6&product=18"
+      ],
+      "Monthly, KVM, 3GB, 30GB": [
+        "https://portal.steadyvps.com/cart.php?a=add&pid=17"
+      ],
+      "Monthly, OPENVZ, no details": [
+        "https://www.tragicservers.com/cart.php?a=add&pid=115",
+        "https://www.tragicservers.com/cart.php?a=add&pid=120",
+        "https://billing.chicagovps.net/cart.php?a=add&pid=107",
+        "https://billing.chicagovps.net/cart.php?a=add&pid=81"
+      ],
+      "Monthly, n/a, 20 GB Storage, 512 MB RAM, 300GB 100Mbps Bandwidth, 10Mbps Unmetered Bandwidth": [
+        "https://secure.veeble.org/accounts/cart.php?a=add&pid=762",
+        "https://secure.veeble.org/accounts/cart.php?a=add&pid=764"
+      ],
+      "n/a, n/a, 256MB Memory, 25 GB RAID-10 Hard Drive Storage, 1000 GB Bandwidth": [
+        "https://billing.edgevm.com/cart.php?a=add&pid=15"
+      ],
+      "Monthly, n/a, 1 GB, n/a, n/a": [
+        "https://ssdvps.com/portal/cart.php?a=add&pid=14&carttpl=cart",
+        "https://ssdvps.com/portal/cart.php?a=add&pid=18&carttpl=cart"
+      ],
+      "Monthly, KVM, 1 GB RAM, 25 GB SSD, 1 TB Bandwidth": [
+        "https://www.velocihost.net/clients/cart.php?a=add&pid=2&promocode=CG9CB8IRJP",
+        "https://www.velocihost.net/clients/cart.php?a=add&pid=2&promocode=ONLYFORLEB"
+      ],
+      "Monthly, KVM, 2GB RAM, 50GB SSD": [
+        "https://billing.81vps.com/cart.php?a=add&pid=104"
+      ],
+      "Monthly, n/a, 2048 MB, 24GB": [
+        "https://hosterlabs.net/panel/cart.php?a=add&pid=45"
+      ],
+      "Monthly, n/a, 256MB Dedi RAM, 512MB Burst RAM, 20GB Raid1 Protected Disk, 300GB Bandwidth": [
+        "https://secure.sshvm.com/cart.php?a=add&pid=2&promocode=LOWENDBOX-10"
+      ],
+      "n/a, n/a, 2GB, n/a, SSD": [
+        "http://hostmayo.com/members/order.php?step=1&productGroup=24&product=143",
+        "https://hostmayo.com/members/order.php?step=1&productGroup=24&product=143"
+      ],
+      "Monthly, KVM, n/a, n/a, SSD": [
+        "https://billing.indovirtue.com/cart.php?a=add&pid=52"
+      ],
+      "Monthly, OPENVZ, n/a, n/a, SSD": [
+        "https://billing.indovirtue.com/cart.php?a=add&pid=9"
+      ],
+      "Monatlich, KVM, 2 GB RAM, 40 GB SSD": [
+        "https://clients.desivps.com/cart.php?a=add&pid=40&currency=1"
+      ],
+      "Monthly, n/a, 512MB RAM, 50GB SSD, 2000GB Bandwidth": [
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=104&promocode=NUMBERONE",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=104&promocode=SOMUCHLOVE",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=104&promocode=WOWNUM1",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=104&promocode=black42",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=110&promocode=NUMBERONE",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=110&promocode=SOMUCHLOVE",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=110&promocode=WOWNUM1",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=110&promocode=black42",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=116&promocode=NUMBERONE",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=116&promocode=SOMUCHLOVE",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=116&promocode=WOWNUM1",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=116&promocode=black42",
+        "https://clientarea.ramnode.com/cart.php?a=confproduct&i=2"
+      ],
+      "n/a, OPENVZ, 2 GB, 25 GB SSD": [
+        "https://secure.ftpit.com/cart.php?a=add&pid=34"
+      ],
+      "Monthly, KVM, 20GB, n/a, n/a": [
+        "https://my.letbox.com/cart.php?a=add&pid=27"
+      ],
+      "n/a, n/a, 75GB HDD, 3GB RAM": [
+        "https://billing.hudsonvalleyhost.com/cart.php?a=add&pid=486"
+      ],
+      "Monthly, KVM, 1GB, 1GB": [
+        "https://mgmt.hostbrew.com/cart.php?a=add&pid=67&promocode=LEBKVMSSDLAUNCH"
+      ],
+      "n/a, n/a, 500 GB Bandwidth, 256 MB Dedicated RAM, 256 MB vSwap": [
+        "https://billing.nodeserv.com/cart.php?a=add&pid=58"
+      ],
+      "Monthly, OPENVZ, 2GB SSD, 2GB RAM, 512MB Swap, 50GB SSD": [
+        "https://portal.catalysthost.com/cart.php?a=add&pid=169"
+      ],
+      "n/a, n/a, 1500 GB Bandwidth, 1024 MB Dedicated RAM, 1024 MB vSwap": [
+        "https://billing.nodeserv.com/cart.php?a=add&pid=61"
+      ],
+      "Monthly, OPENVZ, 512MB HDD, 512MB RAM, 256MB Swap, 200GB HDD": [
+        "https://portal.catalysthost.com/cart.php?a=add&pid=171"
+      ],
+      "n/a, n/a, 768 MB DDR3, 20 GB SSD, 1 TB Bandwidth": [
+        "https://portal.hosthatch.com/cart.php?a=add&pid=153"
+      ],
+      "Monthly, OPENVZ, 1024MB Dedicated Ram, 60 GB Disk, 1TB Bandwidth": [
+        "https://billing.chicagovps.net/cart.php?a=add&pid=124",
+        "https://billing.chicagovps.net/cart.php?a=add&pid=125"
+      ],
+      "Monthly, n/a, 512MB RAM, 256MB vSwap, 30GB SSD, 4TB Bandwidth": [
+        "https://portal.catalysthost.com/cart.php?a=add&pid=81"
+      ],
+      "Monthly, n/a, 512MB RAM, 256MB vSwap, 50GB HDD, 4TB Bandwidth": [
+        "https://portal.catalysthost.com/cart.php?a=add&pid=90"
+      ],
+      "n/a, n/a, 50GB Disk, 1000GB Bandwidth, 512MB Ram": [
+        "https://billing.hudsonvalleyhost.com/cart.php?a=add&pid=82"
+      ],
+      "Monthly, OPENVZ, 2048MB (2GB) Guaranteed Ram, 50 GB Disk, 2TB Monthly Bandwidth": [
+        "https://billing.chicagovps.net/cart.php?a=add&pid=444"
+      ],
+      "Monthly, n/a, 512MB RAM, 150GB HDD, 2000GB Bandwidth": [
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=48&promocode=ONEYEAR",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=48&promocode=black42",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=48&promocode=leb35",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=48&promocode=noway42",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=66&promocode=ONEYEAR",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=66&promocode=black42",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=66&promocode=leb35",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=66&promocode=noway42"
+      ]
+    },
+    "5.24": {
+      "n/a, no details": [
+        "https://service.burst.net/cart.php?c=143&kw=lebwinter",
+        "https://service.burst.net/cart.php?gid=18",
+        "https://service.burst.net/cart.php?gid=18&c=143&kw=lowendbox",
+        "https://service.burst.net/cart.php?gid=20&c=143&kw=lowendbox",
+        "https://service.burst.net/cart.php?gid=21&c=143&kw=lowendbox"
+      ]
+    },
+    "5.44": {
+      "Monthly, OPENVZ, 50GB RAID10 Disk, 1000GB Bandwidth": [
+        "https://my.iniz.com/cart.php?a=add&pid=83"
+      ]
+    },
+    "5.45": {
+      "Monthly, n/a, 75 GB RAID-10 Disk, 4096 MB Dedicated RAM, 4096 MB vSwap, 10TB Bandwidth": [
+        "https://www.flipperhost.com/billing/cart.php?a=add&pid=244"
+      ]
+    },
+    "5.49": {
+      "Monthly, no details, n/a": [
+        "http://www.comforthost.net/billing/cart.php?a=add&pid=383&systpl=spotvps"
+      ]
+    },
+    "5.5": {
+      "Monthly, KVM, 2 GB, 40 GB SSD": [
+        "https://khanwebhost.com/cart.php?a=add&pid=541"
+      ],
+      "n/a, OPENVZ, 3 GB, 50 GB": [
+        "https://secure.ftpit.com/cart.php?a=add&pid=12"
+      ],
+      "Monthly, n/a, 100 GB RAID-10 Disk, 4 GB Dedicated RAM, 4 GB vSwap, 15 TB Premium Bandwidth": [
+        "https://www.flipperhost.com/billing/cart.php?a=add&pid=237"
+      ],
+      "Monthly, n/a, 75 GB RAID-10 Disk, 4096 MB Dedicated RAM, 8192 MB vSwap, 100 TB Bandwidth": [
+        "https://www.flipperhost.com/billing/cart.php?a=add&pid=322"
+      ]
+    },
+    "5.51": {
+      "Monthly, n/a, 4 GB, 20 GB": [
+        "https://my.letbox.com/cart.php?a=add&pid=115"
+      ]
+    },
+    "5.6": {
+      "Monatlich, XEN, 20GB, 20GB ": [
+        "https://www.dewlance.com/client/cart.php?a=add&pid=190&billingcycle=monthly&promocode=LEB-Only"
+      ]
+    },
+    "5.7": {
+      "Monthly, n/a, 20GB, n/a, n/a": [
+        "https://my.letbox.com/cart.php?a=add&pid=45"
+      ]
+    },
+    "5.75": {
+      "Monthly, n/a, 125 GB RAID-10 Disk, 4096 MB Dedicated RAM, 4096 MB vSwap, 5000 GB Premium Bandwidth": [
+        "https://www.flipperhost.com/billing/cart.php?a=add&pid=209"
+      ]
+    },
+    "5.95": {
+      "Monthly, n/a, 512MB, n/a, SSD": [
+        "https://clients.cloudieweb.com/cart.php?a=add&pid=79",
+        "https://clients.cloudieweb.com/cart.php?a=add&pid=97"
+      ],
+      "Monthly, no details, n/a": [
+        "https://billing.vpsget.com/cart.php?a=add&pid=3"
+      ],
+      "Monthly, n/a, 256 MB Guaranteed RAM, 512 MB Burstable RAM, 10 GB Disk": [
+        "https://www.evolucix.com/clients/cart.php?a=add&pid=5",
+        "https://www.evolucix.com/clients/cart.php?a=add&pid=5&promocode=LEB50-SEP11"
+      ],
+      "Monthly, OPENVZ, 4096MB RAM, 4096MB vSwap, 85GB RAID10 Disk, 8TB Bandwidth": [
+        "https://www.flipperhost.com/billing/cart.php?a=add&pid=352"
+      ]
+    },
+    "5.97": {
+      "Quarterly, OPENVZ, 96MB, n/a, SSD": [
+        "https://securedragon.net/clients/cart.php?a=add&pid=33"
+      ]
+    },
+    "5.99": {
+      "Monthly, KVM, 1GB DDR3, 20GB SSD": [
+        "https://my.losangelesvps.com/cart.php?a=add&pid=20&promocode=50OFFVPS"
+      ],
+      "Monthly, n/a, 500GB, n/a, n/a": [
+        "http://www.comforthost.net/billing/cart.php?a=add&pid=457"
+      ],
+      "n/a, no details": [
+        "https://sunshinehost.net/portal/order/config/index/shared/?groupid=1&pricingid=1",
+        "https://sunshinehost.net/portal/order/config/index/shared/?groupid=1&pricingid=2",
+        "https://sunshinehost.net/portal/order/config/index/shared/?groupid=1&pricingid=4"
+      ],
+      "Monthly, n/a, 384MB RAM, 512MB Burst RAM, 20GB, 500GB Bandwidth": [
+        "https://secure.quickweb.co.nz/system/cart.php?a=add&pid=192&currency=2",
+        "https://secure.quickweb.co.nz/system/cart.php?a=add&pid=196&currency=2"
+      ],
+      "Monthly, n/a, 384MB RAM, 256MB vSwap, 20GB, 500GB Bandwidth": [
+        "https://secure.quickweb.co.nz/system/cart.php?a=add&pid=195&currency=2"
+      ],
+      "Monthly, KVM, 2GB RAM, 40GB SAS RAID10 Storage, 2TB Bandwidth": [
+        "https://clients.budgetnode.com/cart.php?a=add&pid=60"
+      ],
+      "Monthly, XEN, 246 MB RAM, 384MB Swap, 10 GB Disk, 500GB (10Mbit) Bandwidth": [
+        "https://secure.quickweb.co.nz/system/cart.php?a=add&pid=223&currency=2",
+        "https://secure.quickweb.co.nz/system/cart.php?a=add&pid=244&currency=2"
+      ],
+      "Monthly, OPENVZ, 1GB, 1GB": [
+        "https://securedragon.net/clients/cart.php?a=add&pid=36"
+      ]
+    },
+    "6.0": {
+      "Monthly, n/a, 1GB DDR4, 14GB SSD, 400GB Bandwidth": [
+        "https://extravm.com/billing/cart.php?a=add&pid=154"
+      ],
+      "Monthly, n/a, 4 GB, 60 GB": [
+        "https://www.littlecreekhosting.com/clients/cart.php?a=add&pid=350"
+      ],
+      "n/a, no details, SSD": [
+        "https://www.liveinhost.com/cs/cart.php?a=add&pid=38"
+      ],
+      "n/a, no details": [
+        "https://www.reliablehostingservices.net/whmcs/cart.php?a=add&pid=231&promocode=LEB1",
+        "https://simplenode.co/hostbill/?cmd=cart&action=add&id=67",
+        "https://billing.virmach.com/cart.php?a=add&pid=20&billingcycle=annually&promocode=2017BFSAVE80",
+        "https://bluevm.com/cart.php?gid=42",
+        "https://virmach.com/manage/cart.php?a=add&pid=20&billingcycle=annually&promocode=LEB50",
+        "https://virmach.com/manage/cart.php?a=add&pid=20&promocode=LEB2016P",
+        "https://www.bluevm.com/cart.php?gid=42"
+      ],
+      "Monatlich, KVM, 4 GB RAM, 40 GB SSD": [
+        "https://clients.desivps.com/cart.php?a=add&pid=26&currency=1",
+        "https://clients.desivps.com/cart.php?a=add&pid=26&currency=2"
+      ],
+      "Monthly, n/a, 512MB, n/a, SSD": [
+        "http://mgmt.hostbrew.com/cart.php?a=add&pid=7",
+        "https://mgmt.hostbrew.com/cart.php?a=add&pid=7"
+      ],
+      "Monthly, n/a, 20 GB Storage, 512 MB RAM, 300GB 100Mbps Bandwidth, 10Mbps Unmetered Bandwidth": [
+        "https://secure.veeble.org/accounts/cart.php?a=add&pid=763"
+      ],
+      "n/a, no details, n/a": [
+        "https://cc.delimiter.com/cart/cloud-resource-pool/"
+      ],
+      "Monthly, n/a, 4 GB, 450 GB HDD": [
+        "https://hosterlabs.net/panel/cart.php?a=add&pid=118"
+      ],
+      "n/a, OPENVZ, 100 GB, n/a, n/a": [
+        "https://client.hostslayer.com/cart.php?a=add&pid=37"
+      ],
+      "n/a, OPENVZ, 2 GB, 30 GB SSD": [
+        "https://secure.ftpit.com/cart.php?a=add&pid=105"
+      ],
+      "Monthly, n/a, 40 GB, n/a, HDD": [
+        "https://hive.happybeehost.com/cart.php?a=add&pid=34",
+        "https://hive.happybeehost.com/cart.php?a=add&pid=34&a=add&currency=1"
+      ],
+      "Monthly, OPENVZ, 768MB RAM, 768MB vSwap, 30GB SSD, 2000GB Bandwidth": [
+        "https://my.hostus.us/cart.php?a=add&pid=180"
+      ],
+      "n/a, no details, HDD": [
+        "https://www.liveinhost.com/cs/cart.php?a=add&pid=52"
+      ],
+      "Monthly, n/a, 1 GB, n/a, n/a": [
+        "https://ssdvps.com/portal/cart.php?a=add&pid=8&carttpl=cart"
+      ],
+      "Monatlich, KVM, 2 GB RAM, 30 GB SSD": [
+        "https://clients.desivps.com/cart.php?a=add&pid=43&currency=1"
+      ],
+      "Monatlich, KVM, 4 GB RAM, 40 GB SSD, 4 TB Bandwidth": [
+        "https://clients.desivps.com/cart.php?a=add&pid=55&currency=1"
+      ],
+      "Monthly, n/a, 2GB Dedicated RAM, 50 GB Pure SSD, 2TB Bandwidth": [
+        "https://billing.chicagovps.net/cart.php?a=add&pid=559"
+      ]
+    },
+    "6.29": {
+      "Monthly, LXC, 2 GB ECC RAM, 50 GB ZFS SSD, 500 Mbps Bandwidth": [
+        "https://cp.launchvps.com/cart.php?a=add&pid=19&promocode=LEBLXC1GB"
+      ]
+    },
+    "6.5": {
+      "Monthly, KVM, 40GB SSD, 4GB RAM": [
+        "https://cp.pdqserver.com/cart.php?a=add&pid=32"
+      ],
+      "Monthly, KVM, 20 GB, n/a, SSD": [
+        "https://vpsget.com/cart.php?a=add&pid=82"
+      ],
+      "n/a, n/a, 1 GB RAM, 1 GB Swap, 25 GB disk, 1 TB bandwidth": [
+        "https://www.lfcvps.com/cart.php?a=add&pid=46"
+      ],
+      "n/a, no details, n/a": [
+        "https://www.trunkspacehosting.com/billing/cart.php?a=add&pid=318&promocode=LEBVPN2019",
+        "https://client.host4fun.com/cart.php?gid=38"
+      ],
+      "Monthly, OPENVZ, 2GB OpenVZ SSD, 60GB SSD, 2GB RAM": [
+        "https://portal.dedipath.com/cart.php?a=add&pid=256"
+      ],
+      "Monthly, KVM, 1GB KVM SSD, 10GB SSD, 1GB RAM": [
+        "https://portal.dedipath.com/cart.php?a=add&pid=264",
+        "https://portal.dedipath.com/cart.php?a=add&pid=264?utmsource=LEBJune&utmmedium=lebads"
+      ],
+      "Monthly, OPENVZ, no details": [
+        "https://billing.chicagovps.net/cart.php?a=add&pid=80"
+      ]
+    },
+    "6.7": {
+      "Monthly, KVM, 2048MB Dedicated RAM, 500GB HDD": [
+        "https://my.letbox.com/cart.php?a=add&pid=36"
+      ]
+    },
+    "6.93": {
+      "Monthly, OPENVZ, 3072 MB Dedicated Ram, 100 GB Disk, 2.5 TB Bandwidth": [
+        "https://billing.chicagovps.net/cart.php?a=add&pid=155",
+        "https://billing.chicagovps.net/cart.php?a=add&pid=156"
+      ]
+    },
+    "6.95": {
+      "Monthly, KVM, 512 MB RAM, 20 GB Disk, 1000 GB Bandwidth": [
+        "https://my.hosth.ink/cart.php?a=add&pid=212"
+      ],
+      "Monthly, OPENVZ, no details": [
+        "http://billing.chicagovps.net/cart.php?a=add&pid=11",
+        "http://billing.chicagovps.net/cart.php?a=add&pid=11&promocode=256",
+        "https://billing.chicagovps.net/cart.php?a=add&pid=11"
+      ],
+      "Monthly, n/a, 4096 MB Guaranteed RAM, 20 GB SSD, 1000 GB Bandwidth": [
+        "https://my.hosth.ink/cart.php?a=add&pid=254"
+      ],
+      "n/a, no details": [
+        "https://crm.nqhost.com/cart.php?a=add&pid=53",
+        "https://crm.nqhost.com/cart.php?a=add&pid=77",
+        "https://crm.nqhost.com/cart.php?a=add&pid=82",
+        "https://crm.nqhost.com/cart.php?a=add&pid=83"
+      ],
+      "n/a, n/a, 256MB, 10GB": [
+        "https://www.123systems.net/billing/cart.php?a=add&pid=122"
+      ],
+      "Monthly, n/a, 100 GB RAID-10 Disk, 6144 MB Dedicated RAM, 6144 MB vSwap, 20 TB Premium Bandwidth": [
+        "https://www.flipperhost.com/billing/cart.php?a=add&pid=245"
+      ]
+    },
+    "6.98": {
+      "Monthly, n/a, 2 GB, 40 GB": [
+        "https://portal.hyperexpert.com/cart.php?a=add&pid=22",
+        "https://portal.hyperexpert.com/cart.php?a=add&pid=62",
+        "https://portal.hyperexpert.com/cart.php?a=add&pid=86"
+      ]
+    },
+    "6.99": {
+      "n/a, no details, SSD": [
+        "https://billing.exabytes.com/mypanel/cart.php?a=add&pid=473&carttpl=standardcart&promocode=LEBOFFER1&billingcycle=monthly",
+        "https://billing.exabytes.com/mypanel/cart.php?a=add&pid=473&carttpl=standardcart&promocode=LEBOFFER2&billingcycle=annually"
+      ],
+      "Monthly, KVM, 2GB, n/a, SSD": [
+        "https://www.hostnextra.com/secure/cart.php?a=add&pid=264&promocode=KVM30"
+      ],
+      "n/a, n/a, 100MB, n/a, SSD": [
+        "https://billing.exabytes.com/mypanel/cart.php?a=add&pid=496&carttpl=standardcart&promocode=LEBOFFER3&billingcycle=monthly",
+        "https://billing.exabytes.com/mypanel/cart.php?a=add&pid=496&carttpl=standardcart&promocode=LEBOFFER4&billingcycle=annually"
+      ],
+      "Monthly, KVM, 3GB RAM, 70GB SSD": [
+        "https://billing.81vps.com/cart.php?a=add&pid=105"
+      ],
+      "Monthly, OPENVZ, 1024MB, n/a, HDD": [
+        "https://www.tragicservers.com/cart.php?a=add&pid=127"
+      ],
+      "Monthly, n/a, 4GB, n/a, SSD": [
+        "https://crm.vpscheap.net/cart.php?a=add&pid=221"
+      ],
+      "Monthly, n/a, 100 GB RAID-10 Disk, 6144 MB Dedicated RAM, 6144 MB vSwap, 20 TB Premium Bandwidth": [
+        "https://www.flipperhost.com/billing/cart.php?a=add&pid=323"
+      ]
+    },
+    "7.0": {
+      "n/a, n/a, 256MB Memory, 30 GB RAID-10 Hard Drive Storage, 1000 GB Bandwidth": [
+        "https://billing.edgevm.com/cart.php?a=add&pid=10"
+      ],
+      "Monthly, KVM, 2048MB, n/a, HDD": [
+        "https://greencloudvps.com/billing/cart.php?a=add&pid=365",
+        "https://greencloudvps.com/billing/cart.php?a=add&pid=410"
+      ],
+      "Monthly, n/a, 30 GB, n/a, SSD": [
+        "https://hive.happybeehost.com/cart.php?a=add&pid=10",
+        "https://hive.happybeehost.com/cart.php?a=add&pid=10&a=add&currency=1",
+        "https://hive.happybeehost.com/cart.php?a=add&pid=10&promocode=HAPPY50"
+      ],
+      "Monthly, OPENVZ, n/a, n/a, SSD": [
+        "https://billing.indovirtue.com/cart.php?a=add&pid=17"
+      ],
+      "Monthly, no details, n/a": [
+        "https://legionbox.com/billing/cart.php?a=add&pid=17"
+      ],
+      "Monthly, KVM, 4GB Memory, 60GB RAID10 Disk": [
+        "https://portal.thestack.net/cart.php?a=add&pid=123"
+      ],
+      "Monthly, OPENVZ, no details": [
+        "https://www.tragicservers.com/cart.php?a=add&pid=114",
+        "https://www.tragicservers.com/cart.php?a=add&pid=121",
+        "https://billing.chicagovps.net/cart.php?a=add&pid=106",
+        "https://billing.chicagovps.net/cart.php?a=add&pid=120",
+        "https://billing.chicagovps.net/cart.php?a=add&pid=71"
+      ],
+      "Monthly, XEN, n/a, n/a, SSD": [
+        "https://my.virpus.com/cart.php?a=add&pid=172&cattpl=web20cart"
+      ],
+      "Monthly, n/a, 6GB, n/a, n/a": [
+        "https://vpsdime.com/cart.php?a=add&pid=1",
+        "https://vpsdime.com/cart.php?a=add&pid=18",
+        "https://vpsdime.com/cart.php?a=add&pid=29",
+        "https://vpsdime.com/cart.php?a=add&pid=39",
+        "https://vpsdime.com/cart.php?a=add&pid=41"
+      ],
+      "Monthly, n/a, 2 GB RAM, 40 GB Disk": [
+        "https://my.hostitbro.com/cart.php?a=add&pid=28"
+      ],
+      "Monthly, XEN, no details": [
+        "https://legionbox.com/billing/cart.php?a=add&pid=18"
+      ],
+      "n/a, n/a, 512 MB DDR3, 512 MB DDR3, 50GB SSD": [
+        "https://lunarvps.com/portal/cart.php?a=add&pid=20",
+        "https://lunarvps.com/portal/cart.php?a=add&pid=29",
+        "https://lunarvps.com/portal/cart.php?a=add&pid=3"
+      ],
+      "n/a, n/a, 2000 GB Bandwidth, 2048 MB vSwap": [
+        "https://billing.nodeserv.com/cart.php?a=add&pid=23"
+      ],
+      "Monthly, n/a, 1024MB RAM, 512MB vSwap, 15GB HD Storage, 1TB 1Gbit Bandwidth": [
+        "https://my.pieserv.com/cart.php?a=add&pid=14"
+      ],
+      "Monthly, n/a, 1GB, n/a, HDD": [
+        "https://billing.zappiehost.com/cart.php?a=add&pid=15"
+      ],
+      "Monthly, n/a, 512mB DedicatedStorage, 12GB SAN (SSD": [
+        "https://servarica.com/clients/cart.php?a=add&pid=160"
+      ],
+      "Monthly, n/a, 1 GB, n/a, n/a": [
+        "https://ssdvps.com/portal/cart.php?a=add&pid=13&carttpl=cart"
+      ],
+      "n/a, n/a, 512MB Memory, 40 GB RAID-10 Hard Drive Storage, 1500 GB Bandwidth": [
+        "https://billing.edgevm.com/cart.php?a=add&pid=16"
+      ],
+      "n/a, no details, n/a": [
+        "https://iportal.host/cart.php?a=add&pid=20",
+        "https://client.host4fun.com/cart.php?gid=31",
+        "https://client.host4fun.com/cart.php?gid=34",
+        "https://client.host4fun.com/cart.php?gid=43",
+        "https://client.host4fun.com/cart.php?gid=44",
+        "https://client.host4fun.com/cart.php?gid=45",
+        "https://client.host4fun.com/cart.php?gid=46",
+        "https://client.host4fun.com/cart.php?gid=47",
+        "https://client.host4fun.com/cart.php?gid=48",
+        "https://client.host4fun.com/cart.php?gid=50",
+        "https://client.host4fun.com/cart.php?gid=54",
+        "https://client.host4fun.com/cart.php?gid=55",
+        "https://client.host4fun.com/cart.php?gid=56",
+        "https://client.host4fun.com/cart.php?gid=57",
+        "https://client.host4fun.com/cart.php?gid=61"
+      ],
+      "Monthly, n/a, 1024MB RAM, 512MB vSwap, 15GB SSD, 1TB 1000Mbit Bandwidth": [
+        "https://my.pieserv.com/cart.php?a=add&pid=27"
+      ],
+      "n/a, no details": [
+        "https://billing.virmach.com/cart.php?a=add&pid=156&billingcycle=annually&promocode=LEBSTORAGE25",
+        "https://billing.chicagovps.net/cart.php?gid=31"
+      ],
+      "Monthly, KVM, 4 GB, 60 GB": [
+        "https://www.littlecreekhosting.com/clients/cart.php?a=add&pid=353"
+      ],
+      "n/a, n/a, 512 MB DDR3, 512 MB DDR3, 20GB SSD": [
+        "https://lunarvps.com/portal/cart.php?a=add&pid=47",
+        "https://lunarvps.com/portal/cart.php?a=add&pid=56"
+      ],
+      "Monthly, n/a, 1GB PlanCPU : 1 VCPURAM, 1GB DedicatedStorage, 20GB SAN storage, 1 TB Bandwidth": [
+        "https://servarica.com/clients/cart.php?a=add&pid=198"
+      ],
+      "Monthly, n/a, 2 GB, n/a, n/a": [
+        "https://ssdvps.com/portal/cart.php?a=add&pid=15&carttpl=cart",
+        "https://ssdvps.com/portal/cart.php?a=add&pid=19&carttpl=cart"
+      ],
+      "Monthly, n/a, 1GB, 50GB": [
+        "https://billing.zappiehost.com/cart.php?a=add&pid=33"
+      ],
+      "Monthly, KVM, 2GB, n/a, SSD": [
+        "https://clients.ionswitch.com/cart.php?a=add&pid=3&promocode=JUNELEB",
+        "https://clients.ionswitch.com/cart.php?a=add&pid=3&promocode=LEBPROMO"
+      ],
+      "Monthly, n/a, 1024MB RAM, 1024MB vSwap, 25GB SSD, 1TB Bandwidth": [
+        "https://my.pieserv.com/cart.php?a=add&pid=31"
+      ],
+      "Monthly, XEN, 2.5GB SSD, 2.5GB DedicatedStorage, 25GB SSD": [
+        "https://servarica.com/clients/cart.php?a=add&pid=223"
+      ],
+      "Monthly, KVM, 2GB, n/a, n/a": [
+        "https://my.frantech.ca/cart.php?a=add&pid=1402"
+      ],
+      "n/a, n/a, 1024 MB DDR3, 30 GB SSD, 2 TB Bandwidth": [
+        "https://portal.hosthatch.com/cart.php?a=add&pid=108"
+      ],
+      "Monthly, n/a, 2GB ram, 40GB SSD, 2GB ram, 40GB SSD": [
+        "https://crm.vpscheap.net/cart.php?a=add&pid=207"
+      ],
+      "n/a, n/a, 1024 MB DDR3, 1024 MB vSwap, 75 GB SSD, 2.5 TB bandwidth": [
+        "https://portal.hosthatch.com/cart.php?a=add&pid=119",
+        "https://portal.hosthatch.com/cart.php?a=add&pid=128",
+        "https://portal.hosthatch.com/cart.php?a=add&pid=146"
+      ],
+      "Monthly, KVM, 1GB, n/a, n/a": [
+        "https://my.pieserv.com/cart.php?a=add&pid=70"
+      ],
+      "n/a, OPENVZ, 3 GB, 30 GB SSD": [
+        "https://secure.ftpit.com/cart.php?a=add&pid=40"
+      ],
+      "Monthly, n/a, 4GB DDR4, 512 MB vSWAP, 40 GB SSD": [
+        "https://my.pieserv.com/cart.php?a=add&pid=71"
+      ],
+      "n/a, n/a, 40GB HDD, 1GB RAM": [
+        "https://billing.hudsonvalleyhost.com/cart.php?a=add&pid=487"
+      ],
+      "n/a, n/a, 1500 GB Bandwidth, 1024 MB Dedicated RAM, 1024 MB vSwap": [
+        "https://billing.nodeserv.com/cart.php?a=add&pid=59"
+      ],
+      "Monthly, n/a, 1024MB RAM, 30GB HD Storage, 1000 GB 1Gbit Bandwidth": [
+        "https://my.pieserv.com/cart.php?a=add&pid=9"
+      ],
+      "Monthly, n/a, 500GB, n/a, SAS": [
+        "https://my.letbox.com/cart.php?a=add&pid=30"
+      ],
+      "Monthly, OPENVZ, 1GB HDD, 1GB RAM, 256MB Swap, 240GB HDD": [
+        "https://portal.catalysthost.com/cart.php?a=add&pid=170"
+      ],
+      "Monthly, KVM, 2GB RAM, 20GB SSD, 2TB Bandwidth": [
+        "https://my.hostus.us/cart.php?a=add&pid=370"
+      ],
+      "n/a, n/a, 2000 GB Bandwidth, 2048 MB Dedicated RAM, 4096 MB vSwap": [
+        "https://billing.nodeserv.com/cart.php?a=add&pid=62"
+      ],
+      "Monthly, OPENVZ, 2048MB Dedicated Ram, 100 GB Disk, 2TB Bandwidth": [
+        "https://billing.chicagovps.net/cart.php?a=add&pid=121",
+        "https://billing.chicagovps.net/cart.php?a=add&pid=122"
+      ],
+      "n/a, n/a, 30GB HDD, 1GB RAM": [
+        "https://billing.hudsonvalleyhost.com/cart.php?a=add&pid=537"
+      ],
+      "Monthly, KVM, 512MB RAM, 60GB SSD, 2000GB Bandwidth": [
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=161",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=161&promocode=any10"
+      ],
+      "n/a, n/a, 1024 MB DDR3, 1024 MB vSwap, 75 GB SSD, 25 TB bandwidth": [
+        "https://portal.hosthatch.com/cart.php?a=add&pid=200",
+        "https://portal.hosthatch.com/cart.php?a=add&pid=210"
+      ],
+      "Monthly, KVM, 512MB RAM, 15GB SSD, 2000GB Bandwidth": [
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=20&promocode=black42",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=20&promocode=noway42",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=60&promocode=black42",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=60&promocode=noway42",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=91&promocode=black42",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=91&promocode=noway42"
+      ],
+      "Monthly, n/a, 2048MB RAM, 60GB SSD, 2000GB Bandwidth": [
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=205",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=205&promocode=any10",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=208",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=208&promocode=any10",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=220",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=220&promocode=any10",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=262",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=262&promocode=any10"
+      ],
+      "Monthly, n/a, 2GB RAM, 2GB RAM": [
+        "https://billing.chicagovps.net/cart.php?a=add&pid=230"
+      ],
+      "Monthly, OPENVZ, 4GB Ram, 80 GB Disk, 2TB Monthly Bandwidth": [
+        "https://billing.chicagovps.net/cart.php?a=add&pid=564"
+      ]
+    },
+    "7.12": {
+      "Quarterly, n/a, 512 MB, 5GB ": [
+        "https://nexusbytes.com/cart.php?a=add&pid=18"
+      ]
+    },
+    "7.47": {
+      "Quarterly, OPENVZ, 128MB, n/a, SSD": [
+        "https://securedragon.net/clients/cart.php?a=add&pid=9"
+      ]
+    },
+    "7.5": {
+      "n/a, no details": [
+        "https://bluevm.com/cart.php?gid=37",
+        "https://bluevm.com/cart.php?gid=37&promocode=1024for25",
+        "https://bluevm.com/cart.php?gid=37&promocode=LEBQUARTER",
+        "https://www.bluevm.com/cart.php?gid=37&promocode=1024for25",
+        "https://www.bluevm.com/cart.php?gid=37&promocode=LOWENDBOX"
+      ],
+      "n/a, n/a, 3GB, n/a, SSD": [
+        "http://hostmayo.com/members/order.php?step=1&productGroup=24&product=144",
+        "https://hostmayo.com/members/order.php?step=1&productGroup=24&product=144"
+      ]
+    },
+    "7.9": {
+      "Monthly, KVM, 4096MB RAM, 70GB SSD, 7000GB Bandwidth": [
+        "https://www.flipperhost.com/billing/cart.php?a=add&pid=350"
+      ]
+    },
+    "7.95": {
+      "n/a, no details": [
+        "https://backyard.prequent.net/cart.php?a=add&pid=141",
+        "http://secure.bigboxhost.com/cart.php?a=add&pid=37"
+      ],
+      "n/a, n/a, 256MB RAM, 512MB Swap, 20GB disk, 300GB bandwidth": [
+        "http://www.lfcvps.com/cart.php?a=add&pid=3",
+        "http://www.lfcvps.com/cart.php?a=add&pid=31"
+      ],
+      "Monthly, n/a, 1GB, n/a, n/a": [
+        "https://my.letbox.com/cart.php?a=add&pid=33"
+      ],
+      "Monthly, KVM, 2048MB, n/a, HDD": [
+        "https://greencloudvps.com/cart.php?a=add&pid=197"
+      ]
+    },
+    "7.98": {
+      "Monthly, n/a, 2 GB, 40 GB": [
+        "https://portal.hyperexpert.com/cart.php?a=add&pid=37",
+        "https://portal.hyperexpert.com/cart.php?a=add&pid=66",
+        "https://portal.hyperexpert.com/cart.php?a=add&pid=91"
+      ]
+    },
+    "7.99": {
+      "n/a, no details": [
+        "https://members.hostnoc.com/cart.php?gid=21"
+      ],
+      "Monthly, no details, n/a": [
+        "https://www.gnomeitsolutions.com/cart.php?a=add&pid=9&billingcycle=monthly"
+      ],
+      "Monthly, n/a, 2048MB, n/a, n/a": [
+        "https://crm.vpscheap.net/cart.php?a=add&pid=263&promocode=LET20FOREVER1"
+      ],
+      "Monthly, n/a, 2GB Dedicated Ram, 50 GB Pure SSD, 3TB Bandwidth": [
+        "https://billing.chicagovps.net/cart.php?a=add&pid=578"
+      ]
+    },
+    "8.0": {
+      "Monthly, KVM, 1 GB, 30 GB": [
+        "https://client.fullvpsserver.com/cart.php?a=add&pid=43"
+      ],
+      "Quarterly, n/a, 2 GB, 60 GB HDD": [
+        "https://hosterlabs.net/panel/cart.php?a=add&pid=109"
+      ],
+      "Monthly, XEN, no details": [
+        "https://regvps.com/billing/cart.php?a=add&pid=2"
+      ],
+      "Monthly, no details, n/a": [
+        "https://regvps.com/billing/cart.php?a=add&pid=7"
+      ],
+      "n/a, KVM, 1 GB, 30 GB HDD": [
+        "https://secure.ftpit.com/cart.php?a=add&pid=102"
+      ],
+      "n/a, no details, SSD": [
+        "https://www.liveinhost.com/cs/cart.php?a=add&pid=48"
+      ],
+      "Monthly, n/a, 4096MB RAM, 2048MB SWAP, 20GB NVMe, 512GB Bandwidth": [
+        "https://greencloudvps.com/billing/cart.php?a=add&pid=391"
+      ],
+      "Monthly, n/a, 1GB, 1GB": [
+        "http://mgmt.hostbrew.com/cart.php?a=add&pid=8",
+        "https://mgmt.hostbrew.com/cart.php?a=add&pid=8"
+      ],
+      "Monthly, n/a, 45GB, 45GB": [
+        "https://hosterlabs.net/panel/cart.php?a=add&pid=46"
+      ],
+      "Monthly, KVM, 4GB RAM, 80GB SSD": [
+        "https://billing.81vps.com/cart.php?a=add&pid=106"
+      ],
+      "n/a, no details, HDD": [
+        "https://www.liveinhost.com/cs/cart.php?a=add&pid=53"
+      ],
+      "Quarterly, n/a, 256MB RAM, 25GB SSD, 1000GB Bandwidth": [
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=103&promocode=black42",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=109&promocode=black42",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=115&promocode=black42"
+      ],
+      "Monthly, n/a, 2048MB, 15GB": [
+        "https://greencloudvps.com/cart.php?a=add&pid=190"
+      ],
+      "Monthly, n/a, 2GB, 60 GB": [
+        "https://billing.chicagovps.net/cart.php?a=add&pid=239&promocode=LEBProfessional"
+      ],
+      "Quarterly, n/a, 256MB RAM, 120GB HDD, 1000GB Bandwidth": [
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=47&promocode=ONEYEAR",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=47&promocode=black42",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=47&promocode=leb35",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=47&promocode=noway42",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=65&promocode=ONEYEAR",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=65&promocode=black42",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=65&promocode=leb35",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=65&promocode=noway42"
+      ],
+      "n/a, no details": [
+        "https://clientarea.ramnode.com/cart.php?gid=11&promocode=NOWAY42",
+        "https://clientarea.ramnode.com/cart.php?gid=15&promocode=NOWAY42",
+        "https://clientarea.ramnode.com/cart.php?gid=24&promocode=NOWAY42"
+      ]
+    },
+    "8.16": {
+      "Monthly, OPENVZ, 75GB RAID10 Disk, 1000GB Bandwidth": [
+        "https://my.iniz.com/cart.php?a=add&pid=84",
+        "https://my.iniz.com/cart.php?a=add&pid=84&currency=2&promocode=2014Q1",
+        "https://my.iniz.com/cart.php?a=add&pid=84&currency=2&promocode=OPENVZIO",
+        "https://my.iniz.com/cart.php?a=add&pid=84&promocode=OPENVZIO",
+        "https://my.iniz.com/cart.php?a=add&pid=84&promocode=OPENVZIO&currency=2",
+        "https://my.iniz.com/cart.php?a=confproduct&i=5&currency=2"
+      ]
+    },
+    "8.25": {
+      "Monthly, n/a, 8 GB, n/a, n/a": [
+        "https://cheapwindowsvps.com/manage/cart.php?a=add&pid=46"
+      ]
+    },
+    "8.6": {
+      "Monthly, XEN, 20GB HDD, 512MB Memory, 256MB Swap, 1Gbps Bandwidth": [
+        "https://www.hostinginside.com//billing/cart.php?a=add&pid=103",
+        "https://www.hostinginside.com/billing/cart.php?a=add&pid=103&promocode=7USD"
+      ],
+      "Monthly, XEN, 20GB HDD, 512MB Memory, 256MB Swap, 100mbps Bandwidth": [
+        "https://www.hostinginside.com//billing/cart.php?a=add&pid=120",
+        "https://www.hostinginside.com/billing/cart.php?a=add&pid=120&promocode=7USD"
+      ],
+      "Monthly, XEN, 10GB SSD, 512MB Memory, 256MB Swap, 1Gbps Bandwidth": [
+        "https://www.hostinginside.com//billing/cart.php?a=add&pid=185"
+      ]
+    },
+    "8.75": {
+      "Monthly, KVM, 768MB RAM, 600GB Disk, 3TB Bandwidth": [
+        "https://my.hostus.us/cart.php?a=add&pid=323&promocode=LEBSTORAGE"
+      ]
+    },
+    "8.88": {
+      "Monthly, n/a, 512MB, n/a, HDD": [
+        "https://my.starrydns.com/cart.php?a=add&pid=381&currency=2&language=english"
+      ]
+    },
+    "8.95": {
+      "Monthly, KVM, 1024 MB RAM, 30 GB Disk, 1350 GB Bandwidth": [
+        "https://my.hosth.ink/cart.php?a=add&pid=295"
+      ],
+      "Monthly, n/a, 125GB RAID-10 Disk, 8192 MB Dedicated RAM, 8192 MB vSwap, 25 TB Premium Bandwidth": [
+        "https://www.flipperhost.com/billing/cart.php?a=add&pid=337"
+      ]
+    },
+    "8.98": {
+      "Monthly, n/a, 2 GB, 40 GB": [
+        "https://portal.hyperexpert.com/cart.php?a=add&pid=58",
+        "https://portal.hyperexpert.com/cart.php?a=add&pid=70",
+        "https://portal.hyperexpert.com/cart.php?a=add&pid=95"
+      ]
+    },
+    "8.99": {
+      "n/a, n/a, 40 GB SSD, 2 GB DDR4": [
+        "https://client.hostslayer.com/cart.php?a=add&pid=30"
+      ],
+      "n/a, n/a, 8GB ECC RAM, 40GB RAID10 SSD": [
+        "https://www.ssdnodes.com/manage/cart.php?a=add&pid=151"
+      ]
+    },
+    "9.0": {
+      "Monthly, OPENVZ, 3 GB Guaranteed RAM, 40 GB RAID-10 SSD": [
+        "https://billing.whitelabelitsolutions.com/cart.php?a=add&pid=236"
+      ],
+      "Monthly, KVM, 500 MB, 20 GB": [
+        "https://client.fullvpsserver.com/cart.php?a=add&pid=73"
+      ],
+      "Monthly, n/a, 6 GB, 90 GB": [
+        "https://www.littlecreekhosting.com/clients/cart.php?a=add&pid=351"
+      ],
+      "Monthly, KVM, 2GB, n/a, NVME": [
+        "https://clients.ionswitch.com/cart.php?a=add&pid=21"
+      ],
+      "n/a, no details": [
+        "https://cheapwindowsvps.com/manage/cart.php?a=add&pid=22&carttpl=cart"
+      ],
+      "Monatlich, KVM, 6 GB RAM, 60 GB SSD": [
+        "https://clients.desivps.com/cart.php?a=add&pid=27&currency=1",
+        "https://clients.desivps.com/cart.php?a=add&pid=56&currency=1"
+      ],
+      "n/a, OPENVZ, 200 GB, n/a, n/a": [
+        "https://client.hostslayer.com/cart.php?a=add&pid=38"
+      ],
+      "Quarterly, OPENVZ, n/a, n/a, SSD": [
+        "https://billing.indovirtue.com/cart.php?a=add&pid=4"
+      ],
+      "n/a, n/a, 4 GB, n/a, n/a": [
+        "https://cheapwindowsvps.com/manage/cart.php?a=add&pid=43"
+      ]
+    },
+    "9.09": {
+      "Monthly, n/a, 1 GB, n/a, SSD": [
+        "https://control.crucial.com.au/cart.php?a=add&pid=339&utmsource=LEB&utmmedium=productvps1gb&utmcontent=LEB1gbvps"
+      ]
+    },
+    "9.5": {
+      "Monthly, OPENVZ, 20GB Disk, 256MB Dedicated RAM, 512MB VSwap": [
+        "http://members.efree2net.com/cart.php?a=add&pid=35"
+      ],
+      "Monthly, KVM, 50GB SSD, 6GB RAM": [
+        "https://cp.pdqserver.com/cart.php?a=add&pid=33"
+      ],
+      "Monthly, OPENVZ, 3GB OpenVZ SSD, 90GB SSD, 3GB RAM": [
+        "https://portal.dedipath.com/cart.php?a=add&pid=257"
+      ],
+      "Monthly, OPENVZ, no details": [
+        "https://billing.chicagovps.net/cart.php?a=add&pid=459"
+      ]
+    },
+    "9.95": {
+      "Monthly, n/a, 1024 MB Guaranteed RAM, 1536 MB Burstable RAM, 15 GB SSD, 1000 GB Bandwidth": [
+        "https://www.hosthink.net/cli/cart.php?a=add&pid=163"
+      ],
+      "Monthly, OPENVZ, no details": [
+        "http://billing.chicagovps.net/cart.php?a=add&pid=12",
+        "http://billing.chicagovps.net/cart.php?a=add&pid=12&promocode=512",
+        "http://billing.chicagovps.net/cart.php?a=add&pid=12&promocode=512yr",
+        "https://billing.chicagovps.net/cart.php?a=add&pid=12"
+      ],
+      "Monthly, n/a, 80MB RAM, 128MB Burst| 5GB Disk, 500 GB Bandwidth": [
+        "https://secure.quickweb.co.nz/system/cart.php?a=add&pid=74&currency=2"
+      ],
+      "Monthly, n/a, 2GB Dedicated Ram, 50 GB Pure SSD, 3TB Bandwidth": [
+        "https://billing.chicagovps.net/cart.php?a=add&pid=454&promocode=SPOOKY2018"
+      ]
+    },
+    "9.99": {
+      "n/a, no details": [
+        "https://asurahosting.com/cart&action=add&id=1&catid=1",
+        "https://asurahosting.com/cart&action=add&id=2&catid=1",
+        "https://clients.hostigger.com/?cmd=cart&action=add&id=1780"
+      ],
+      "Monthly, n/a, 512MB RAM, 20GB SSD": [
+        "https://www.madgenius.com/portal/cart.php?a=add&pid=117"
+      ],
+      "Monthly, OPENVZ, no details": [
+        "https://clients.cometvps.com/cart.php?a=add&pid=225"
+      ],
+      "Monthly, KVM, 2GB DDR3, 40GB SSD": [
+        "https://my.losangelesvps.com/cart.php?a=add&pid=21&promocode=50OFFVPS"
+      ],
+      "Monthly, n/a, 2 GB, n/a, SSD": [
+        "https://vpslot.com/clients/cart.php?a=add&pid=47&=&promocode=1PT3EEGAV6&utmsource=lowendbox&utmmedium=blog&utmcampaign=blogjan2020&utmterm=free&utmcontent=2ssd"
+      ]
+    },
+    "10.0": {
+      "Monthly, KVM, no details": [
+        "https://backupsy.com/cart.php?a=add&pid=1&promocode=BIGDADDY",
+        "https://backupsy.com/cart.php?a=add&pid=1&promocode=HOLYMOSES",
+        "https://backupsy.com/cart.php?a=add&pid=1&promocode=LEBNOV250"
+      ],
+      "n/a, no details": [
+        "https://cheapwindowsvps.com/manage/cart.php?a=add&pid=1&carttpl=cart",
+        "https://www.dot.al/cart.php?a=add&pid=35",
+        "https://www.reliablehostingservices.net/whmcs/cart.php?a=add&pid=230&promocode=LEBSPRING2013",
+        "https://billing.virmach.com/cart.php?a=add&bid=2&promocode=",
+        "https://www.dot.al/cart.php?a=add&pid=35&promocode=70",
+        "https://billing.virmach.com/cart.php?a=add&bid=4",
+        "https://www.dot.al/cart.php?a=add&pid=35&promocode=LEB60OFF",
+        "https://bluevm.com/cart.php?gid=38&promocode=2048for45",
+        "https://bluevm.com/cart.php?gid=38&promocode=LEBQUARTER",
+        "https://simplenode.co/manage/?cmd=cart&action=add&id=103",
+        "https://virmach.com/manage/cart.php?a=add&pid=83&promocode=LEB2016G2",
+        "https://virmach.com/manage/cart.php?a=add&pid=83&promocode=LEB2GB",
+        "https://www.bluevm.com/cart.php?gid=38&promocode=2048for45",
+        "https://virmach.com/manage/cart.php?a=add&pid=83&promocode=LEBBF2016G2"
+      ],
+      "Monthly, KVM, 8GB Ram, 100GB Pure SSD, 5TB Monthly Bandwidth": [
+        "https://cloudserver.net/billing/cart.php?a=add&pid=7"
+      ],
+      "n/a, OPENVZ, 200 GB, n/a, n/a": [
+        "https://client.hostslayer.com/cart.php?a=add&pid=135"
+      ],
+      "Monthly, n/a, 2048MB RAM, 45GB HD Storage": [
+        "https://my.pieserv.com/cart.php?a=add&pid=10"
+      ],
+      "Monthly, n/a, 1GB Memory, 30GB SSD": [
+        "https://helpdesk.wooservers.com/cart.php?a=add&pid=351"
+      ],
+      "Monthly, KVM, n/a, n/a, SSD": [
+        "https://billing.indovirtue.com/cart.php?a=add&pid=27"
+      ],
+      "Monthly, KVM, 1 GB, 30 GB": [
+        "https://www.integralhost.net/BiLLing/cart.php?a=add&pid=5"
+      ],
+      "Monthly, KVM, 1GB Memory, 25GB Storage, 1000GB Bandwidth": [
+        "https://manage.stockvps.com/cart.php?a=add&pid=16"
+      ],
+      "Monthly, n/a, 8GB ECC RAM, 40GB SSD": [
+        "https://billing.accuratenode.com/cart.php?a=add&pid=52"
+      ],
+      "Monthly, KVM, 6GB, 60GB": [
+        "https://portal.steadyvps.com/cart.php?a=add&pid=18"
+      ],
+      "Quarterly, OPENVZ, 2GB RAM, 2GB vSwap, 75GB Disk, 2TB Bandwidth": [
+        "https://my.hostus.us/cart.php?a=add&pid=142"
+      ],
+      "n/a, no details, SSD": [
+        "https://www.liveinhost.com/cs/cart.php?a=add&pid=49"
+      ],
+      "n/a, no details, n/a": [
+        "https://client.host4fun.com/cart.php?gid=25",
+        "https://iportal.host/cart.php?a=add&pid=22",
+        "https://client.host4fun.com/cart.php?gid=29",
+        "https://billing.hudsonvalleyhost.com/cart.php?a=add&pid=476&promocode=8ZVRX6MX6P",
+        "https://billing.hudsonvalleyhost.com/cart.php?a=add&pid=531&promocode=mom19kvm1gbleb",
+        "https://billing.hudsonvalleyhost.com/cart.php?a=add&pid=531&promocode=summer19kvm1gb"
+      ],
+      "Quarterly, KVM, 512MB Memory, 10GB Pure SSD, 1TB Bandwidth": [
+        "https://www.hostflyte.com/myaccount/cart.php?a=add&pid=72"
+      ],
+      "Monthly, OPENVZ, 2GB RAM, 30GB SSD": [
+        "https://my.pieserv.com/cart.php?a=add&pid=28"
+      ],
+      "Monthly, KVM, 3 GB, 80 GB": [
+        "https://www.littlecreekhosting.com/clients/cart.php?a=add&pid=354"
+      ],
+      "Monthly, OPENVZ, 2GB RAM, 2GB vSwap, 70GB SSD, 3TB (3000GB) Bandwidth": [
+        "https://my.hostus.us/cart.php?a=add&pid=197"
+      ],
+      "Monthly, KVM, 1 GB RAM, 512 MB vSWAP, 15 GB SSD": [
+        "https://my.pieserv.com/cart.php?a=add&pid=55"
+      ],
+      "Monthly, n/a, 3 GB RAM, 3 TB Disk, 100mbps Bandwidth": [
+        "https://servarica.com/clients/cart.php?a=add&pid=444"
+      ],
+      "Monthly, n/a, 1 GB RAM, 1 GB RAM": [
+        "https://ssdvps.com/portal/cart.php?a=add&pid=2&carttpl=cart&promocode=LEB1GB50",
+        "https://ssdvps.com/portal/cart.php?a=add&pid=2&carttpl=cart&promocode=LEB30OFF",
+        "https://ssdvps.com/portal/cart.php?a=add&pid=2&carttpl=cart&promocode=LEB40OFF"
+      ],
+      "Monatlich, KVM, 4 GB RAM, 80 GB SSD": [
+        "https://clients.desivps.com/cart.php?a=add&pid=41&currency=1"
+      ],
+      "n/a, n/a, 4GB, n/a, SSD": [
+        "https://hostmayo.com/members/order.php?step=1&productGroup=24&product=149"
+      ],
+      "Monthly, KVM, 20GB, n/a, n/a": [
+        "https://my.letbox.com/cart.php?a=add&pid=28"
+      ],
+      "Monthly, KVM, 4096MB, n/a, HDD": [
+        "https://greencloudvps.com/billing/cart.php?a=add&pid=411"
+      ],
+      "Monthly, KVM, 2GB, 2GB": [
+        "https://mgmt.hostbrew.com/cart.php?a=add&pid=68&promocode=LEBKVMSSDLAUNCH"
+      ],
+      "Monthly, KVM, 3GB RAM, 35GB SSD, 3TB Bandwidth": [
+        "https://my.hostus.us/cart.php?a=add&pid=371"
+      ],
+      "n/a, n/a, 512 MB RAM, 500 GB HDD, 2 TB bandwidth": [
+        "https://portal.hosthatch.com/cart.php?a=add&pid=168",
+        "https://portal.hosthatch.com/cart.php?a=add&pid=176",
+        "https://portal.hosthatch.com/cart.php?a=add&pid=184"
+      ],
+      "Monthly, n/a, 1GB RAM, 512MB vSwap, 50GB SSD, 4TB Bandwidth": [
+        "https://portal.catalysthost.com/cart.php?a=add&pid=82"
+      ],
+      "Monthly, n/a, 1GB RAM, 512MB vSwap, 100GB HDD, 4TB Bandwidth": [
+        "https://portal.catalysthost.com/cart.php?a=add&pid=89"
+      ],
+      "Monthly, OPENVZ, 3072 MB Dedicated Ram, 100 GB Disk, 3 TB Bandwidth": [
+        "https://billing.chicagovps.net/cart.php?a=add&pid=280"
+      ]
+    },
+    "10.09": {
+      "Annually, OPENVZ, 128 MB RAM, 128 MB VSwap, 10 GB HDD, 128 GB Bandwidth": [
+        "https://clients.hostsailor.com/cart.php?a=add&pid=132"
+      ]
+    },
+    "10.5": {
+      "Monthly, KVM, 2GB KVM SSD, 20GB SSD, 2GB RAM": [
+        "https://portal.dedipath.com/cart.php?a=add&pid=265",
+        "https://portal.dedipath.com/cart.php?a=add&pid=265?utmsource=LEBJune&utmmedium=lebads"
+      ],
+      "n/a, n/a, 25GB Disk, 500GB Bandwidth, 256MB Ram": [
+        "https://billing.hudsonvalleyhost.com/cart.php?a=add&pid=515"
+      ]
+    },
+    "10.88": {
+      "Monthly, OPENVZ, 100GB RAID10 Disk, 2000GB Bandwidth": [
+        "https://my.iniz.com/cart.php?a=add&pid=85&currency=2&promocode=2014Q2",
+        "https://my.iniz.com/cart.php?a=add&pid=85&cy=2&promocode=2014Q2"
+      ]
+    },
+    "10.98": {
+      "Annually, KVM, 17 GB PURE SSD, 1 GB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=358"
+      ]
+    },
+    "11.0": {
+      "n/a, n/a, 150GB Disk, 3000GB Bandwidth, 2048MB RAM": [
+        "https://billing.hudsonvalleyhost.com/cart.php?a=add&pid=81&promocode=blackfridayvps2011",
+        "https://billing.hudsonvalleyhost.com/cart.php?a=add&pid=81&promocode=july4th55"
+      ]
+    },
+    "11.1": {
+      "Monthly, KVM, 512MB, n/a, HDD": [
+        "https://my.starrydns.com/cart.php?a=add&pid=490&currency=2"
+      ]
+    },
+    "11.99": {
+      "Monthly, no details, n/a": [
+        "https://www.gnomeitsolutions.com/cart.php?a=add&pid=10&billingcycle=monthly"
+      ],
+      "n/a, no details, n/a": [
+        "https://billing.hudsonvalleyhost.com/cart.php?gid=12"
+      ]
+    },
+    "12.0": {
+      "n/a, no details, n/a": [
+        "http://my.hkserver.cn/cart.php?a=add&pid=119"
+      ],
+      "Quarterly, KVM, 30GB SSD, 2GB RAM": [
+        "https://cp.pdqserver.com/cart.php?a=add&pid=31"
+      ],
+      "n/a, n/a, 5 GB, n/a, n/a": [
+        "http://my.silicomnetwork.com/order.php?step=1&productGroup=1&product=20"
+      ],
+      "Monthly, no details, n/a": [
+        "https://winity.io/cart.php?a=add&pid=1&promocode=LEBJUNE",
+        "https://winity.io/cart.php?a=add&pid=1&promocode=WOWNUM5"
+      ],
+      "Monthly, n/a, 1GB DedicatedStorage, 24GB SAN (SSD": [
+        "https://servarica.com/clients/cart.php?a=add&pid=159"
+      ],
+      "Quarterly, n/a, 5 GB, n/a, n/a": [
+        "https://ssdvps.com/portal/cart.php?a=add&pid=11&carttpl=cart"
+      ],
+      "Monthly, n/a, 4 GB of RAM, 45 GB NVMe": [
+        "https://hosterlabs.net/panel/cart.php?a=add&pid=115&promocode=LEBexclusive"
+      ],
+      "n/a, KVM, 2 GB, 50 GB HDD": [
+        "https://secure.ftpit.com/cart.php?a=add&pid=103"
+      ],
+      "Quarterly, KVM, 1GB Memory, 20GB Pure SSD, 2TB Bandwidth": [
+        "https://www.hostflyte.com/myaccount/cart.php?a=add&pid=73"
+      ],
+      "Annually, OPENVZ, 512MB OpenVZ SSD, 5GB SSD, 512MB RAM": [
+        "https://portal.dedipath.com/cart.php?a=add&pid=311"
+      ],
+      "Annually, OPENVZ, 256MB RAM, 128MB vSwap, 10GB Storage": [
+        "https://portal.catalysthost.com/cart.php?a=add&pid=174"
+      ],
+      "n/a, n/a, 50GB Disk, 1000GB Bandwidth, 512MB Ram": [
+        "https://billing.hudsonvalleyhost.com/cart.php?a=add&pid=516"
+      ],
+      "Monthly, n/a, 4GB, 80 GB": [
+        "https://billing.chicagovps.net/cart.php?a=add&pid=244&promocode=SPOOKY2018"
+      ],
+      "Annually, OPENVZ, no details": [
+        "https://billing.chicagovps.net/cart.php?a=add&pid=73",
+        "https://billing.chicagovps.net/cart.php?a=add&pid=74",
+        "https://billing.chicagovps.net/cart.php?a=add&pid=94"
+      ]
+    },
+    "12.29": {
+      "Monthly, LXC, 4 GB ECC RAM, 80 GB ZFS SSD, 500 Mbps Bandwidth": [
+        "https://cp.launchvps.com/cart.php?a=add&pid=20&promocode=LEBLXC2GB"
+      ]
+    },
+    "12.5": {
+      "Monthly, KVM, 2 MB, n/a, SSD": [
+        "https://billing.skyxtech.com/cart.php?a=add&pid=56"
+      ],
+      "Monthly, OPENVZ, 4GB OpenVZ SSD, 120GB SSD, 4GB RAM": [
+        "https://portal.dedipath.com/cart.php?a=add&pid=262"
+      ],
+      "Quarterly, KVM, 256MB RAM, 200GB Disk, 1TB Bandwidth": [
+        "https://my.hostus.us/cart.php?a=add&pid=321&promocode=LEBSTORAGE"
+      ],
+      "n/a, n/a, 256MB, 10GB": [
+        "https://www.123systems.net/billing/cart.php?a=add&pid=129"
+      ]
+    },
+    "13.0": {
+      "Monthly, n/a, 2GB, n/a, HDD": [
+        "https://billing.zappiehost.com/cart.php?a=add&pid=16"
+      ],
+      "Monthly, n/a, 2GB, 100GB": [
+        "https://billing.zappiehost.com/cart.php?a=add&pid=34",
+        "https://billing.zappiehost.com/cart.php?a=confproduct&i=1"
+      ]
+    },
+    "13.95": {
+      "Monthly, n/a, 4GB Dedicated Ram, 80 GB Pure SSD, 5TB Bandwidth": [
+        "https://billing.chicagovps.net/cart.php?a=add&pid=583"
+      ]
+    },
+    "13.96": {
+      "Monthly, n/a, 4 GB, 80 GB": [
+        "https://portal.hyperexpert.com/cart.php?a=add&pid=100",
+        "https://portal.hyperexpert.com/cart.php?a=add&pid=23",
+        "https://portal.hyperexpert.com/cart.php?a=add&pid=63",
+        "https://portal.hyperexpert.com/cart.php?a=add&pid=87"
+      ]
+    },
+    "13.99": {
+      "Monthly, no details, SSD": [
+        "https://crm.vpscheap.net/cart.php?a=add&pid=163&promocode=SSD50OFF"
+      ],
+      "Monthly, OPENVZ, 2048MB, n/a, HDD": [
+        "https://www.tragicservers.com/cart.php?a=add&pid=128"
+      ]
+    },
+    "14.0": {
+      "Monthly, n/a, 2048MB RAM, 1024MB vSwap, 45GB HD Storage, 1TB 1Gbit Bandwidth": [
+        "https://my.pieserv.com/cart.php?a=add&pid=15"
+      ],
+      "Monthly, n/a, 2GB, 2GB": [
+        "http://mgmt.hostbrew.com/cart.php?a=add&pid=9"
+      ],
+      "Quarterly, KVM, 2GB Memory, 30GB Pure SSD, 4TB Bandwidth": [
+        "https://www.hostflyte.com/myaccount/cart.php?a=add&pid=74"
+      ],
+      "Monthly, VMWARE, 1GB RAM, 30GB HDD": [
+        "https://billing.serveria.com/cart.php?a=add&pid=4"
+      ],
+      "n/a, no details, n/a": [
+        "https://client.host4fun.com/cart.php?gid=37"
+      ],
+      "n/a, n/a, 2048 MB DDR3, 2048 MB vSwap, 100 GB SSD, 3.5 TB bandwidth": [
+        "https://portal.hosthatch.com/cart.php?a=add&pid=120",
+        "https://portal.hosthatch.com/cart.php?a=add&pid=129",
+        "https://portal.hosthatch.com/cart.php?a=add&pid=147"
+      ],
+      "Monthly, KVM, 2GB, n/a, n/a": [
+        "https://my.pieserv.com/cart.php?a=add&pid=62"
+      ],
+      "n/a, n/a, 100GB Disk, 3GB RAM, 3000GB Bandwidth": [
+        "https://billing.hudsonvalleyhost.com/cart.php?a=add&pid=517"
+      ],
+      "n/a, no details": [
+        "https://clientarea.ramnode.com/cart.php?gid=12"
+      ]
+    },
+    "14.95": {
+      "Monthly, XEN, 128MB RAM, 256MB Swap, 5 GB Disk, 240GB Bandwidth": [
+        "https://secure.quickweb.co.nz/system/cart.php?a=add&pid=78&currency=2"
+      ],
+      "Monthly, OPENVZ, no details": [
+        "https://billing.chicagovps.net/cart.php?a=add&pid=168",
+        "https://billing.chicagovps.net/cart.php?a=add&pid=68",
+        "https://billing.chicagovps.net/cart.php?a=add&pid=92"
+      ]
+    },
+    "14.99": {
+      "Monthly, n/a, 1GB RAM, 25GB SSD": [
+        "https://www.madgenius.com/portal/cart.php?a=add&pid=144"
+      ]
+    },
+    "15.0": {
+      "Semi-Annually, KVM, 1GB Memory, 15GB Pure SSD, 2TB Bandwidth": [
+        "https://www.hostflyte.com/myaccount/cart.php?a=add&pid=58"
+      ],
+      "n/a, no details": [
+        "https://crm.nqhost.com/cart.php?a=add&pid=101",
+        "https://clientarea.ramnode.com/cart.php?gid=22&promocode=NOWAY42",
+        "https://clientarea.ramnode.com/cart.php?gid=23&promocode=NOWAY42"
+      ],
+      "Quarterly, KVM, 1GB ECC RAM, 50GB SSD": [
+        "https://speedykvm.com/billing/cart.php?a=add&pid=1&promocode=LEB"
+      ],
+      "Quarterly, n/a, 4096MB RAM, 2048MB SWAP, 20GB NVMe, 2TB Bandwidth": [
+        "https://greencloudvps.com/billing/cart.php?a=add&pid=386",
+        "https://greencloudvps.com/billing/cart.php?a=add&pid=387",
+        "https://greencloudvps.com/billing/cart.php?a=add&pid=401",
+        "https://greencloudvps.com/billing/cart.php?a=add&pid=403",
+        "https://greencloudvps.com/billing/cart.php?a=add&pid=405",
+        "https://greencloudvps.com/billing/cart.php?a=add&pid=407"
+      ],
+      "Annually, n/a, 128 MB, 5 GB": [
+        "https://www.integralhost.net/BiLLing/cart.php?a=add&pid=65"
+      ],
+      "Monthly, KVM, 4GB DDR3, 60GB SSD": [
+        "https://my.losangelesvps.com/cart.php?a=add&pid=22&promocode=50OFFVPS"
+      ],
+      "n/a, n/a, 1000 GB Bandwidth, 512 MB Dedicated RAM, 512 MB vSwap": [
+        "https://billing.nodeserv.com/cart.php?a=add&pid=24"
+      ],
+      "Monthly, KVM, 2GB Memory, 50GB Storage, 2000GB Bandwidth": [
+        "https://manage.stockvps.com/cart.php?a=add&pid=17"
+      ],
+      "n/a, n/a, 220MB, 20GB": [
+        "https://123systems.net/billing/cart.php?a=add&pid=121"
+      ],
+      "Monthly, KVM, 8GB, 100GB": [
+        "https://portal.steadyvps.com/cart.php?a=add&pid=19"
+      ],
+      "Monthly, KVM, no details": [
+        "https://backupsy.com/cart.php?a=add&pid=19&promocode=DUTCHSUMMER",
+        "https://backupsy.com/cart.php?a=add&pid=38&promocode=UWOTMATE"
+      ],
+      "Annually, n/a, 128MB RAM, 12GB SSD, 500GB Bandwidth": [
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=102&promocode=black42",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=108&promocode=black42"
+      ],
+      "Monatlich, KVM, 6 GB RAM, 120 GB SSD": [
+        "https://clients.desivps.com/cart.php?a=add&pid=42&currency=1"
+      ],
+      "Semi-Annually, n/a, 1GB, n/a, SSD": [
+        "https://crm.vpscheap.net/cart.php?a=add&pid=222"
+      ],
+      "Semi-Annually, OPENVZ, 1024 MB Dedicated Ram, 30 GB Disk, 1.5 TB Bandwidth": [
+        "https://billing.chicagovps.net/cart.php?a=add&pid=149",
+        "https://billing.chicagovps.net/cart.php?a=add&pid=150",
+        "https://billing.chicagovps.net/cart.php?a=add&pid=157"
+      ],
+      "Annually, no details, n/a": [
+        "https://my.letbox.com/cart.php?a=add&pid=82"
+      ],
+      "n/a, n/a, 15GB Disk, 200GB Bandwidth, 128MB RAM": [
+        "https://billing.hudsonvalleyhost.com/cart.php?a=add&pid=84"
+      ],
+      "Annually, n/a, 128 MB, 10 GB": [
+        "https://billing.chicagovps.net/cart.php?a=add&pid=241"
+      ]
+    },
+    "15.22": {
+      "Semi-Annually, KVM, 1GB RAM, 20GB SSD": [
+        "https://billing.81vps.com/cart.php?a=add&pid=100"
+      ],
+      "n/a, no details": [
+        "https://lowendbox.com/blog/81vps-kvm-offers-and-multiple-promo-codes-for-extras-with-your-order/"
+      ]
+    },
+    "15.96": {
+      "Monthly, n/a, 4 GB, 80 GB": [
+        "https://portal.hyperexpert.com/cart.php?a=add&pid=38",
+        "https://portal.hyperexpert.com/cart.php?a=add&pid=67",
+        "https://portal.hyperexpert.com/cart.php?a=add&pid=92"
+      ]
+    },
+    "16.0": {
+      "Annually, OPENVZ, 768MB RAM, 768MB vSwap, 20GB Disk, 2TB Bandwidth": [
+        "https://my.hostus.us/cart.php?a=add&pid=103",
+        "https://my.hostus.us/cart.php?a=add&pid=141",
+        "https://my.hostus.us/cart.php?a=add&pid=201"
+      ],
+      "Monthly, KVM, 2 GB, 60 GB": [
+        "https://client.fullvpsserver.com/cart.php?a=add&pid=44"
+      ],
+      "Quarterly, n/a, 768MB DedicatedStorage, 15GB SAN storage, 1 TB Bandwidth": [
+        "https://servarica.com/clients/cart.php?a=add&pid=176"
+      ]
+    },
+    "16.55": {
+      "Annually, KVM, 20 GB SSD, 1.5 GB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=135"
+      ]
+    },
+    "16.68": {
+      "Annually, KVM, 18GB SSD, 1GB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=151"
+      ]
+    },
+    "16.81": {
+      "Annually, KVM, 20 GB SSD, 1.5 GB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=423"
+      ]
+    },
+    "17.2": {
+      "Monthly, XEN, 20GB, n/a, n/a": [
+        "https://www.hostinginside.com/billing/cart.php?a=add&pid=72"
+      ]
+    },
+    "17.65": {
+      "Annually, OPENVZ, 60 GB SSD, 2048MB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=60"
+      ]
+    },
+    "17.96": {
+      "Monthly, n/a, 4 GB, 80 GB": [
+        "https://portal.hyperexpert.com/cart.php?a=add&pid=71"
+      ]
+    },
+    "18.0": {
+      "Quarterly, OPENVZ, 6GB RAM, 6GB vSwap, 150GB Disk, 5TB Bandwidth": [
+        "https://my.hostus.us/cart.php?a=add&pid=140",
+        "https://my.hostus.us/cart.php?a=add&pid=202",
+        "https://my.hostus.us/cart.php?a=add&pid=64"
+      ],
+      "Monthly, KVM, 1 GB, 50 GB": [
+        "https://client.fullvpsserver.com/cart.php?a=add&pid=74"
+      ],
+      "Quarterly, n/a, 2 GB RAM, 2 GB RAM": [
+        "https://ssdvps.com/portal/cart.php?a=add&pid=17&carttpl=cart"
+      ],
+      "Quarterly, KVM, 4GB Memory, 40GB Pure SSD, 5TB Bandwidth": [
+        "https://www.hostflyte.com/myaccount/cart.php?a=add&pid=75"
+      ]
+    },
+    "18.49": {
+      "Annually, KVM, 2 GB DDR3, 30 GB SSD": [
+        "https://my.losangelesvps.com/cart.php?a=add&pid=58"
+      ]
+    },
+    "18.99": {
+      "Monthly, n/a, 4 GB, n/a, SSD": [
+        "https://vpslot.com/clients/cart.php?a=add&pid=48&=&promocode=1PT3EEGAV6&utmsource=lowendbox&utmmedium=blog&utmcampaign=blogjan2020&utmterm=free&utmcontent=2ssd"
+      ]
+    },
+    "19.0": {
+      "Monthly, KVM, 4 GB RAM, 40 GB SSD": [
+        "https://my.losangelesvps.com/cart.php?a=add&pid=35&promocode=2020NEWYEAR"
+      ],
+      "Monthly, VMWARE, 2GB RAM, 50GB HDD": [
+        "https://billing.serveria.com/cart.php?a=add&pid=5"
+      ],
+      "Annually, KVM, 1 GB DDR3, 25 GB SSD": [
+        "https://my.losangelesvps.com/cart.php?a=add&pid=56"
+      ],
+      "Annually, KVM, 18 GB SSD, 1 GB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=286"
+      ]
+    },
+    "19.5": {
+      "Annually, KVM, 20 GB SSD, 1.5 GB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=102"
+      ],
+      "Annually, KVM, 1.5 GB DDR3, 25 GB SSD": [
+        "https://my.losangelesvps.com/cart.php?a=add&pid=50"
+      ]
+    },
+    "19.89": {
+      "Annually, KVM, 30 GB SSD, 2 GB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=421"
+      ]
+    },
+    "19.95": {
+      "Monthly, XEN, 256MB RAM, 384MB Swap, 12 GB Disk, 500GB Bandwidth": [
+        "https://secure.quickweb.co.nz/system/cart.php?a=add&pid=79&currency=2"
+      ]
+    },
+    "19.99": {
+      "Monthly, OPENVZ, no details": [
+        "https://clients.cometvps.com/cart.php?a=add&pid=224"
+      ]
+    },
+    "20.0": {
+      "Monthly, KVM, 20GB, n/a, n/a": [
+        "https://my.letbox.com/cart.php?a=add&pid=1"
+      ],
+      "Annually, KVM, 20 GB SSD, 50Mbit when bandwidth": [
+        "https://softshellweb.com/client/cart.php?a=add&pid=109"
+      ],
+      "n/a, n/a, 128MB Memory, 10 GB RAID Hard Drive Storage, 500 GB Bandwidth": [
+        "https://billing.edgevm.com/cart.php?a=add&pid=14"
+      ],
+      "Semi-Annually, KVM, 2GB Memory, 25GB Pure SSD, 3TB Bandwidth": [
+        "https://www.hostflyte.com/myaccount/cart.php?a=add&pid=59"
+      ],
+      "n/a, no details": [
+        "https://www.dot.al/cart.php?a=add&pid=36&promocode=70",
+        "https://www.dot.al/cart.php?a=add&pid=36&promocode=LEB70OFF",
+        "https://simplenode.co/manage/?cmd=cart&action=add&id=104",
+        "https://virmach.com/manage/cart.php?a=add&pid=84&billingcycle=annually&promocode=LEB50",
+        "https://virmach.com/manage/cart.php?a=add&pid=84&promocode=LEB2016G4"
+      ],
+      "Monthly, KVM, no details": [
+        "https://backupsy.com/cart.php?a=add&pid=2&promocode=GOTMEADEAL",
+        "https://backupsy.com/cart.php?a=add&pid=2&promocode=LEBNOV500",
+        "https://backupsy.com/cart.php?a=add&pid=2&promocode=SMOKING"
+      ],
+      "Annually, n/a, 256MB RAM, 256MB vSwap, 5 GB SSD, 500GB Bandwidth": [
+        "https://my.pieserv.com/cart.php?a=add&pid=35"
+      ],
+      "Annually, n/a, 256MB RAM, 256MB vSwap, 10GB Storage, 500GB Bandwidth": [
+        "https://my.pieserv.com/cart.php?a=add&pid=53"
+      ],
+      "Annually, n/a, 256MB RAM, 256MB vSwap, 10 GB Storage, 250GB Bandwidth": [
+        "https://my.pieserv.com/cart.php?a=add&pid=57"
+      ],
+      "Monthly, n/a, 8GB RAM, 8TB disk": [
+        "https://servarica.com/clients/cart.php?a=add&pid=462"
+      ],
+      "Annually, OPENVZ, 512MB OpenVZ SSD, 10GB SSD, 512MB RAM": [
+        "https://portal.dedipath.com/cart.php?a=add&pid=263",
+        "https://portal.dedipath.com/cart.php?a=add&pid=263?utmsource=LEBJune&utmmedium=lebads"
+      ],
+      "Monthly, n/a, 2 GB RAM, 2 GB RAM": [
+        "https://ssdvps.com/portal/cart.php?a=add&pid=3&carttpl=cart&promocode=LEB2GB65"
+      ],
+      "Annually, n/a, 512MB, n/a, n/a": [
+        "https://crm.vpscheap.net/cart.php?a=add&pid=261&promo=LET20FOREVER1"
+      ]
+    },
+    "20.29": {
+      "Annually, OPENVZ, 256 MB RAM, 256 MB VSwap, 25 GB HDD, 256 GB Bandwidth": [
+        "https://clients.hostsailor.com/cart.php?a=add&pid=131"
+      ]
+    },
+    "20.85": {
+      "Quarterly, OPENVZ, no details": [
+        "https://www.qhoster.com/clients/cart.php?a=add&pid=126"
+      ]
+    },
+    "21.0": {
+      "n/a, no details": [
+        "https://crm.nqhost.com/cart.php?a=add&pid=85"
+      ],
+      "Quarterly, KVM, 35 GB NVMe, 2 GB DDR4": [
+        "https://my.racknerd.com/cart.php?a=add&pid=299"
+      ],
+      "Quarterly, OPENVZ, 3GB, n/a, n/a": [
+        "https://billing.chicagovps.net/cart.php?a=add&pid=154"
+      ],
+      "Quarterly, OPENVZ, 3072 MB Dedicated Ram, 100 GB Disk, 2.5 TB Bandwidth": [
+        "https://billing.chicagovps.net/cart.php?a=add&pid=159"
+      ]
+    },
+    "21.8": {
+      "Annually, KVM, 25GB SSD, 2GB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=58"
+      ]
+    },
+    "22.0": {
+      "Annually, n/a, 768 MB, 30 GB": [
+        "https://www.integralhost.net/BiLLing/cart.php?a=add&pid=68"
+      ]
+    },
+    "22.5": {
+      "Annually, KVM, 512MB, n/a, NVME": [
+        "https://clients.ionswitch.com/cart.php?a=add&pid=23"
+      ]
+    },
+    "23.49": {
+      "Annually, KVM, 40 GB SSD, 2.5 GB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=137"
+      ]
+    },
+    "23.88": {
+      "Annually, OPENVZ, 1GB RAM, 20GB SSD, 1GB RAM": [
+        "https://portal.dedipath.com/cart.php?a=add&pid=312"
+      ]
+    },
+    "24.0": {
+      "Quarterly, OPENVZ, 2GB RAM, 20 GB Disk": [
+        "https://www.hostitsmart.com/manage/cart.php?a=add&pid=154&currency=10"
+      ],
+      "Monthly, VMWARE, 3GB RAM, 70GB HDD": [
+        "https://billing.serveria.com/cart.php?a=add&pid=6"
+      ],
+      "Annually, n/a, 128MB RAM, 128MB VSwap, 5GB SSD, 500GB Bandwidth": [
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=28",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=28&promocode=ONEYEAR",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=28&promocode=leb35",
+        "https://clientarea.ramnode.com/cart.php?a=add&pid=28&promocode=noway42"
+      ]
+    },
+    "24.39": {
+      "Annually, KVM, 25 GB SSD, 1.5 GB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=210"
+      ]
+    },
+    "24.68": {
+      "Annually, KVM, 32GB SSD, 3GB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=152"
+      ]
+    },
+    "24.95": {
+      "Monthly, OPENVZ, no details": [
+        "http://billing.chicagovps.net/cart.php?a=add&pid=14",
+        "http://billing.chicagovps.net/cart.php?a=add&pid=14&promocode=2048",
+        "https://billing.chicagovps.net/cart.php?a=add&pid=14",
+        "https://billing.chicagovps.net/cart.php?a=add&pid=160"
+      ],
+      "Monthly, OPENVZ, 2048MB (2GB) Dedicated Ram, 50 GB Disk, 2TB Monthly Bandwidth": [
+        "https://billing.chicagovps.net/cart.php?a=add&pid=161",
+        "https://billing.chicagovps.net/cart.php?a=add&pid=162",
+        "https://billing.chicagovps.net/cart.php?a=add&pid=163"
+      ]
+    },
+    "24.99": {
+      "Annually, n/a, 1 GB, 15 GB SSD": [
+        "https://khanwebhost.com/cart.php?a=add&pid=576"
+      ]
+    },
+    "25.0": {
+      "n/a, no details": [
+        "https://my.vmdeploy.cloud/cart.php?gid=1"
+      ],
+      "Monthly, n/a, 1 GB, n/a, n/a": [
+        "https://my.oplink.net/cart.php?a=add&pid=193"
+      ],
+      "n/a, n/a, 128MB Memory, 20GB RAID Hard Drive Storage, 500GB Bandwidth": [
+        "https://billing.edgevm.com/cart.php?a=add&pid=2"
+      ],
+      "n/a, n/a, 512MB, 20GB": [
+        "https://123systems.net/billing/cart.php?a=add&pid=153"
+      ],
+      "Semi-Annually, n/a, 1 GB RAM, 1 GB RAM": [
+        "https://ssdvps.com/portal/cart.php?a=add&pid=16&carttpl=cart"
+      ],
+      "Annually, KVM, 2 GB DDR3, 40 GB SSD": [
+        "https://my.losangelesvps.com/cart.php?a=add&pid=54"
+      ],
+      "n/a, OPENVZ, 2048MB Ram, 80GB Disk, 2.0TB Bandwidth": [
+        "https://billing.hudsonvalleyhost.com/cart.php?a=add&pid=284"
+      ],
+      "Annually, KVM, 256 MB RAM, 15 GB RAID 10 Disk": [
+        "https://my.pieserv.com/cart.php?a=add&pid=76"
+      ],
+      "n/a, n/a, 100GB SSD, 8GB RAM, 10TB Bandwidth": [
+        "https://billing.hudsonvalleyhost.com/cart.php?a=add&pid=578&promocode=mom19hybrid",
+        "https://billing.hudsonvalleyhost.com/cart.php?a=add&pid=578&promocode=summer19hybrid"
+      ],
+      "Annually, n/a, 1GB, n/a, n/a": [
+        "https://my.letbox.com/cart.php?a=add&pid=51"
+      ],
+      "Semi-Annually, OPENVZ, 2048MB Dedicated Ram, 80 GB Disk, 2TB Bandwidth": [
+        "https://billing.chicagovps.net/cart.php?a=add&pid=152",
+        "https://billing.chicagovps.net/cart.php?a=add&pid=153",
+        "https://billing.chicagovps.net/cart.php?a=add&pid=158"
+      ],
+      "Monthly, n/a, 8GB 100GB SSD, 100GB SSD, 8GB RAM, 10TB Bandwidth": [
+        "https://billing.chicagovps.net/cart.php?a=add&pid=507&promocode=LEBSEPT2018",
+        "https://billing.chicagovps.net/cart.php?a=add&pid=507&promocode=SPOOKY2018",
+        "https://billing.chicagovps.net/cart.php?a=add&pid=507&promocode=VYV2U11JUO"
+      ]
+    },
+    "25.4": {
+      "Annually, KVM, 20 GB SSD, 1.5 GB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=259"
+      ]
+    },
+    "25.8": {
+      "Annually, KVM, 40 GB SSD, 2.5 GB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=103"
+      ]
+    },
+    "25.89": {
+      "Annually, KVM, 2GB RAM, 35 GB SSD, 2 GB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=193"
+      ]
+    },
+    "26.99": {
+      "Monthly, no details, n/a": [
+        "https://www.gnomeitsolutions.com/cart.php?a=add&pid=11&billingcycle=monthly"
+      ]
+    },
+    "27.5": {
+      "Annually, KVM, 1024MB RAM, 20GB RAID10 Disk, 1000GB Bandwidth": [
+        "https://www.flipperhost.com/billing/cart.php?a=add&pid=327"
+      ]
+    },
+    "27.8": {
+      "Annually, KVM, 40 GB SSD, 2.5 GB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=57",
+        "https://my.racknerd.com/cart.php?a=add&pid=59"
+      ]
+    },
+    "27.99": {
+      "Annually, KVM, 2.5 GB DDR3, 35 GB SSD": [
+        "https://my.losangelesvps.com/cart.php?a=add&pid=52"
+      ]
+    },
+    "28.0": {
+      "Annually, KVM, 25 GB SSD, 2 GB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=287"
+      ]
+    },
+    "28.7": {
+      "Annually, KVM, 3 GB DDR3, 40 GB SSD": [
+        "https://my.losangelesvps.com/cart.php?a=add&pid=51"
+      ]
+    },
+    "28.88": {
+      "Semi-Annually, KVM, 2GB RAM, 30GB SSD": [
+        "https://billing.81vps.com/cart.php?a=add&pid=101"
+      ]
+    },
+    "28.99": {
+      "Annually, KVM, 45 GB SSD, 3.5 GB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=130",
+        "https://my.racknerd.com/cart.php?a=add&pid=136"
+      ]
+    },
+    "29.0": {
+      "Monthly, VMWARE, 4GB RAM, 100GB HDD": [
+        "https://billing.serveria.com/cart.php?a=add&pid=7"
+      ],
+      "Annually, n/a, 25 GB RAID-10 Disk, 1 GB Dedicated RAM, 1 GB vSwap, 5 TB Premium Bandwidth": [
+        "https://www.flipperhost.com/billing/cart.php?a=add&pid=235"
+      ]
+    },
+    "29.49": {
+      "Annually, KVM, 50 GB SSD, 3 GB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=422"
+      ]
+    },
+    "29.5": {
+      "Annually, KVM, 40 GB SSD, 2.5 GB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=211"
+      ]
+    },
+    "29.9": {
+      "Annually, KVM, 512MB RAM, 15GB SSD, 1000GB Bandwidth": [
+        "https://www.flipperhost.com/billing/cart.php?a=add&pid=341"
+      ]
+    },
+    "29.99": {
+      "Monthly, OPENVZ, no details": [
+        "https://clients.cometvps.com/cart.php?a=add&pid=226"
+      ],
+      "Annually, n/a, 512MB Memory, 15GB SSD": [
+        "https://portal.thestack.net/cart.php?a=add&pid=128&billingcycle=annually&promocode=LEB2020JULYPLAN1"
+      ],
+      "Annually, KVM, 2048MB RAM, 20GB NVMe, 5TB Bandwidth": [
+        "https://hostodo.com/portal/cart.php?a=add&bid=8"
+      ]
+    },
+    "30.0": {
+      "Monthly, n/a, 250 GB storage, 2 GB RAM": [
+        "https://www.mailcheap.co/client/cart.php?a=add&pid=36"
+      ],
+      "Annually, KVM, 40 GB SSD, 100Mbit when bandwidth": [
+        "https://softshellweb.com/client/cart.php?a=add&pid=110",
+        "https://softshellweb.com/client/cart.php?a=add&pid=117"
+      ],
+      "n/a, no details": [
+        "https://my.vmdeploy.cloud/cart.php?gid=2"
+      ],
+      "Annually, n/a, 2048MB RAM, 1024MB SWAP, 15GB NVMe, 1TB Bandwidth": [
+        "https://greencloudvps.com/billing/cart.php?a=add&pid=398",
+        "https://greencloudvps.com/billing/cart.php?a=add&pid=399",
+        "https://greencloudvps.com/billing/cart.php?a=add&pid=400",
+        "https://greencloudvps.com/billing/cart.php?a=add&pid=402",
+        "https://greencloudvps.com/billing/cart.php?a=add&pid=404",
+        "https://greencloudvps.com/billing/cart.php?a=add&pid=406"
+      ],
+      "n/a, n/a, 512MB, 25GB": [
+        "https://www.123systems.net/billing/cart.php?a=add&pid=132"
+      ],
+      "Annually, KVM, 512MB, n/a, n/a": [
+        "https://portal.catalysthost.com/cart.php?a=add&pid=99"
+      ]
+    },
+    "31.5": {
+      "n/a, no details, n/a": [
+        "https://www.trunkspacehosting.com/billing/cart.php?a=add&pid=319&promocode=LEBVPN2019"
+      ],
+      "Annually, KVM, 3GB RAM, 45 GB SSD, 3 GB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=194"
+      ]
+    },
+    "32.5": {
+      "Annually, KVM, 30 GB SSD, 2.5 GB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=260"
+      ]
+    },
+    "32.95": {
+      "n/a, no details, n/a": [
+        "https://billing.serversgalore.com.au/cart.php?a=add&pid=1",
+        "https://billing.serversgalore.com.au/cart.php?a=add&pid=2",
+        "https://billing.serversgalore.com.au/cart.php?a=add&pid=3"
+      ]
+    },
+    "32.99": {
+      "Annually, KVM, 4 GB DDR3, 50 GB SSD": [
+        "https://my.losangelesvps.com/cart.php?a=add&pid=59"
+      ]
+    },
+    "34.0": {
+      "Monthly, VMWARE, 5GB RAM, 120GB HDD": [
+        "https://billing.serveria.com/cart.php?a=add&pid=8",
+        "https://billing.serveria.com/cart.php?a=confproduct&i=5"
+      ]
+    },
+    "34.99": {
+      "Annually, KVM, 2.5 GB DDR3, 50 GB SSD": [
+        "https://my.losangelesvps.com/cart.php?a=add&pid=57"
+      ]
+    },
+    "35.0": {
+      "Annually, KVM, 35 GB SSD, 3 GB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=288"
+      ],
+      "Annually, KVM, 2048MB RAM, 30GB RAID10 Disk, 3000GB Bandwidth": [
+        "https://www.flipperhost.com/billing/cart.php?a=add&pid=328"
+      ]
+    },
+    "35.59": {
+      "Annually, KVM, 22 GB NVMe, 1.5 GB DDR4, 3000GB Monthly Premium Bandwidth": [
+        "https://my.racknerd.com/cart.php?a=add&pid=308"
+      ]
+    },
+    "35.68": {
+      "Annually, KVM, 45GB SSD, 4GB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=153"
+      ]
+    },
+    "35.99": {
+      "Monthly, no details, n/a": [
+        "https://www.gnomeitsolutions.com/cart.php?a=add&pid=12&billingcycle=monthly"
+      ]
+    },
+    "36.0": {
+      "Semi-Annually, XEN, no details": [
+        "https://arionvps.com/billing/cart.php?a=add&pid=1"
+      ],
+      "n/a, no details": [
+        "https://clientarea.gigsgigscloud.com/?cmd=cart&action=add&id=1"
+      ],
+      "Monthly, KVM, 2 GB, 50 GB": [
+        "https://client.fullvpsserver.com/cart.php?a=add&pid=75"
+      ],
+      "Annually, KVM, 50 GB SSD, 2 GB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=61"
+      ]
+    },
+    "36.23": {
+      "Semi-Annually, KVM, 4GB RAM, 50GB SSD": [
+        "https://billing.81vps.com/cart.php?a=add&pid=102"
+      ]
+    },
+    "37.38": {
+      "Monthly, n/a, 1GB RAM, 20GB SSD, 100Mbps Bandwidth": [
+        "https://billing.usonyx.net/cart.php?a=add&pid=452&promocode=VPS20"
+      ]
+    },
+    "37.95": {
+      "Monthly, n/a, 16GB RAM, 500GB HDD, 10TB Bandwidth": [
+        "https://billing.chicagovps.net/cart.php?a=add&pid=545"
+      ]
+    },
+    "39.0": {
+      "n/a, KVM, 16GB Ram, 1x 2TB Disk": [
+        "https://www.tzulo.com/crm/cart.php?a=add&pid=95"
+      ],
+      "Annually, KVM, 3 GB DDR3, 60 GB SSD": [
+        "https://my.losangelesvps.com/cart.php?a=add&pid=55"
+      ],
+      "n/a, n/a, 4Gb DDR3, 500Gb HDD": [
+        "https://billing.serveria.com/cart.php?a=add&pid=9&promocode=WHT2019"
+      ],
+      "Monthly, n/a, 4Gb DDR3, 500Gb HDD": [
+        "https://billing.serveria.com/cart.php?a=confproduct&i=6"
+      ],
+      "Annually, KVM, 1GB, 1GB": [
+        "https://softshellweb.com/client/cart.php?a=add&pid=164",
+        "https://softshellweb.com/client/cart.php?a=add&pid=167",
+        "https://softshellweb.com/client/cart.php?a=add&pid=170"
+      ]
+    },
+    "39.2": {
+      "Annually, KVM, 40 GB SSD, 3.5 GB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=261"
+      ]
+    },
+    "39.89": {
+      "Annually, KVM, 4GB RAM, 55 GB SSD, 4 GB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=195"
+      ]
+    },
+    "39.95": {
+      "n/a, DEDICATED SERVER, 16GB RAM, 1TB HDD, 120GB SSD, 10TB bandwidth": [
+        "https://www.reprisehosting.com/client/cart.php?a=add&pid=35"
+      ]
+    },
+    "39.99": {
+      "n/a, no details": [
+        "http://banners.quadranet.com/lowendbox2016/order.php?width=500&height=700&package=1"
+      ],
+      "Monthly, OPENVZ, no details": [
+        "https://clients.cometvps.com/cart.php?a=add&pid=227"
+      ]
+    },
+    "40.0": {
+      "Monthly, no details, n/a": [
+        "https://www.integralhost.net/BiLLing/cart.php?a=add&pid=15"
+      ],
+      "n/a, no details, n/a": [
+        "https://iportal.host/cart.php?a=add&pid=109"
+      ],
+      "Monthly, n/a, 8 GB RAM, 200GB SSD, 8GB RAM": [
+        "https://secure.paceinfonet.com/cart.php?a=add&pid=109&currency=3&promocode=LOWENDBOX30"
+      ],
+      "Monthly, DEDICATED SERVER, 500GB, n/a, HDD": [
+        "https://manage.gomach5.com/cart.php?a=add&pid=6"
+      ],
+      "Annually, KVM, 60 GB SSD, 100Mbit when bandwidth": [
+        "https://softshellweb.com/client/cart.php?a=add&pid=111",
+        "https://softshellweb.com/client/cart.php?a=add&pid=118"
+      ],
+      "Annually, KVM, no details": [
+        "https://backupsy.com/cart.php?a=add&pid=12"
+      ],
+      "n/a, no details": [
+        "https://simplenode.co/manage/?cmd=cart&action=add&id=105",
+        "https://virmach.com/manage/cart.php?a=add&pid=85&promocode=LEBBF2016G8",
+        "https://billing.chicagovps.net/cart.php?gid=30"
+      ],
+      "Monthly, n/a, 100MB, n/a, n/a": [
+        "https://portal.dedipath.com/cart.php?a=add&pid=317"
+      ],
+      "Monthly, n/a, 250GB, n/a, HDD": [
+        "https://billing.chicagovps.net/cart.php?a=add&pid=289"
+      ]
+    },
+    "42.0": {
+      "n/a, n/a, 128MB RAM, 256MB Swap, 10GB disk, 200GB bandwidth": [
+        "http://www.lfcvps.com/cart.php?a=add&pid=29",
+        "http://www.lfcvps.com/cart.php?a=add&pid=37"
+      ],
+      "Semi-Annually, XEN, no details": [
+        "https://arionvps.com/billing/cart.php?a=add&pid=2"
+      ]
+    },
+    "44.0": {
+      "Monthly, DEDICATED SERVER, n/a, n/a, SSD": [
+        "https://manage.gomach5.com/cart.php?a=add&pid=7"
+      ]
+    },
+    "45.0": {
+      "n/a, no details, n/a": [
+        "https://iportal.host/cart.php?a=add&pid=111"
+      ],
+      "Annually, n/a, 256MB RAM, 384MB Burst, 10GB, 250GB Bandwidth": [
+        "https://secure.quickweb.co.nz/system/cart.php?a=add&pid=149&currency=2"
+      ]
+    },
+    "47.95": {
+      "Annually, n/a, 256 MB Guaranteed RAM, 384 MB Burstable RAM, 5 GB SSD, 300 GB Bandwidth": [
+        "https://www.hosthink.net/cli/cart.php?a=add&pid=166"
+      ],
+      "Annually, n/a, 2048 MB Guaranteed RAM, 10 GB SSD, 1000 GB Bandwidth": [
+        "https://my.hosth.ink/cart.php?a=add&pid=255"
+      ]
+    },
+    "47.99": {
+      "Annually, KVM, 2GB RAM, 40GB SAS RAID10 Storage, 2TB Bandwidth": [
+        "https://clients.budgetnode.com/cart.php?a=add&pid=60&billingcycle=annually"
+      ]
+    },
+    "48.0": {
+      "Annually, KVM, no details": [
+        "https://backupsy.com/cart.php?a=add&pid=48"
+      ],
+      "n/a, n/a, 50GB Disk, 1000GB Bandwidth, 2048MB Ram": [
+        "https://billing.hudsonvalleyhost.com/cart.php?a=add&pid=461"
+      ],
+      "n/a, no details, n/a": [
+        "https://billing.hudsonvalleyhost.com/cart.php?a=add&pid=551"
+      ],
+      "Annually, KVM, 512MB RAM, 500GB RAID6 Storage, 2TB Bandwidth": [
+        "https://clients.budgetnode.com/cart.php?a=add&pid=80&billingcycle=annually&promocode=HCHMVUK8I6",
+        "https://clients.budgetnode.com/cart.php?a=add&pid=80&promocode=QC3OU7BQY2&billingcycle=annually"
+      ],
+      "Annually, KVM, 1GB RAM, 100GB RAID10 Storage, 4TB Bandwidth": [
+        "https://clients.budgetnode.com/cart.php?a=add&pid=90&billingcycle=annually"
+      ]
+    },
+    "49.0": {
+      "Monthly, n/a, 8GB DDR3, 1TB HDD, 120Gb SSD": [
+        "https://billing.serveria.com/cart.php?a=add&pid=11&promocode=WHT2019"
+      ],
+      "n/a, KVM, 24GB Ram, 1x 2TB Disk": [
+        "https://www.tzulo.com/crm/cart.php?a=add&pid=96"
+      ]
+    },
+    "49.95": {
+      "n/a, no details, n/a": [
+        "https://www.trunkspacehosting.com/billing/cart.php?a=add&pid=320&promocode=LEBVPN2019"
+      ]
+    },
+    "49.99": {
+      "Monthly, n/a, 16gb ram, 2TB bandwidth": [
+        "https://secure.coloaz.com/cart.php?a=add&pid=16"
+      ],
+      "n/a, no details": [
+        "http://banners.quadranet.com/lowendbox2016/order.php?width=500&height=700&package=2"
+      ],
+      "Annually, n/a, 1024MB Memory, 30GB SSD": [
+        "https://portal.thestack.net/cart.php?a=add&pid=129&billingcycle=annually&promocode=LEB2020JULYPLAN2",
+        "https://portal.thestack.net/cart.php?a=add&pid=129&billingcycle=annually&promocode=SOPHOMOREYEAREND"
+      ]
+    },
+    "50.0": {
+      "Monthly, DEDICATED SERVER, 12 MB, n/a, n/a": [
+        "https://www.hostitsmart.com/manage/cart.php?a=add&pid=183&currency=10"
+      ],
+      "Annually, KVM, 80 GB SSD, 100Mbit when bandwidth": [
+        "https://softshellweb.com/client/cart.php?a=add&pid=112",
+        "https://softshellweb.com/client/cart.php?a=add&pid=119"
+      ],
+      "n/a, no details, n/a": [
+        "https://iportal.host/cart.php?a=add&pid=94"
+      ]
+    },
+    "50.47": {
+      "Monthly, n/a, 2GB RAM, 40GB SSD, 100Mbps Bandwidth": [
+        "https://billing.usonyx.net/cart.php?a=add&pid=454&promocode=VPS20"
+      ]
+    },
+    "52.75": {
+      "Annually, KVM, 4 GB DDR3, 60 GB SSD": [
+        "https://my.losangelesvps.com/cart.php?a=add&pid=53"
+      ]
+    },
+    "54.95": {
+      "n/a, DEDICATED SERVER, 32GB RAM, 120GB SSD, 10TB bandwidth": [
+        "https://www.reprisehosting.com/client/cart.php?a=add&pid=38"
+      ]
+    },
+    "55.0": {
+      "Monthly, n/a, 16GB RAM, 500GB SSD, 10TB Bandwidth": [
+        "https://crm.xenspec.com/cart.php?a=add&pid=48"
+      ],
+      "Monthly, n/a, 16GB RAM, 2TB HDD, 240GB SSD": [
+        "https://portal.dedipath.com/cart.php?a=add&pid=288"
+      ],
+      "Annually, KVM, 4096MB RAM, 60GB RAID10 Disk, 5000GB Bandwidth": [
+        "https://www.flipperhost.com/billing/cart.php?a=add&pid=329"
+      ]
+    },
+    "55.89": {
+      "Annually, KVM, 60 GB SSD, 4.5 GB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=212"
+      ]
+    },
+    "59.0": {
+      "n/a, DEDICATED SERVER, 8 GB, 250 GB HDD": [
+        "https://secure.ftpit.com/cart.php?a=add&pid=81&carttpl=cart"
+      ],
+      "Annually, KVM, 2GB, 2GB": [
+        "https://softshellweb.com/client/cart.php?a=add&pid=165",
+        "https://softshellweb.com/client/cart.php?a=add&pid=168",
+        "https://softshellweb.com/client/cart.php?a=add&pid=171"
+      ],
+      "Annually, KVM, 80 GB SSD, 4 GB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=62"
+      ]
+    },
+    "60.0": {
+      "Annually, KVM, 100 GB SSD, 100Mbit when bandwidth": [
+        "https://softshellweb.com/client/cart.php?a=add&pid=113",
+        "https://softshellweb.com/client/cart.php?a=add&pid=120"
+      ],
+      "Annually, n/a, 4096MB RAM, 2048MB SWAP, 30GB NVMe, 1TB Bandwidth": [
+        "https://greencloudvps.com/billing/cart.php?a=add&pid=430"
+      ]
+    },
+    "63.03": {
+      "Monthly, n/a, 24GB DDR3, 240GB SSD, 6TB bandwidth": [
+        "https://infofractal.io/clients/cart.php?a=add&pid=11"
+      ]
+    },
+    "65.0": {
+      "Monthly, n/a, 24GB RAM, 24GB RAM, 500GB SSD, 15TB Bandwidth": [
+        "https://crm.xenspec.com/cart.php?a=add&pid=43"
+      ],
+      "Monthly, n/a, 24GB RAM, 500GB SSD, 10TB Bandwidth": [
+        "https://crm.xenspec.com/cart.php?a=add&pid=49"
+      ]
+    },
+    "66.0": {
+      "n/a, n/a, 64 gb ram, 1 tb hdd, 2 tb bandwidth": [
+        "https://ideastack.com/order/cart.php?a=add&pid=593"
+      ]
+    },
+    "69.0": {
+      "Monthly, n/a, 16GB RAM, 2TB HDD, 240GB SSD": [
+        "https://billing.serveria.com/cart.php?a=add&pid=12&promocode=WHT2019"
+      ]
+    },
+    "70.0": {
+      "Annually, KVM, 120 GB SSD, 100Mbit when bandwidth": [
+        "https://softshellweb.com/client/cart.php?a=add&pid=114",
+        "https://softshellweb.com/client/cart.php?a=add&pid=121"
+      ],
+      "Annually, KVM, 3GB RAM, 120GB RAID10 Storage, 2TB Bandwidth": [
+        "https://clients.budgetnode.com/cart.php?a=add&pid=69&billingcycle=annually"
+      ]
+    },
+    "72.0": {
+      "Annually, KVM, 2GB RAM, 200GB RAID10 Storage, 8TB Bandwidth": [
+        "https://clients.budgetnode.com/cart.php?a=add&pid=91&billingcycle=annually"
+      ]
+    },
+    "75.0": {
+      "n/a, no details, n/a": [
+        "https://infofractal.io/clients/cart.php?gid=2"
+      ],
+      "Monthly, n/a, 32GB RAM, 32GB RAM, 500GB SSD, 15TB Bandwidth": [
+        "https://crm.xenspec.com/cart.php?a=add&pid=37"
+      ]
+    },
+    "78.22": {
+      "Semi-Annually, KVM, 8GB RAM, 100GB SSD": [
+        "https://billing.81vps.com/cart.php?a=add&pid=103"
+      ]
+    },
+    "79.0": {
+      "Monthly, n/a, 1 GB, n/a, n/a": [
+        "https://my.oplink.net/cart.php?a=add&pid=194"
+      ],
+      "Monthly, n/a, 2TB HDD, 2TB HDD, 16GB DDR3": [
+        "https://portal.dedipath.com/cart.php?a=add&pid=315"
+      ],
+      "Annually, KVM, 3GB, 3GB": [
+        "https://softshellweb.com/client/cart.php?a=add&pid=169",
+        "https://softshellweb.com/client/cart.php?a=add&pid=172"
+      ]
+    },
+    "80.0": {
+      "n/a, no details, n/a": [
+        "https://iportal.host/cart.php?a=add&pid=110",
+        "https://iportal.host/cart.php?a=add&pid=95"
+      ],
+      "Monthly, n/a, 48GB RAM, 500GB SSD, 10TB Bandwidth": [
+        "https://crm.xenspec.com/cart.php?a=add&pid=50"
+      ]
+    },
+    "84.0": {
+      "Monthly, n/a, 32GB, n/a, n/a": [
+        "https://portal.dedipath.com/cart.php?a=add&pid=316"
+      ]
+    },
+    "88.0": {
+      "Annually, KVM, 55 GB SSD, 2048MB RAM, 2000GB Premium Bandwidth": [
+        "https://my.racknerd.com/cart.php?a=add&pid=26&promocode=LEB-BF2019"
+      ]
+    },
+    "89.0": {
+      "Monthly, n/a, 32GB RAM, 2TB HDD, 240GB SSD": [
+        "https://billing.serveria.com/cart.php?a=add&pid=13&promocode=WHT2019"
+      ]
+    },
+    "89.99": {
+      "Annually, n/a, 2048MB Memory, 50GB SSD": [
+        "https://portal.thestack.net/cart.php?a=add&pid=130&billingcycle=annually&promocode=LEB2020JULYPLAN3",
+        "https://portal.thestack.net/cart.php?a=add&pid=130&billingcycle=annually&promocode=VETERANYEAREND"
+      ]
+    },
+    "95.0": {
+      "Annually, KVM, 140 GB SSD, 6 GB RAM": [
+        "https://my.racknerd.com/cart.php?a=add&pid=63"
+      ]
+    },
+    "96.0": {
+      "Monthly, DEDICATED SERVER, 16GB, n/a, n/a": [
+        "https://portal.dedipath.com/cart.php?a=add&pid=211?utmsource=LEBJune&utmmedium=lebads"
+      ]
+    },
+    "99.0": {
+      "Monthly, DEDICATED SERVER, 16GB RAM, 2x1TB HDD, 10TB Bandwidth": [
+        "https://secure.paceinfonet.com/cart.php?a=add&pid=139&currency=3&promocode=LOWENDBOX30"
+      ],
+      "n/a, no details": [
+        "https://cc.delimiter.com/?cmd=cart&action=add&id=33"
+      ]
+    },
+    "100.0": {
+      "n/a, no details": [
+        "https://secure.serverpoint.com/cgi-bin/cp/engine/order-dedicatedhosting-v6.cgi?productid=lege31270v201&ramid=legram32&chassisid=1u1x35s",
+        "https://secure.serverpoint.com/cgi-bin/cp/engine/order-dedicatedhosting-v6.cgi?productid=lege31270v204&ramid=legram16&chassisid=1u1x35s"
+      ],
+      "n/a, KVM, 8 GB RAM, 100 GB SSD, 4096 GB Bandwidth": [
+        "https://portal.drserver.net/?cmd=cart&action=add&id=132"
+      ]
+    },
+    "102.66": {
+      "Monthly, n/a, 8GB DDR3, 100mbps Bandwidth": [
+        "https://www.hostinginside.com/billing/cart.php?a=add&pid=264"
+      ]
+    },
+    "109.0": {
+      "Monthly, n/a, 64GB RAM, 2TB HDD, 520GB SSD": [
+        "https://billing.serveria.com/cart.php?a=add&pid=21&promocode=WHT2019"
+      ]
+    },
+    "119.0": {
+      "Monthly, KVM, 8GB, n/a, n/a": [
+        "https://billing.hostvenom.com/cart.php?a=add&pid=1"
+      ]
+    },
+    "120.0": {
+      "Monthly, n/a, 64GB RAM, 64GB RAM, 500GB SSD, 15TB Bandwidth": [
+        "https://crm.xenspec.com/cart.php?a=add&pid=22"
+      ],
+      "Annually, KVM, 1024MB RAM, 1000GB RAID6 Storage, 3TB Bandwidth": [
+        "https://clients.budgetnode.com/cart.php?a=add&pid=81&promocode=FNPR4YJG7U&billingcycle=annually"
+      ]
+    },
+    "144.0": {
+      "Annually, n/a, 4GB, 80 GB": [
+        "https://billing.chicagovps.net/cart.php?a=add&pid=244&billingcycle=annually&promocode=SAVEBIG"
+      ]
+    },
+    "145.0": {
+      "Monthly, n/a, 16GB RAM, 2x 1TB HDD, 100TB Bandwidth": [
+        "https://secure.pinknetworks.com/cart.php?a=add&pid=12"
+      ]
+    },
+    "149.99": {
+      "Annually, n/a, 4096MB Memory, 80GB SSD": [
+        "https://portal.thestack.net/cart.php?a=add&pid=127&billingcycle=annually&promocode=MASTERYEAREND"
+      ]
+    },
+    "150.0": {
+      "n/a, no details, n/a": [
+        "https://iportal.host/cart.php?a=add&pid=96"
+      ]
+    },
+    "159.0": {
+      "n/a, no details": [
+        "https://my.knownhost.com/order/config/index/atl-dedicated/?groupid=25&pricingid=532&configoptions",
+        "https://my.knownhost.com/order/config/index/atl-dedicated/?groupid=25&pricingid=541&configoptions"
+      ]
+    },
+    "160.0": {
+      "n/a, n/a, 16 GB, n/a, SSD": [
+        "https://ideastack.com/order/cart.php?a=add&pid=457"
+      ]
+    },
+    "180.0": {
+      "n/a, n/a, 16 GB, n/a, SSD": [
+        "https://ideastack.com/order/cart.php?a=add&pid=458"
+      ]
+    },
+    "193.0": {
+      "Monthly, n/a, 24GB RAM, 1x 2TB HDD, 100TB Bandwidth": [
+        "https://secure.pinknetworks.com/cart.php?a=add&pid=13"
+      ]
+    },
+    "241.0": {
+      "Monthly, n/a, 32GB RAM, 1x 4TB HDD, 100TB Bandwidth": [
+        "https://secure.pinknetworks.com/cart.php?a=add&pid=14"
+      ]
+    },
+    "999.0": {
+      "Monthly, no details, n/a": [
+        "https://my.serverhub.com/cart.php?a=add&pid=815",
+        "https://my.serverhub.com/cart.php?a=add&pid=816"
+      ]
+    },
+    "1400.0": {
+      "n/a, no details": [
+        "https://order.servermania.com/configure/af5211fb0172320aa8d89845463133c3"
+      ]
+    },
+    "9999.0": {
+      "Monthly, no details, n/a": [
+        "https://my.serverhub.com/cart.php?a=add&pid=817",
+        "https://my.serverhub.com/cart.php?a=add&pid=818"
+      ]
+    }
+  },
+  "EUR": {
+    "1.29": {
+      "Monatlich, KVM, 1 GB Ram, 5 GB SSD": [
+        "https://cp.vserver.site/cart.php?a=add&pid=117"
+      ]
+    },
+    "2.0": {
+      "n/a, no details": [
+        "https://clouveo.com/cart.php?a=&pid=1&promocode=LEBWEB70"
+      ]
+    },
+    "2.45": {
+      "Monthly, OPENVZ, 512 MB RAM, 20 GB Storage, 1 TB Bandwidth": [
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=43"
+      ]
+    },
+    "2.5": {
+      "n/a, no details, n/a": [
+        "https://my.spectraip.net/cart.php?a=add&pid=69&language=english",
+        "https://www.prometeus.net/billing/cart.php?gid=7"
+      ]
+    },
+    "2.84": {
+      "n/a, no details, n/a": [
+        "https://serverastra.com/billing/cart.php?pid=13&promocode=LOWENDBOX"
+      ]
+    },
+    "3.27": {
+      "Monthly, KVM, 512 MB RAM, 15 GB Storage, 1 TB Bandwidth": [
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=51"
+      ]
+    },
+    "3.5": {
+      "n/a, no details, n/a": [
+        "https://my.spectraip.net/cart.php?a=add&pid=72&language=english"
+      ]
+    },
+    "4.0": {
+      "Monthly, no details, n/a": [
+        "https://clouveo.com/cart.php?a=add&pid=10&promocode=M9T3LWQN9D"
+      ]
+    },
+    "4.09": {
+      "Monthly, OPENVZ, 1024 MB RAM, 30 GB Storage, 2 TB Bandwidth": [
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=44",
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=44&promocode=1GB-OVZ-US-FRANCE",
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=44&promocode=20PERYEAROPENVZ1024",
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=44&promocode=24PERYEAROPENVZ1024",
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=512&promocode=20PERYEAROPENVZ1024CANADA"
+      ],
+      "Monthly, OPENVZ, 1024 MB RAM, 30 GB Storage, 100 GB Bandwidth": [
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=444&promocode=399PERMOINDIAVPS",
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=444&promocode=699PERMOINDIAVPS",
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=444&promocode=999PERMOINDIAVPS"
+      ],
+      "Monthly, OPENVZ, 1024 MB RAM, 30 GB Storage, 512 GB Bandwidth": [
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=479&promocode=399PERMORUSSIAVPS"
+      ],
+      "Monthly, KVM, 1 GB RAM, 128 GB Storage, 1024 GB Bandwidth": [
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=516&promocode=KVMSTORAGE128-40"
+      ]
+    },
+    "4.95": {
+      "Monthly, OPENVZ, 1 GB RAM, 50 GB SSD, 1 TB bandwidth": [
+        "https://www.vpsslim.com/cp/cart.php?a=add&pid=1&promocode=LEBXLUSIVE"
+      ]
+    },
+    "4.99": {
+      "n/a, n/a, 2 GB RAM, 50 GB NVMe": [
+        "https://clients.skb-enterprise.com/cart.php?a=add&pid=106"
+      ],
+      "Monthly, n/a, 2GB RAM, 20GB SSD": [
+        "https://sonicfast.io/clientarea/cart.php?a=add&pid=31"
+      ],
+      "n/a, KVM, 1024 MB RAM, 15 GB HDD": [
+        "https://manage.edis.at/whmcs/cart.php?a=add&pid=9?systpl=portal&language=English&promocode=XMAS2012"
+      ]
+    },
+    "5.0": {
+      "Monthly, n/a, 512 MB RAM, 10 GB SSD": [
+        "https://cp.acroservers.com/cart.php?a=add&pid=10"
+      ],
+      "Monatlich, n/a, 1 GB DDR4, 250 Mbps Bandwidth": [
+        "https://dc.dignusdata.center/cart.php?a=add&pid=26"
+      ],
+      "Monthly, KVM, 512 MB Ram, 10 GB SSD": [
+        "https://my.internoc24.host/cart.php?a=add&pid=566"
+      ],
+      "n/a, n/a, 25 GB | RAM, 1024 MB  DDR3, 100 Mbps |   Bandwidth": [
+        "http://www.vps9.net/billing/cart.php?a=add&pid=103"
+      ],
+      "Monthly, XEN, no details": [
+        "https://vikinglayer.com/clients/cart.php?a=add&pid=91"
+      ]
+    },
+    "5.16": {
+      "Monatlich, KVM, 4096 mb Ram, 20 GB SSD": [
+        "https://cp.vserver.site/cart.php?a=add&pid=119"
+      ]
+    },
+    "5.41": {
+      "n/a, no details, n/a": [
+        "https://my.ghesi.com/cart.php?a=add&pid=106&carttpl=modern"
+      ]
+    },
+    "5.49": {
+      "n/a, n/a, 512MB ECC DDR3, 20GB SSD": [
+        "https://serverastra.com/billing/cart.php?a=add&pid=37"
+      ]
+    },
+    "5.5": {
+      "Monthly, XEN, 256MB Dedicated Ram, 256MB Swap": [
+        "https://cart.lusovps.com/cart.php?a=add&pid=6&carttpl=slider",
+        "https://cart.lusovps.com/cart.php?a=add&pid=6&promocode=10OFF"
+      ],
+      "Monthly, XEN, 256MB, n/a, n/a": [
+        "https://cart.lusovps.com/cart.php?a=add&pid=7&carttpl=slider"
+      ]
+    },
+    "5.73": {
+      "Monthly, KVM, 1024 MB RAM, 30 GB Storage, 3 TB Bandwidth": [
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=52",
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=52&promocode=25PERYEARKVM1024"
+      ]
+    },
+    "5.9": {
+      "n/a, no details, n/a": [
+        "https://www.prometeus.net/billing/cart.php?gid=20&promocode=XENPOWER25"
+      ]
+    },
+    "5.99": {
+      "Monthly, n/a, 8192MB-4 cores-45GB SSD, 2TB Bandwidth, 8192MB Dedicated RAM, 45GB SSD": [
+        "https://alphavps.com/clients/cart.php?a=add&pid=297"
+      ]
+    },
+    "6.5": {
+      "n/a, no details, n/a": [
+        "https://my.spectraip.net/cart.php?a=add&pid=73&language=english"
+      ]
+    },
+    "6.99": {
+      "Monthly, KVM, 8192MB-4 cores-40GB SSD, 2TB Bandwidth, 8192MB Dedicated RAM, 40GB SSD": [
+        "https://alphavps.com/clients/cart.php?a=add&pid=312"
+      ]
+    },
+    "7.0": {
+      "Monthly, no details, n/a": [
+        "https://clouveo.com/cart.php?a=add&pid=11&promocode=M9T3LWQN9D"
+      ]
+    },
+    "7.37": {
+      "Monthly, KVM, 2 GB RAM, 256 GB Storage, 2048 GB Bandwidth": [
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=517&promocode=KVMSTORAGE256-80"
+      ]
+    },
+    "7.5": {
+      "Monthly, n/a, 1 GB Ram, 40 GB Raid 10 disk, 1TB Bandwidth": [
+        "https://clients.inceptionhosting.com/cart.php?a=add&pid=97"
+      ]
+    },
+    "7.8": {
+      "n/a, no details, n/a": [
+        "https://clouveo.com/cart.php?a=add&pid=7&promocode=LEBRESELLER70"
+      ]
+    },
+    "8.0": {
+      "Monthly, n/a, 50 GB, n/a, HDD": [
+        "https://www.parkinhost.com/secure/cart.php?a=add&pid=21"
+      ],
+      "Monthly, KVM, 25 GB, n/a, SSD": [
+        "https://www.parkinhost.com/secure/cart.php?a=add&pid=334"
+      ],
+      "n/a, n/a, 25 GB | RAM, 1024 MB  DDR3, 200 Mbps |   Bandwidth": [
+        "http://www.vps9.net/billing/cart.php?a=add&pid=112"
+      ],
+      "Monthly, n/a, 512 MB Dedicated Ram, 512 MB SWAP, 25 GB Raid 10 HDD, 350 GB per Month Bandwidth": [
+        "https://clients.inceptionhosting.com/cart.php?a=add&pid=32"
+      ]
+    },
+    "8.16": {
+      "Monthly, OPENVZ, 2GB RAM, 2GB vSWAP, 50GB Storage, 2TB Bandwidth": [
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=268&promocode=100PERYEARVPSRESOURCEPOOL1",
+        "https://www.hostnamaste.com/clients/cart.php?a=confproduct&i=2"
+      ]
+    },
+    "8.19": {
+      "Monthly, OPENVZ, 2048 MB RAM, 50 GB Storage, 3 TB Bandwidth": [
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=45",
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=45&promocode=2GB-OVZ-US-FRANCE",
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=45&promocode=30PERYEAROPENVZ2048",
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=513&promocode=35PERYEAROPENVZ2048CANADA"
+      ]
+    },
+    "8.49": {
+      "n/a, KVM, 2048 MB RAM, 20 GB HDD": [
+        "https://manage.edis.at/whmcs/cart.php?a=add&pid=10",
+        "https://manage.edis.at/whmcs/cart.php?a=add&pid=10&configoption",
+        "https://manage.edis.at/whmcs/cart.php?a=add&pid=10?systpl=portal&language=English&promocode=STARTER30GB"
+      ]
+    },
+    "9.0": {
+      "n/a, KVM, 2GB Memory, 4TB Bandwidth": [
+        "https://www.seedvps.com/billing/cart.php?a=add&pid=46",
+        "https://www.seedvps.com/billing/cart.php?a=add&pid=52"
+      ]
+    },
+    "9.04": {
+      "Monatlich, KVM, 8192 mb Ram, 50 GB SSD": [
+        "https://cp.vserver.site/cart.php?a=add&pid=120"
+      ]
+    },
+    "9.95": {
+      "Monthly, OPENVZ, 4 GB RAM, 150 GB SSD, 5 TB bandwidth": [
+        "https://www.vpsslim.com/cp/cart.php?a=add&pid=2&promocode=LEBXLUSIVE"
+      ]
+    },
+    "9.99": {
+      "n/a, n/a, 4 GB RAM, 100 GB NVMe": [
+        "https://clients.skb-enterprise.com/cart.php?a=add&pid=107"
+      ],
+      "Monthly, n/a, 4GB RAM, 40GB SSD": [
+        "https://sonicfast.io/clientarea/cart.php?a=add&pid=32"
+      ]
+    },
+    "10.0": {
+      "Monthly, KVM, 2048MB, n/a, n/a": [
+        "https://cart.lusovps.com/cart.php?a=add&pid=132&carttpl=slider"
+      ],
+      "Monthly, n/a, 1GB RAM, 30 GB SSD": [
+        "https://cp.acroservers.com/cart.php?a=add&pid=11"
+      ],
+      "Monthly, n/a, 512 MB RAM, 512 MB SWAP, 25 GB HDD, 700 GB Bandwidth": [
+        "http://clients.inceptionhosting.com/cart.php?a=add&pid=57"
+      ],
+      "Monthly, KVM, 4096 MB Ram, 40 GB Pure NVMe, 4000 GB Bandwidth": [
+        "https://clients.inceptionhosting.com/cart.php?a=add&pid=187"
+      ],
+      "n/a, no details, n/a": [
+        "https://www.prometeus.net/billing/cart.php?a=add&pid=85&promocode=IWSTACKINTRO"
+      ]
+    },
+    "10.62": {
+      "Monthly, n/a, 2048 MB RAM, 60 GB Storage, 2 TB Bandwidth": [
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=417",
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=417&promocode=CheapWindowsVPS60",
+        "https://www.hostnamaste.com/clients/cart.php?a=confproduct&i=6"
+      ]
+    },
+    "10.65": {
+      "Monthly, KVM, 2048 MB RAM, 60 GB Storage, 5 TB Bandwidth": [
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=50",
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=50&promocode=40PERYEARKVM2048"
+      ]
+    },
+    "11.88": {
+      "n/a, no details": [
+        "https://alexhost.com/cart/ssd-vps-vds/"
+      ]
+    },
+    "12.29": {
+      "Monthly, OPENVZ, 3072 MB RAM, 100 GB Storage, 1024 GB Bandwidth": [
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=481&promocode=699PERMORUSSIAVPS",
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=481&promocode=999PERMORUSSIAVPS"
+      ]
+    },
+    "12.3": {
+      "Annually, KVM, 256 MB RAM, 15 GB Storage, 256 GB Bandwidth": [
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=244"
+      ],
+      "Annually, OPENVZ, 128 MB RAM, 05 GB Storage, 100 GB Bandwidth": [
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=41",
+        "https://www.hostnamaste.com/clients/cart.php?a=confproduct&i=4"
+      ]
+    },
+    "13.93": {
+      "n/a, no details, n/a": [
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=434",
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=434&promocode=8PERYEARLINUXHOSTING",
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=438&promocode=80PERYEARLINUXRESELLER",
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=453"
+      ]
+    },
+    "14.95": {
+      "Annually, n/a, 15GB SSD, 512MB Memory, 1TB Bandwidth": [
+        "https://www.virtono.com/cart.php?a=add&pid=400&billingcycle=annually"
+      ]
+    },
+    "14.97": {
+      "n/a, OPENVZ, 4096 MB RAM, 150 GB Storage": [
+        "https://clients.hostslim.eu/cart.php?a=add&pid=1044&promocode=LEBEXCLUSIVE",
+        "https://clients.hostslim.eu/cart.php?a=add&pid=1044&promocode=LEBEXCLUSIVEYEAR"
+      ]
+    },
+    "15.0": {
+      "Annually, n/a, 1GB RAM, 5GBSSD": [
+        "https://sonicfast.io/clientarea/cart.php?a=add&pid=152"
+      ]
+    },
+    "15.54": {
+      "Monthly, n/a, 3072 MB RAM, 90 GB SSD, 3 TB Bandwidth": [
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=418&promocode=CheapWindowsVPS80"
+      ]
+    },
+    "16.36": {
+      "Monthly, OPENVZ, 5GB RAM, 5GB vSWAP, 100GB Storage, 4TB Bandwidth": [
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=269&promocode=100PERYEARVPSRESOURCEPOOL2",
+        "https://www.hostnamaste.com/clients/cart.php?a=confproduct&i=3"
+      ]
+    },
+    "16.4": {
+      "Annually, OPENVZ, 256 MB RAM, 10 GB Storage, 250 GB Bandwidth": [
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=42&promocode=15PERYEAROVZLEB"
+      ]
+    },
+    "17.95": {
+      "Monthly, KVM, 4 GB RAM, 150 GB SSD, 5 TB bandwidth": [
+        "https://www.vpsslim.com/cp/cart.php?a=add&pid=5&promocode=LEBKVMJUNE"
+      ]
+    },
+    "18.0": {
+      "Annually, n/a, 512 MB RAM, 5GB SSD, 1 TB  Bandwidth": [
+        "https://sonicfast.io/clientarea/cart.php?a=add&pid=86"
+      ],
+      "Monthly, n/a, 1024 MB RAM, 1024 MB SWAP, 55 GB HDD, 1300 GB Bandwidth": [
+        "https://clients.inceptionhosting.com/cart.php?a=add&pid=59"
+      ]
+    },
+    "19.95": {
+      "Monthly, OPENVZ, 8 GB RAM, 300 GB SSD, 10 TB bandwidth": [
+        "https://www.vpsslim.com/cp/cart.php?a=add&pid=3&promocode=LEBXLUSIVE"
+      ]
+    },
+    "19.99": {
+      "n/a, KVM, no details": [
+        "https://clients.hostslim.eu/cart.php?a=add&pid=1078&promocode=KVMHEAVYLEB"
+      ]
+    },
+    "20.0": {
+      "Annually, no details, n/a": [
+        "https://clouveo.com/cart.php?a=add&pid=18&promocode=M9T3LWQN9D"
+      ]
+    },
+    "20.46": {
+      "Monthly, n/a, 4096 MB RAM, 120 GB SSD, 4 TB Bandwidth": [
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=419&promocode=CheapWindowsVPS100",
+        "https://www.hostnamaste.com/clients/cart.php?a=confproduct&i=8"
+      ]
+    },
+    "22.95": {
+      "Monthly, n/a, 2 GB, 80 GB SSD": [
+        "https://mya.illyhosting.com/cart.php?a=add&pid=54"
+      ]
+    },
+    "24.6": {
+      "Monthly, KVM, 8 GB RAM, 100 GB Storage, 10 TB Bandwidth": [
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=267",
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=267&promocode=240PERYEARBUDGETDEDI1",
+        "https://www.hostnamaste.com/clients/cart.php?a=confproduct&i=1"
+      ],
+      "Monthly, KVM, 2 GB RAM, 1024 GB Storage, 4096 GB Bandwidth": [
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=519&promocode=KVMSTORAGE1024-120"
+      ]
+    },
+    "27.0": {
+      "Monthly, n/a, 1536 MB RAM, 1536MB SWAP, 85 GB HDD, 1600 GB Bandwidth": [
+        "http://clients.inceptionhosting.com/cart.php?a=add&pid=60"
+      ]
+    },
+    "30.0": {
+      "n/a, no details, n/a": [
+        "https://www.prometeus.net/billing/cart.php?gid=17"
+      ]
+    },
+    "32.8": {
+      "Monthly, KVM, 8 GB RAM, 200 GB Storage, 10 TB Bandwidth": [
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=49",
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=49&promocode=360PERYEARBUDGETDEDI2"
+      ]
+    },
+    "34.48": {
+      "Monatlich, n/a, 16 GB RAM, 256GB SSD": [
+        "https://cp.vserver.site/cart.php?a=add&pid=177"
+      ]
+    },
+    "37.0": {
+      "n/a, no details": [
+        "https://secure.hostsolutions.ro/cart.php?a=add&pid=372"
+      ]
+    },
+    "40.0": {
+      "Monthly, n/a, 4GB RAM, 4GB DDR3, 1TB HDD, 25TB Bandwidth": [
+        "https://skdedicated.com/controlpanel/cart.php?a=add&pid=155"
+      ]
+    },
+    "41.0": {
+      "Monthly, KVM, 16 GB RAM, 400 GB Storage, 10 TB Bandwidth": [
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=55"
+      ]
+    },
+    "45.0": {
+      "n/a, DEDICATED SERVER, 8 GB, n/a, n/a": [
+        "https://clients.hostslim.eu/cart.php?a=add&pid=1014&promocode=LEBDEDI",
+        "https://clients.hostslim.eu/cart.php?a=add&pid=1014&promocode=LEBEXCLUSIVEDEDI"
+      ]
+    },
+    "48.0": {
+      "Annually, KVM, 512 MB Ram, 10 GB SSD": [
+        "https://my.internoc24.host/cart.php?a=add&pid=567"
+      ]
+    },
+    "56.03": {
+      "Monthly, DEDICATED SERVER, 1-16GB-2x480SSD, 1-16GB-2x480SSD": [
+        "https://hostslick.com/clients/cart.php?a=add&pid=205&currency=3"
+      ]
+    },
+    "59.0": {
+      "Monthly, DEDICATED SERVER, 8 GB RAM, 1 TB HDD, 250 GB SSD": [
+        "https://clients.mivocloud.com/cart.php?a=add&pid=289"
+      ]
+    },
+    "62.4": {
+      "Monthly, KVM, 8MB, n/a, n/a": [
+        "https://bill.abelohost.com/cart.php?a=add&pid=64"
+      ]
+    },
+    "63.0": {
+      "n/a, n/a, 32 GB, n/a, n/a": [
+        "https://clients.hostslim.eu/cart.php?a=add&pid=1142"
+      ]
+    },
+    "65.6": {
+      "Monthly, KVM, 32 GB RAM, 500 GB Storage, 10 TB Bandwidth": [
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=94"
+      ]
+    },
+    "75.0": {
+      "n/a, KVM, 128GB RAM, 128GB DDR3": [
+        "https://hostslick.com/clients/cart.php?a=add&pid=252"
+      ]
+    },
+    "100.0": {
+      "n/a, KVM, 2048 MBStorage, 20 GBBandwidth": [
+        "https://billing.time4vps.com/?cmd=cart&action=add&id=127&cycle=m"
+      ],
+      "n/a, KVM, 4096 MBStorage, 40 GBBandwidth": [
+        "https://billing.time4vps.com/?cmd=cart&action=add&id=128&cycle=m"
+      ]
+    }
+  },
+  "GBP": {
+    "2.0": {
+      "n/a, no details": [
+        "https://www.onepoundwebhosting.co.uk/cart.php?gid=8"
+      ]
+    },
+    "2.08": {
+      "n/a, no details": [
+        "https://secure.cheapvps.co.uk/cart.php?a=add&pid=447",
+        "https://secure.cheapvps.co.uk/cart.php?a=add&pid=472"
+      ]
+    },
+    "2.49": {
+      "Monthly, n/a, 15GB NVMe, 768MB RAM, 45GB Storage": [
+        "https://portal.hostworld.uk/cart.php?a=add&pid=78"
+      ]
+    },
+    "2.5": {
+      "n/a, no details": [
+        "https://secure.cheapvps.co.uk/cart.php?a=add&pid=21"
+      ],
+      "n/a, no details, n/a": [
+        "https://clients.openitc.co.uk/order/type/20"
+      ]
+    },
+    "3.69": {
+      "Monthly, n/a, 1GB - 20GB Storage, 1GB RAM, 60GB Storage": [
+        "https://portal.hostworld.uk/cart.php?a=add&pid=64",
+        "https://portal.hostworld.uk/cart.php?a=add&pid=64&configoption",
+        "https://portal.hostworld.uk/cart.php?a=add&pid=64&promocode=LEBS1QTR",
+        "https://portal.hostworld.uk/cart.php?a=add&pid=64&promocode=LEBS1YEAR"
+      ]
+    },
+    "3.99": {
+      "Monthly, KVM, 99GB, n/a, n/a": [
+        "https://loveservers.com/clients/cart.php?a=add&pid=10"
+      ],
+      "Monthly, n/a, 256MB Dedicated RAM, 256MB Swap, 15GB RAID-10 Disk, 250GB Monthly Bandwidth": [
+        "https://billing.pcsmartgroup.com/cart.php?a=add&pid=209"
+      ]
+    },
+    "4.0": {
+      "n/a, n/a, 512MB RAM, 1024MB SWAP, 10GB Disk, 200GB Bandwidth": [
+        "https://secure.vooclients.com/cart.php?a=add&pid=107",
+        "https://secure.vooclients.com/cart.php?a=add&pid=107&promocode=IPV6ME"
+      ],
+      "Monthly, KVM, 00GB, n/a, n/a": [
+        "https://loveservers.com/clients/cart.php?a=add&pid=43"
+      ],
+      "n/a, KVM, 1024MB RAM, 50GB Disk": [
+        "https://clients.openitc.co.uk/order/product/398"
+      ],
+      "n/a, no details": [
+        "https://www.minivps.co.uk/cart.php?gid=10&currency=4"
+      ]
+    },
+    "4.13": {
+      "Monthly, XEN, 27GB, n/a, HDD": [
+        "https://gbservers.co.uk/clients/cart.php?a=add&pid=163"
+      ]
+    },
+    "4.35": {
+      "Monthly, KVM, 10GB Pure SSD, 512MB RAM, 1000GB Bandwidth": [
+        "https://www.fusioned.net/billing/cart.php?a=add&pid=65"
+      ]
+    },
+    "4.4": {
+      "Monthly, XEN, 50GB (Disk, 600GB (Bandwidth, 768MB (RAM, 1536MB (Swap": [
+        "https://www.onepoundwebhosting.co.uk/cart.php?a=add&pid=68"
+      ]
+    },
+    "4.5": {
+      "n/a, no details": [
+        "https://my.netcetera.co.uk/cart.php?gid=176"
+      ],
+      "Monthly, XEN, 50GB, n/a, HDD": [
+        "https://gbservers.co.uk/clients/cart.php?a=add&pid=168"
+      ]
+    },
+    "4.6": {
+      "n/a, XEN, 35GB, n/a, HDD": [
+        "https://gbservers.co.uk/clients/cart.php?a=add&pid=169"
+      ]
+    },
+    "4.89": {
+      "Monthly, n/a, 30GB NVMe, 2GB RAM, 90GB Storage": [
+        "https://portal.hostworld.uk/cart.php?a=add&pid=79"
+      ]
+    },
+    "5.5": {
+      "Monthly, XEN, 60GB, n/a, HDD": [
+        "https://gbservers.co.uk/clients/cart.php?a=add&pid=171"
+      ]
+    },
+    "5.59": {
+      "Monthly, n/a, 30GB Storage, 2GB RAM, 90GB Storage": [
+        "https://portal.hostworld.uk/cart.php?a=add&pid=71",
+        "https://portal.hostworld.uk/cart.php?a=add&pid=71&configoption"
+      ]
+    },
+    "5.79": {
+      "Monthly, n/a, 2GB - VPS-2 - 50GB Storage, 2GB RAM, 150GB Storage": [
+        "https://portal.hostworld.uk/cart.php?a=add&pid=55",
+        "https://portal.hostworld.uk/cart.php?a=add&pid=55&promocode=LEBS2QTR",
+        "https://portal.hostworld.uk/cart.php?a=add&pid=55&promocode=LEBS2YEAR"
+      ]
+    },
+    "6.0": {
+      "n/a, XEN, 60GB, n/a, HDD": [
+        "https://gbservers.co.uk/clients/cart.php?a=add&pid=173"
+      ]
+    },
+    "6.99": {
+      "Monthly, n/a, 512MB Dedicated RAM, 512MB Swap, 30GB RAID-10 Disk, 450GB Monthly Bandwidth": [
+        "https://billing.pcsmartgroup.com/cart.php?a=add&pid=211"
+      ]
+    },
+    "7.0": {
+      "n/a, n/a, 1024MB, n/a, n/a": [
+        "https://www.web-project.co.uk/clientarea/order.php?step=1&productGroup=20&product=211"
+      ]
+    },
+    "7.5": {
+      "n/a, n/a, 1024MB RAM, 2048MB SWAP, 20GB Hard Disk, 500GB Bandwidth": [
+        "https://secure.vooclients.com/cart.php?a=add&pid=108&promocode=IPV6ME"
+      ]
+    },
+    "8.0": {
+      "n/a, KVM, 2048MB RAM, 100GB Disk": [
+        "https://clients.openitc.co.uk/order/product/397"
+      ]
+    },
+    "8.8": {
+      "Monthly, XEN, 40GB (Disk, 600GB (Bandwidth, 512MB (RAM, 512MB (Swap": [
+        "http://www.onepoundwebhosting.co.uk/cart.php?a=add&pid=42&promocode=LEB50XEN",
+        "https://www.onepoundwebhosting.co.uk/cart.php?a=add&pid=42"
+      ]
+    },
+    "9.99": {
+      "Monthly, n/a, 100GB Storage, 4GB RAM, 300GB Storage": [
+        "https://portal.hostworld.uk/cart.php?a=add&pid=48&promocode=LEBVPS3"
+      ],
+      "n/a, no details, n/a": [
+        "https://websound.co.uk/cart.php?a=add&pid=156&billingcycle=semiannually&promocode=LET-FREE"
+      ]
+    },
+    "10.0": {
+      "Semi-Annually, KVM, 00GB, n/a, n/a": [
+        "https://loveservers.com/clients/cart.php?a=add&pid=13"
+      ]
+    },
+    "12.0": {
+      "Annually, n/a, 15GB (Disk, 200GB (Bandwidth, 128MB (RAM, 256MB (Swap": [
+        "https://www.onepoundwebhosting.co.uk/cart.php?a=add&pid=62"
+      ]
+    },
+    "24.0": {
+      "Annually, n/a, 30GB (Disk, 400GB (Bandwidth, 256MB (RAM, 512MB (Swap": [
+        "https://www.onepoundwebhosting.co.uk/cart.php?a=add&pid=63"
+      ]
+    },
+    "35.64": {
+      "n/a, no details, n/a": [
+        "https://clients.openitc.co.uk/order/type/9"
+      ]
+    },
+    "35.88": {
+      "Annually, n/a, 15GB Storage, 512MB RAM, 45GB Storage": [
+        "https://portal.hostworld.uk/cart.php?a=add&pid=61&promocode=LEBVPS0.5&billingcycle=annually"
+      ]
+    }
+  }
+}
