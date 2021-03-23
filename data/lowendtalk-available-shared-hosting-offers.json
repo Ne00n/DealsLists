@@ -1,0 +1,810 @@
+{
+  "USD": {
+    "0.5": {
+      "n/a, n/a, 1GB, n/a, n/a": [
+        "https://svenhost.com/portal/cart.php?a=add&pid=10"
+      ],
+      "n/a, n/a, 1GB, n/a, SSD": [
+        "https://clients.cycloneservers.net/cart.php?a=add&pid=4"
+      ]
+    },
+    "0.99": {
+      "n/a, n/a, 2 GB SSD, 50 GB Bandwidth": [
+        "https://clients.cycloneservers.net/cart.php?a=add&pid=1"
+      ]
+    },
+    "1.5": {
+      "n/a, n/a, 1 GB, n/a, n/a": [
+        "http://hostmayo.com/members/order.php?step=1&productGroup=1&product=4",
+        "http://hostmayo.com/members/order.php?step=1&productGroup=1&product=4&coupon=extreme",
+        "http://www.hostmayo.com/members/order.php?step=1&productGroup=1&product=9",
+        "http://www.hostmayo.com/members/order.php?step=1&productGroup=1&product=9&coupon=extreme",
+        "https://hostmayo.com/members/order.php?step=1&productGroup=1&product=1",
+        "https://hostmayo.com/members/order.php?step=1&productGroup=1&product=1&coupon=extreme",
+        "https://hostmayo.com/members/order.php?step=1&productGroup=1&product=109",
+        "https://hostmayo.com/members/order.php?step=1&productGroup=1&product=109&coupon=extreme",
+        "https://hostmayo.com/members/order.php?step=1&productGroup=1&product=4",
+        "https://hostmayo.com/members/order.php?step=1&productGroup=1&product=46",
+        "https://hostmayo.com/members/order.php?step=1&productGroup=1&product=46&coupon=extreme",
+        "https://hostmayo.com/members/order.php?step=1&productGroup=1&product=9"
+      ],
+      "Monthly, n/a, 512 MB, n/a, n/a": [
+        "https://hive.happybeehost.com/cart.php?a=add&pid=3&a=add&currency=1"
+      ]
+    },
+    "1.75": {
+      "Monthly, n/a, 1 GB, n/a, n/a": [
+        "https://hive.happybeehost.com/cart.php?a=add&pid=4&a=add&currency=1"
+      ]
+    },
+    "1.99": {
+      "Monthly, n/a, 3 GB, n/a, SSD": [
+        "https://core.xinix.net/cart.php?a=add&pid=127&promocode=SHARED3G495",
+        "https://core.xinix.net/cart.php?a=add&pid=129&promocode=SHARED3G495"
+      ],
+      "Monthly, n/a, 1GB, 1GB\n": [
+        "https://portal.bitronictech.net/cart.php?a=add&pid=90&promocode=big40&billingcycle=monthly"
+      ]
+    },
+    "2.0": {
+      "n/a, n/a, 10GB, n/a, SSD": [
+        "https://svenhost.com/portal/cart.php?a=add&pid=1&billingcycle=annually&promocode=LET65M"
+      ]
+    },
+    "2.25": {
+      "n/a, no details": [
+        "https://clients.gestiondbi.com/?cmd=cart&action=add&id=369"
+      ],
+      "Monthly, n/a, 3 GB, n/a, n/a": [
+        "https://hive.happybeehost.com/cart.php?a=add&pid=5&a=add&currency=1"
+      ]
+    },
+    "2.5": {
+      "n/a, no details, n/a": [
+        "https://my.hostcram.com/order/config/index/directadmin-special/?groupid=29&pricingid=315",
+        "https://my.hostcram.com/order/config/index/directadmin-special/?groupid=29&pricingid=317"
+      ],
+      "Monthly, no details, n/a": [
+        "https://my.spearwarenetworks.com/cart.php?a=add&pid=4"
+      ],
+      "n/a, no details": [
+        "https://my.limitlesshost.net/order/config/index/de-sharedhosting/?groupid=33&pricingid=246",
+        "https://my.limitlesshost.net/order/config/index/de-sharedhosting/?groupid=33&pricingid=246&coupon=LETDA40",
+        "https://my.limitlesshost.net/order/config/index/de-sharedhosting/?groupid=33&pricingid=247",
+        "https://my.limitlesshost.net/order/config/index/de-sharedhosting/?groupid=33&pricingid=252",
+        "https://my.limitlesshost.net/order/config/index/de-sharedhosting/?groupid=33&pricingid=252&coupon=LETDA40",
+        "https://my.limitlesshost.net/order/config/index/de-sharedhosting/?groupid=33&pricingid=258&coupon=LETDA40",
+        "https://my.limitlesshost.net/order/config/index/eu-resellerhosting/?groupid=38&pricingid=291",
+        "https://my.limitlesshost.net/order/config/index/eu-resellerhosting/?groupid=38&pricingid=291&coupon=LETRESELLER50",
+        "https://my.limitlesshost.net/order/config/index/eu-resellerhosting/?groupid=38&pricingid=294&coupon=LETRESELLER50",
+        "https://my.limitlesshost.net/order/config/index/usa-resellerhosting/?groupid=41&pricingid=333",
+        "https://my.limitlesshost.net/order/config/index/usa-resellerhosting/?groupid=41&pricingid=333&coupon=LETRESELLER50",
+        "https://my.limitlesshost.net/order/config/index/usa-resellerhosting/?groupid=41&pricingid=336&coupon=LETRESELLER50",
+        "https://my.limitlesshost.net/order/config/index/usahosting-da/?groupid=39&pricingid=303",
+        "https://my.limitlesshost.net/order/config/index/usahosting-da/?groupid=39&pricingid=303&coupon=LETDA40",
+        "https://my.limitlesshost.net/order/config/index/usahosting-da/?groupid=39&pricingid=304",
+        "https://my.limitlesshost.net/order/config/index/usahosting-da/?groupid=39&pricingid=309",
+        "https://my.limitlesshost.net/order/config/index/usahosting-da/?groupid=39&pricingid=309&coupon=LETDA40",
+        "https://my.limitlesshost.net/order/config/index/usahosting-da/?groupid=39&pricingid=315&coupon=LETDA40",
+        "https://my.limitlesshost.net/order/config/index/wisecp/?groupid=44&pricingid=402",
+        "https://my.limitlesshost.net/order/config/index/wisecp/?groupid=44&pricingid=403",
+        "https://my.limitlesshost.net/order/config/index/wisecp/?groupid=44&pricingid=404"
+      ]
+    },
+    "2.99": {
+      "n/a, no details, n/a": [
+        "https://manage.hostdare.com/cart.php?a=add&pid=1",
+        "https://www.hostorbits.com/clients/cart.php?gid=1"
+      ],
+      "Monthly, n/a, 2GB, 2GB\n": [
+        "https://portal.bitronictech.net/cart.php?a=add&pid=2&promocode=big40&billingcycle=monthly"
+      ],
+      "n/a, n/a, 20 GB, n/a, SSD": [
+        "https://clients.cycloneservers.net/cart.php?a=add&pid=3"
+      ],
+      "Monthly, n/a, 5GB, n/a, NVME": [
+        "https://core.xinix.net/cart.php?a=add&pid=274&promocode=5GSHAREDSPL599",
+        "https://core.xinix.net/cart.php?a=add&pid=274&promocode=5GSHAREDSPL899"
+      ],
+      "Monthly, n/a, 5 GB  SSD, 500 GB Premium Bandwidth": [
+        "https://core.xinix.net/cart.php?a=add&pid=282&promocode=5GSHAREDSPL899"
+      ],
+      "Monthly, n/a, 1GB, n/a, SSD": [
+        "https://core.xinix.net/cart.php?a=add&pid=394&promocode=1GSHAREDSPL399",
+        "https://core.xinix.net/cart.php?a=add&pid=394&promocode=1GSHAREDSPL499",
+        "https://core.xinix.net/cart.php?a=add&pid=396&promocode=1GSHAREDSPL499",
+        "https://core.xinix.net/cart.php?a=add&pid=424&promocode=1GSHAREDSPL399",
+        "https://core.xinix.net/cart.php?a=add&pid=424&promocode=1GSHAREDSPL499"
+      ]
+    },
+    "3.0": {
+      "n/a, n/a, 2 GB, n/a, n/a": [
+        "https://xhostfire.com/cart.php?a=add&pid=23"
+      ]
+    },
+    "3.5": {
+      "n/a, n/a, 10 GB, n/a, n/a": [
+        "https://xhostfire.com/cart.php?a=add&pid=10"
+      ],
+      "n/a, no details": [
+        "https://xhostfire.com/cart.php?gid=4"
+      ]
+    },
+    "4.0": {
+      "n/a, no details": [
+        "https://clients.hostsailor.com/cart.php?"
+      ],
+      "Monthly, n/a, 5 GB, n/a, n/a": [
+        "https://hive.happybeehost.com/cart.php?a=add&pid=26&a=add&currency=1"
+      ]
+    },
+    "4.2": {
+      "n/a, no details, n/a": [
+        "https://www.dewlance.com/client/cart.php?a=add&pid=253"
+      ]
+    },
+    "4.49": {
+      "Monthly, n/a, 5GB Disk, 50GB Bandwidth": [
+        "https://client.mrapidhost.com/cart.php?a=add&pid=1"
+      ]
+    },
+    "4.5": {
+      "Monthly, no details, n/a": [
+        "https://my.spearwarenetworks.com/cart.php?a=add&pid=5"
+      ],
+      "n/a, n/a, 20 GB, n/a, n/a": [
+        "https://xhostfire.com/cart.php?a=add&pid=11"
+      ],
+      "n/a, no details": [
+        "https://clients.gestiondbi.com/?cmd=cart&action=add&id=370"
+      ]
+    },
+    "4.99": {
+      "n/a, no details, n/a": [
+        "https://manage.hostdare.com/cart.php?a=add&pid=3"
+      ],
+      "Monthly, n/a, 5 GB NVME, 25 TB Bandwidth": [
+        "https://core.xinix.net/cart.php?a=add&pid=425&promocode=5GSHAREDSPL599",
+        "https://core.xinix.net/cart.php?a=add&pid=425&promocode=5GSHAREDSPL899"
+      ]
+    },
+    "5.0": {
+      "Monthly, n/a, 10GB, 10GB ": [
+        "https://my.hosteons.com/cart.php?a=add&pid=136"
+      ],
+      "n/a, no details": [
+        "https://softshellweb.com/client/cart.php?a=add&pid=86",
+        "https://tnahosting.net/billing/cart.php?a=add&pid=58"
+      ],
+      "n/a, n/a, 25GB, n/a, SSD": [
+        "https://svenhost.com/portal/cart.php?a=add&pid=2&billingcycle=annually&promocode=LET65M"
+      ]
+    },
+    "5.13": {
+      "n/a, no details": [
+        "https://www.regolithmedia.com/order-ssl.php"
+      ]
+    },
+    "5.99": {
+      "n/a, no details": [
+        "https://portal.bitronictech.net/cart.php?gid=3&promocode=niceice&billingcycle=monthly"
+      ]
+    },
+    "6.0": {
+      "Annually, n/a, 100 MB, n/a, n/a": [
+        "https://hive.happybeehost.com/cart.php?a=add&pid=1&a=add&currency=1"
+      ],
+      "Annually, no details, n/a": [
+        "https://securedragon.net/clients/cart.php?a=add&pid=298"
+      ]
+    },
+    "6.5": {
+      "Monthly, no details, n/a": [
+        "https://my.spearwarenetworks.com/cart.php?a=add&pid=6"
+      ]
+    },
+    "6.99": {
+      "Annually, n/a, 2 GB, n/a, NVME": [
+        "https://core.xinix.net/cart.php?a=add&pid=128&promocode=SHARED3G495"
+      ]
+    },
+    "7.0": {
+      "n/a, n/a, 30 GB SSD, 500 GB Monthly Bandwidth": [
+        "https://svenhost.com/portal/cart.php?a=add&pid=4&billingcycle=annually&promocode=LET50M",
+        "https://svenhost.com/portal/cart.php?a=add&pid=4&billingcycle=quarterly&promocode=LET50M",
+        "https://svenhost.com/portal/cart.php?a=add&pid=4&billingcycle=semiannually&promocode=LET50M"
+      ],
+      "n/a, no details": [
+        "https://secure.viridweb.com/cart.php?gid=7"
+      ]
+    },
+    "7.99": {
+      "n/a, no details": [
+        "https://core.xinix.net/cart.php?a=add&pid=126&promocode=SHARED3G495"
+      ]
+    },
+    "8.0": {
+      "Annually, n/a, 250 MB, n/a, n/a": [
+        "https://hive.happybeehost.com/cart.php?a=add&pid=2&a=add&currency=1"
+      ],
+      "Monthly, n/a, 20GB, n/a, NVME": [
+        "https://www.ikihost.com/member/cart.php?a=add&pid=77"
+      ],
+      "n/a, no details": [
+        "https://secure.viridweb.com/cart.php?gid=1"
+      ],
+      "n/a, n/a, 50 GB, n/a, n/a": [
+        "https://hostmayo.com/members/order.php?step=1&productGroup=15&product=91",
+        "https://hostmayo.com/members/order.php?step=1&productGroup=15&product=92"
+      ]
+    },
+    "9.38": {
+      "n/a, n/a, 60GB, n/a, SSD": [
+        "https://my.racknerd.com/cart.php?a=add&pid=432"
+      ]
+    },
+    "9.99": {
+      "n/a, n/a, 35 GB, n/a, SSD": [
+        "https://clients.cycloneservers.net/cart.php?a=add&pid=2"
+      ]
+    },
+    "10.0": {
+      "n/a, no details": [
+        "https://portal.bitronictech.net/cart.php?a=add&pid=110",
+        "https://www.webhosting1st.com/clientarea/order/config/index/shared-hosting/?pkcampaign=lowendtalk&groupid=1&pricingid=16",
+        "https://portal.bitronictech.net/cart.php?a=add&pid=111",
+        "https://softshellweb.com/client/cart.php?a=add&pid=87",
+        "https://tnahosting.net/billing/cart.php?a=add&pid=59",
+        "https://www.webhosting1st.com/clientarea/order/config/index/shared-hosting/?pkcampaign=lowendtalk&groupid=1&pricingid=3",
+        "https://www.webhosting1st.com/clientarea/order/config/index/shared-hosting/?pkcampaign=lowendtalk&groupid=1&pricingid=5",
+        "https://clients.gestiondbi.com/?cmd=cart&action=add&id=368",
+        "https://www.webhosting1st.com/clientarea/order/config/index/shared-hosting/?pkcampaign=lowendtalk&groupid=1&pricingid=7",
+        "https://manage.hostdare.com/cart.php?a=add&pid=48"
+      ]
+    },
+    "11.99": {
+      "Annually, no details, n/a": [
+        "https://clients.resellways.com/cart.php?a=add&pid=1&promocode=Love4ResellWays",
+        "https://clients.resellways.com/cart.php?a=add&pid=1&promocode=RESELLWAYS50"
+      ]
+    },
+    "12.0": {
+      "n/a, no details": [
+        "https://my.webhorizon.in/order/config/index/email/?groupid=11&pricingid=155&coupon=MAIL-53",
+        "https://my.tecria.com/cart.php?a=add&pid=21",
+        "https://webhorizon.in/clients/order/config/index/email/?groupid=11&pricingid=155",
+        "https://webhorizon.in/clients/order/main/index/email",
+        "https://webhorizon.in/clients/order/main/packages/email"
+      ],
+      "n/a, n/a, 60GB, n/a, SSD": [
+        "https://svenhost.com/portal/cart.php?a=add&pid=3&billingcycle=annually&promocode=LET65M"
+      ],
+      "n/a, n/a, 60 GB SSD, 1 TB Monthly Bandwidth": [
+        "https://svenhost.com/portal/cart.php?a=add&pid=5&billingcycle=annually&promocode=LET50M",
+        "https://svenhost.com/portal/cart.php?a=add&pid=5&billingcycle=quarterly&promocode=LET50M",
+        "https://svenhost.com/portal/cart.php?a=add&pid=5&billingcycle=semiannually&promocode=LET50M"
+      ]
+    },
+    "12.99": {
+      "n/a, n/a, 35GB, n/a, SSD": [
+        "https://my.racknerd.com/cart.php?a=add&pid=329"
+      ]
+    },
+    "13.0": {
+      "n/a, no details": [
+        "https://www.regolithmedia.com/order-ssd-web-hosting-amsterdam.php",
+        "https://www.regolithmedia.com/order-ssd-web-hosting-phoenix.php"
+      ]
+    },
+    "14.89": {
+      "n/a, n/a, 100 GB, n/a, SSD": [
+        "https://my.racknerd.com/cart.php?a=add&pid=433"
+      ]
+    },
+    "15.0": {
+      "n/a, no details": [
+        "https://softshellweb.com/client/cart.php?a=add&pid=88",
+        "https://manage.hostdare.com/cart.php?a=add&pid=49"
+      ]
+    },
+    "15.28": {
+      "Annually, n/a, 1GB, n/a, NVME": [
+        "https://billing.visualwebtechnologies.com/cart.php?a=add&pid=418"
+      ]
+    },
+    "15.92": {
+      "n/a, no details, n/a": [
+        "https://liveinhost.com/cs/cart.php?pid=1&a=add&currency=1&billingcycle=monthly",
+        "https://liveinhost.com/cs/cart.php?pid=3&a=add&currency=1&billingcycle=monthly",
+        "https://www.liveinhost.com/cs/cart.php?pid=5&a=add&currency=1&billingcycle=monthly"
+      ]
+    },
+    "18.0": {
+      "n/a, no details, n/a": [
+        "https://billing.hostens.com/?cmd=cart&action=add&id=266&cycle=a",
+        "https://billing.hostens.com/?cmd=cart&action=add&id=266&cycle=a?utmsource=forum&utmmedium=offer"
+      ],
+      "Monthly, n/a, 40GB, n/a, n/a": [
+        "https://www.ikihost.com/member/cart.php?a=add&pid=22"
+      ],
+      "n/a, n/a, 50GB, n/a, SSD": [
+        "https://my.racknerd.com/cart.php?a=add&pid=243"
+      ]
+    },
+    "20.0": {
+      "Annually, n/a, 1000MB, n/a, n/a": [
+        "https://billing.ethwebs.net/cart.php?a=add&pid=23"
+      ],
+      "Annually, n/a, 1 GB, n/a, n/a": [
+        "https://billing.visualwebtechnologies.com/cart.php?a=add&pid=413"
+      ],
+      "Monthly, no details, n/a": [
+        "https://my.spearwarenetworks.com/cart.php?a=add&pid=8"
+      ]
+    },
+    "22.0": {
+      "n/a, n/a, 120 GB SSD, 2 TB Monthly Bandwidth": [
+        "https://svenhost.com/portal/cart.php?a=add&pid=6&billingcycle=annually&promocode=LET50M",
+        "https://svenhost.com/portal/cart.php?a=add&pid=6&billingcycle=quarterly&promocode=LET50M",
+        "https://svenhost.com/portal/cart.php?a=add&pid=6&billingcycle=semiannually&promocode=LET50M"
+      ]
+    },
+    "23.88": {
+      "Monthly, no details, n/a": [
+        "https://www.obhost.net/cart.php?a=add&pid=134"
+      ]
+    },
+    "26.8": {
+      "Annually, n/a, 5GB, n/a, NVME": [
+        "https://billing.visualwebtechnologies.com/cart.php?a=add&pid=419"
+      ]
+    },
+    "27.99": {
+      "n/a, n/a, 175 GB, n/a, SSD": [
+        "https://my.racknerd.com/cart.php?a=add&pid=434"
+      ]
+    },
+    "29.99": {
+      "Annually, no details, n/a": [
+        "https://core.xinix.net/cart.php?a=add&pid=130&promocode=SHARED3G495"
+      ],
+      "n/a, no details, n/a": [
+        "https://core.xinix.net/cart.php?gid=77"
+      ]
+    },
+    "30.0": {
+      "Monthly, n/a, 50GB SSD, 600GB Bandwidth": [
+        "https://www.obhost.net/cart.php?a=add&pid=27&promocode=LETR"
+      ]
+    },
+    "35.99": {
+      "Annually, no details, n/a": [
+        "https://clients.resellways.com/cart.php?a=add&pid=2&promocode=Love4ResellWays",
+        "https://clients.resellways.com/cart.php?a=add&pid=2&promocode=RESELLWAYS50"
+      ]
+    },
+    "36.0": {
+      "n/a, no details, n/a": [
+        "https://billing.hostens.com/?cmd=cart&action=add&id=354&cycle=a&utmsource=forum&utmmedium=offer",
+        "https://billing.hostens.com/?cmd=cart&action=add&id=354&cycle=a?utmsource=forum&utmmedium=offer"
+      ]
+    },
+    "37.57": {
+      "Annually, n/a, 5 GB, n/a, SSD": [
+        "https://billing.visualwebtechnologies.com/cart.php?a=add&pid=414"
+      ]
+    },
+    "38.99": {
+      "Annually, n/a, 15GB, n/a, NVME": [
+        "https://billing.visualwebtechnologies.com/cart.php?a=add&pid=420"
+      ]
+    },
+    "48.0": {
+      "n/a, no details": [
+        "https://my.tecria.com/cart.php?a=add&pid=24"
+      ],
+      "Annually, n/a, 25GB, n/a, NVME": [
+        "https://billing.visualwebtechnologies.com/cart.php?a=add&pid=421"
+      ]
+    },
+    "49.99": {
+      "Annually, n/a, 25GB, n/a, NVME": [
+        "https://core.xinix.net/cart.php?a=add&pid=663"
+      ]
+    },
+    "54.06": {
+      "Annually, n/a, 15 GB, n/a, NVME": [
+        "https://billing.visualwebtechnologies.com/cart.php?a=add&pid=415"
+      ]
+    },
+    "59.99": {
+      "Annually, no details, n/a": [
+        "https://clients.resellways.com/cart.php?a=add&pid=3&promocode=Love4ResellWays"
+      ]
+    },
+    "63.35": {
+      "Annually, n/a, 25 GB, n/a, NVME": [
+        "https://billing.visualwebtechnologies.com/cart.php?a=add&pid=416"
+      ]
+    },
+    "67.0": {
+      "Monthly, n/a, 300GB SSD, 2000GB Bandwidth": [
+        "https://www.obhost.net/cart.php?a=add&pid=133"
+      ]
+    },
+    "69.99": {
+      "Annually, n/a, 50GB, n/a, NVME": [
+        "https://core.xinix.net/cart.php?a=add&pid=664"
+      ]
+    },
+    "72.51": {
+      "Annually, n/a, 50 GB, n/a, NVME": [
+        "https://billing.visualwebtechnologies.com/cart.php?a=add&pid=417"
+      ]
+    }
+  },
+  "EUR": {
+    "1.2": {
+      "n/a, no details, n/a": [
+        "https://my.xsl.tel/cart.php?a=add&pid=31&promocode=W05M7TFKYU"
+      ]
+    },
+    "2.24": {
+      "Monthly, no details, n/a": [
+        "https://clienthl.eu/cart.php?a=add&pid=36"
+      ]
+    },
+    "3.66": {
+      "n/a, n/a, 30 GB, n/a, SSD": [
+        "https://billportal.in/cart.php?a=add&pid=172&currency=3",
+        "https://billportal.in/cart.php?a=add&pid=172&currency=3&promocode=RE30OFF"
+      ]
+    },
+    "3.95": {
+      "n/a, n/a, 50 GB, n/a, n/a": [
+        "https://clients.hostslim.eu/cart.php?a=add&pid=1039&promocode=LETWebhosting"
+      ]
+    },
+    "4.0": {
+      "Monthly, no details, n/a": [
+        "https://clienthl.eu/cart.php?a=add&pid=37"
+      ]
+    },
+    "4.2": {
+      "n/a, no details": [
+        "https://turbohost.nl/cart.php?a=add&pid=13",
+        "https://turbohost.nl/cart.php?a=add&pid=14",
+        "https://turbohost.nl/cart.php?a=add&pid=17"
+      ]
+    },
+    "4.99": {
+      "n/a, no details, n/a": [
+        "http://pulsedmedia.com/clients/cart.php?a=add&pid=192&billingcycle=monthly&promocode=202003ronareliefvalue250"
+      ]
+    },
+    "5.0": {
+      "n/a, no details, n/a": [
+        "https://myw.pt/manager/cart.php?a=add&pid=8"
+      ]
+    },
+    "5.1": {
+      "n/a, n/a, 5 GB, n/a, n/a": [
+        "https://clients.hostslim.eu/cart.php?a=add&pid=1038&promocode=LETWebhostingstart"
+      ]
+    },
+    "6.0": {
+      "Monthly, no details, n/a": [
+        "https://clienthl.eu/cart.php?a=add&pid=38"
+      ]
+    },
+    "6.11": {
+      "n/a, n/a, 50 GB, n/a, SSD": [
+        "https://billportal.in/cart.php?a=add&pid=173&currency=3",
+        "https://billportal.in/cart.php?a=add&pid=173&currency=3&promocode=RE30OFF"
+      ]
+    },
+    "6.49": {
+      "n/a, no details, n/a": [
+        "http://pulsedmedia.com/clients/cart.php?a=add&pid=193&billingcycle=monthly&promocode=202003ronareliefvalue250"
+      ]
+    },
+    "6.99": {
+      "n/a, no details, n/a": [
+        "http://pulsedmedia.com/clients/cart.php?a=add&pid=228&billingcycle=monthly&promocode=202103let-v1000-15"
+      ]
+    },
+    "8.0": {
+      "Annually, no details, n/a": [
+        "https://viridweb.com/console/cart.php?a=add&pid=233"
+      ]
+    },
+    "8.87": {
+      "n/a, no details": [
+        "https://www.virtono.com/cart.php?a=add&pid=103",
+        "https://www.virtono.com/cart.php?a=add&pid=104",
+        "https://www.virtono.com/cart.php?a=add&pid=368",
+        "https://www.virtono.com/cart.php?a=add&pid=369",
+        "https://www.virtono.com/client-area/cart.php?a=add&pid=103",
+        "https://www.virtono.com/client-area/cart.php?a=add&pid=104"
+      ]
+    },
+    "9.99": {
+      "n/a, n/a, 2GB, n/a, SSD": [
+        "https://myw.pt/manager/cart.php?a=add&pid=187"
+      ],
+      "n/a, no details, n/a": [
+        "http://pulsedmedia.com/clients/cart.php?a=add&pid=229&billingcycle=monthly&promocode=202103let-v1000-15"
+      ]
+    },
+    "10.0": {
+      "n/a, no details, n/a": [
+        "https://myw.pt/manager/cart.php?a=add&pid=6",
+        "https://myw.pt/manager/cart.php?a=add&pid=9"
+      ]
+    },
+    "10.92": {
+      "n/a, KVM, 2048 MB RAM, 60 GB Storage, 5 TB Bandwidth": [
+        "https://www.hostnamaste.com/clients/cart.php?a=add&pid=50"
+      ]
+    },
+    "13.99": {
+      "n/a, no details, n/a": [
+        "http://pulsedmedia.com/clients/cart.php?a=add&pid=230&billingcycle=monthly&promocode=202103let-v1000-15",
+        "http://pulsedmedia.com/clients/cart.php?a=add&pid=230&billingcycle=monthly&promocode=202103let-v1000m-50"
+      ]
+    },
+    "16.99": {
+      "n/a, no details, n/a": [
+        "http://pulsedmedia.com/clients/cart.php?a=add&pid=231&billingcycle=monthly&promocode=202103let-v1000-15"
+      ]
+    },
+    "20.0": {
+      "n/a, no details, n/a": [
+        "https://myw.pt/manager/cart.php?a=add&pid=7"
+      ]
+    },
+    "59.0": {
+      "Monthly, DEDICATED SERVER, 8 GB RAM, 1 TB HDD, 250 GB SSD": [
+        "https://clients.mivocloud.com/cart.php?a=add&pid=289"
+      ]
+    },
+    "80.0": {
+      "n/a, no details, n/a": [
+        "https://myw.pt/manager/cart.php?a=add&pid=194"
+      ]
+    },
+    "160.0": {
+      "n/a, no details, n/a": [
+        "https://myw.pt/manager/cart.php?a=add&pid=195"
+      ]
+    }
+  },
+  "GBP": {
+    "0.7": {
+      "n/a, n/a, 1Gb Storage, 256Mb memory": [
+        "https://zentorahosting.com/clients/cart.php?a=add&pid=9"
+      ]
+    },
+    "0.99": {
+      "Monthly, n/a, 1GB SSD, 1GB MEMORY": [
+        "https://clients.ho-ost.com/cart.php?a=add&pid=1",
+        "https://clients.ho-ost.com/cart.php?a=add&pid=1&currency=3"
+      ]
+    },
+    "1.49": {
+      "Monthly, n/a, 5GB SSD, 1GB MEMORY": [
+        "https://clients.ho-ost.com/cart.php?a=add&pid=110&currency=3"
+      ]
+    },
+    "1.99": {
+      "Monthly, n/a, 5GB, 5GB": [
+        "https://websound.co.uk/cart.php?a=add&pid=156&promocode=WEBUK1"
+      ],
+      "Monthly, n/a, 10GB SSD, 1GB MEMORY": [
+        "https://clients.ho-ost.com/cart.php?a=add&pid=107&currency=3",
+        "https://clients.ho-ost.com/cart.php?a=add&pid=2",
+        "https://clients.ho-ost.com/cart.php?a=add&pid=2&currency=3"
+      ],
+      "Monthly, n/a, 5 GB SSD, 5 GB NVMe": [
+        "https://hostbastic.com/whmcs/cart.php?a=add&pid=208&promocode=LET30OFF"
+      ]
+    },
+    "2.5": {
+      "n/a, n/a, 5 GB, n/a, n/a": [
+        "https://www.web-project.co.uk/clientarea/order.php?step=1&productGroup=5&product=1",
+        "https://www.web-project.co.uk/clientarea/order.php?step=1&productGroup=5&product=13",
+        "https://www.web-project.co.uk/clientarea/order.php?step=1&productGroup=5&product=2",
+        "https://www.web-project.co.uk/clientarea/order.php?step=1&productGroup=5&product=58"
+      ]
+    },
+    "2.99": {
+      "Monthly, n/a, 20 GB, n/a, NVME": [
+        "https://hostbastic.com/whmcs/cart.php?a=add&pid=175",
+        "https://hostbastic.com/whmcs/cart.php?a=add&pid=175&promocode=XMAS2018"
+      ],
+      "Monthly, n/a, 1 GB DDR4, 10 GB NVMe": [
+        "https://hostbastic.com/whmcs/cart.php?a=add&pid=181",
+        "https://hostbastic.com/whmcs/cart.php?a=add&pid=181&promocode=XMAS2018"
+      ],
+      "Monthly, n/a, 20 GB SSD, 20 GB NVMe": [
+        "https://hostbastic.com/whmcs/cart.php?a=add&pid=209&promocode=LET30OFF"
+      ]
+    },
+    "3.39": {
+      "Monthly, n/a, 15GB, 15GB": [
+        "https://websound.co.uk/cart.php?a=add&pid=157&promocode=WEB20"
+      ]
+    },
+    "3.99": {
+      "Monthly, n/a, 10 GB, n/a, SSD": [
+        "https://portal.hostworld.uk/cart.php?a=add&pid=2&promocode=60LETHOSTING"
+      ],
+      "Monthly, n/a, 40 GB, n/a, NVME": [
+        "https://hostbastic.com/whmcs/cart.php?a=add&pid=176",
+        "https://hostbastic.com/whmcs/cart.php?a=add&pid=176&promocode=XMAS2018"
+      ]
+    },
+    "4.99": {
+      "n/a, no details, n/a": [
+        "https://hostbastic.com/whmcs/cart.php?a=add&pid=150",
+        "https://hostbastic.com/whmcs/cart.php?a=add&pid=150&promocode=XMAS2018"
+      ],
+      "Monthly, n/a, 40 GB, n/a, NVME": [
+        "https://hostbastic.com/whmcs/cart.php?a=add&pid=177",
+        "https://hostbastic.com/whmcs/cart.php?a=add&pid=177&promocode=XMAS2018"
+      ],
+      "Monthly, n/a, 1 GB DDR4, 30 GB NVMe": [
+        "https://hostbastic.com/whmcs/cart.php?a=add&pid=183",
+        "https://hostbastic.com/whmcs/cart.php?a=add&pid=183&promocode=XMAS2018"
+      ],
+      "Monthly, n/a, 50 GB SSD, 50 GB NVMe": [
+        "https://hostbastic.com/whmcs/cart.php?a=add&pid=210&promocode=LET30OFF"
+      ]
+    },
+    "5.03": {
+      "n/a, no details": [
+        "https://www.swifthosting.com/portal/?cmd=cart&action=add&id=415&currency=1"
+      ]
+    },
+    "5.49": {
+      "Monthly, n/a, 25GB, 25GB": [
+        "https://websound.co.uk/cart.php?a=add&pid=158&promocode=WEB20"
+      ]
+    },
+    "6.49": {
+      "Monthly, n/a, 25GB, n/a, SSD": [
+        "https://clouveo.com/cart.php?a=add&pid=7&promocode=7WMT19CGYV",
+        "https://clouveo.com/cart.php?a=add&pid=7&promocode=Y76W1A4NDA"
+      ]
+    },
+    "6.99": {
+      "Monthly, n/a, 40 GB, n/a, SSD": [
+        "https://portal.hostworld.uk/cart.php?a=add&pid=4&promocode=60LETHOSTING"
+      ]
+    },
+    "7.99": {
+      "n/a, no details, n/a": [
+        "https://clients.ho-ost.com/cart.php?a=add&domain=register&currency=3"
+      ]
+    },
+    "8.88": {
+      "n/a, no details, n/a": [
+        "https://hostbastic.com/whmcs/cart.php?a=add&pid=312"
+      ]
+    },
+    "9.99": {
+      "n/a, no details, n/a": [
+        "https://hostbastic.com/whmcs/cart.php?a=add&pid=151",
+        "https://hostbastic.com/whmcs/cart.php?a=add&pid=151&promocode=XMAS2018"
+      ],
+      "Monthly, n/a, 100 GB, n/a, SSD": [
+        "https://portal.hostworld.uk/cart.php?a=add&pid=5&promocode=60LETHOSTING"
+      ],
+      "Monthly, n/a, 30 GB, n/a, SSD": [
+        "https://portal.hostworld.uk/cart.php?a=add&pid=6&promocode=50RESELLER"
+      ]
+    },
+    "10.0": {
+      "n/a, no details": [
+        "https://billing.web-project.uk/order/config/index/shared-hosting/?groupid=6&pricingid=116",
+        "https://billing.web-project.uk/order/config/index/shared-hosting/?groupid=6&pricingid=118",
+        "https://billing.web-project.uk/order/config/index/shared-hosting/?groupid=6&pricingid=119",
+        "https://billing.web-project.uk/order/config/index/shared-hosting/?groupid=6&pricingid=120",
+        "https://billing.web-project.uk/order/config/index/shared-hosting/?groupid=6&pricingid=122",
+        "https://billing.web-project.uk/order/config/index/shared-hosting/?groupid=6&pricingid=128",
+        "https://billing.web-project.uk/order/config/index/shared-hosting/?groupid=6&pricingid=130",
+        "https://billing.web-project.uk/order/config/index/shared-hosting/?groupid=6&pricingid=132"
+      ],
+      "Monthly, n/a, 15GB SSD, 1GB Memory": [
+        "https://clients.ho-ost.com/cart.php?a=add&pid=31",
+        "https://clients.ho-ost.com/cart.php?a=add&pid=31&currency=3"
+      ]
+    },
+    "11.99": {
+      "Monthly, n/a, 75GB, n/a, SSD": [
+        "https://clouveo.com/cart.php?a=add&pid=8&promocode=Y76W1A4NDA"
+      ]
+    },
+    "12.99": {
+      "Monthly, n/a, 25GB, 25GB": [
+        "https://websound.co.uk/cart.php?a=add&pid=160&promocode=RCGQ15U23V"
+      ]
+    },
+    "14.8": {
+      "n/a, no details, n/a": [
+        "https://hostbastic.com/whmcs/cart.php?a=add&pid=313"
+      ]
+    },
+    "14.99": {
+      "n/a, no details, n/a": [
+        "https://hostbastic.com/whmcs/cart.php?a=add&pid=152",
+        "https://hostbastic.com/whmcs/cart.php?a=add&pid=152&promocode=XMAS2018"
+      ]
+    },
+    "15.0": {
+      "n/a, no details": [
+        "https://billing.web-project.uk/order/config/index/shared-hosting/?groupid=6&pricingid=124"
+      ]
+    },
+    "17.9": {
+      "Annually, n/a, 5GB SSD, 1GB Memory": [
+        "https://clouveo.com/cart.php?a=add&pid=1&billingcycle=annually&promocode=ST1XYMMXD8"
+      ]
+    },
+    "19.9": {
+      "Annually, n/a, 5GB, 5GB": [
+        "https://websound.co.uk/cart.php?a=add&pid=156&billingcycle=annually&promocode=12DY6VIIYX",
+        "https://websound.co.uk/cart.php?a=add&pid=156&billingcycle=annually&promocode=LETM6",
+        "https://websound.co.uk/cart.php?a=add&pid=156&billingcycle=annually&promocode=OUIBN055AM"
+      ]
+    },
+    "20.0": {
+      "n/a, no details": [
+        "https://billing.web-project.uk/order/config/index/shared-hosting/?groupid=6&pricingid=125"
+      ]
+    },
+    "20.72": {
+      "n/a, no details, n/a": [
+        "https://hostbastic.com/whmcs/cart.php?a=add&pid=314"
+      ]
+    },
+    "25.0": {
+      "n/a, no details": [
+        "https://billing.web-project.uk/order/config/index/shared-hosting/?groupid=6&pricingid=126"
+      ]
+    },
+    "29.9": {
+      "Annually, n/a, 15GB SSD, 2GB Memory": [
+        "https://clouveo.com/cart.php?a=add&pid=2&billingcycle=annually&promocode=ST1XYMMXD8"
+      ]
+    },
+    "33.9": {
+      "Annually, n/a, 15GB, 15GB": [
+        "https://websound.co.uk/cart.php?a=add&pid=157&billingcycle=annually&promocode=JQQBR0SM12",
+        "https://websound.co.uk/cart.php?a=add&pid=157&billingcycle=annually&promocode=OUIBN055AM"
+      ]
+    },
+    "49.9": {
+      "Annually, n/a, 30GB SSD, 2GB Memory": [
+        "https://clouveo.com/cart.php?a=add&pid=3&billingcycle=annually&promocode=ST1XYMMXD8"
+      ]
+    },
+    "54.9": {
+      "Annually, n/a, 25GB, 25GB": [
+        "https://websound.co.uk/cart.php?a=add&pid=158&billingcycle=annually&promocode=OUIBN055AM"
+      ]
+    },
+    "84.9": {
+      "Annually, n/a, 50GB, 50GB": [
+        "https://websound.co.uk/cart.php?a=add&pid=159&billingcycle=annually&promocode=OUIBN055AM"
+      ]
+    }
+  },
+  "kr": {
+    "49.0": {
+      "n/a, n/a, 20GB, n/a, n/a": [
+        "https://customer.duelhost.dk/cart.php?a=add&pid=16&billingcycle=annually&language=English&promocode=20FOR30"
+      ]
+    }
+  }
+}
